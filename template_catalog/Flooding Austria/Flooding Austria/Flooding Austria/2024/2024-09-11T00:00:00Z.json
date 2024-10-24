@@ -54,7 +54,7 @@
       "href": "https://api.npoint.io/85c43058073e5051f880",
       "type": "text/cog-styles",
       "asset:keys": [
-        "AT"
+        "AT d2"
       ]
     },
     {
@@ -77,8 +77,8 @@
     }
   ],
   "assets": {
-    "AT": {
-      "href": "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/AT_2024_09_11_flooding_4564656_2742407_cog.tif",
+    "AT d2": {
+      "href": "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/AT_2024_09_d2_flooding_4564656_2742407_cog.tif",
       "type": "image/tiff",
       "eodash:proj4_def": {
         "name": "EPSG:3035",
