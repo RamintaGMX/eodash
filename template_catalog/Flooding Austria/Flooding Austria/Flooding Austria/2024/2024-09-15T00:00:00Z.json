@@ -69,13 +69,13 @@
       "rel": "collection",
       "href": "../../collection.json",
       "type": "application/json",
-      "title": "Flooding Austria"
+      "title": "Flooding Austria map"
     },
     {
       "rel": "parent",
       "href": "../../collection.json",
       "type": "application/json",
-      "title": "Flooding Austria"
+      "title": "Flooding Austria map"
     }
   ],
   "assets": {

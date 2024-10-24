@@ -14,7 +14,7 @@
       "rel": "child",
       "href": "./Flooding Austria/collection.json",
       "type": "application/json",
-      "title": "Flooding Austria",
+      "title": "Flooding Austria map",
       "code": "flooding_capability_aut",
       "id": "Flooding Austria",
       "subcode": "flooding_capability_aut",
