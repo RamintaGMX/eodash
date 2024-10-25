@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "Flooding Lithuania",
   "stac_version": "1.0.0",
-  "description": "",
+  "description": "../SAR_SOIL_MOISTURE.md",
   "links": [
     {
       "rel": "root",
