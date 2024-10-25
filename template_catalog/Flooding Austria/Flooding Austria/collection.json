@@ -31,7 +31,7 @@
       "rel": "parent",
       "href": "../collection.json",
       "type": "application/json",
-      "title": "Flooding Austria map"
+      "title": "Flooding Austria"
     }
   ],
   "subcode": "flooding_capability_aut",
@@ -44,7 +44,7 @@
     "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
   },
   "endpointtype": "COG source",
-  "title": "Flooding Austria map",
+  "title": "Flooding Austria",
   "extent": {
     "spatial": {
       "bbox": [
