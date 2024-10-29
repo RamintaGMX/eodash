@@ -47,7 +47,7 @@
     },
     {
       "rel": "xyz",
-      "href": "https://server1.landimage.info/geoserver/gwc/service/wmts",
+      "href": "https://server1.landimage.info/geoserver/gwc/service/wmts/crs=EPSG:900913&dpiMode=7&format=image/png&layers=GTIFBaltic:master&styles=GTIFBaltic_master&tileMatrixSet=EPSG:900913&url=https://server1.landimage.info/geoserver/gwc/service/wmts",
       "type": "image/png",
       "title": "Overlay labels2",
       "roles": [
