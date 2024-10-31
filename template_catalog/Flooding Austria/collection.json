@@ -46,8 +46,8 @@
       "id": "overlay_bright"
     },
     {
-      "rel": "xyz",
-      "href": "//tiles.maps.eox.at/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png",
+      "rel": "HTTPS",
+      "href": "https://server1.landimage.info/geoserver/gwc/demo/GTIFBaltic:master?gridSet=EPSG:900913&format=image/png",
       "type": "image/png",
       "title": "Overlay labels2",
       "roles": [
