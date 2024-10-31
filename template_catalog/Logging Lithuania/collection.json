@@ -46,7 +46,7 @@
       "id": "overlay_bright"
     },
     {
-      "rel": "HTTPS",
+      "rel": "xyz",
       "href": "//server1.landimage.info/geoserver/gwc/demo/GTIFBaltic:master?gridSet=EPSG:900913&format=image/png",
       "type": "image/png",
       "title": "Overlay labels2",
