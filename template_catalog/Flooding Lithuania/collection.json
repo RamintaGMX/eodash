@@ -47,7 +47,7 @@
     },
     {
       "rel": "xyz",
-      "href": "//server1.landimage.info/geoserver/gwc/demo/GTIFBaltic:master?gridSet=EPSG:900913&format=image/png",
+      "href": "//https://server1.landimage.info/geoserver/gwc/demo/GTIFBaltic:master?gridSet=EPSG:900913&format=image/png&tileMatrix=EPSG:900913:5&tileX=10&tileY=15",
       "type": "image/png",
       "title": "Overlay labels2",
       "roles": [
