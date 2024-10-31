@@ -1,0 +1,92 @@
+{
+  "type": "Collection",
+  "id": "gm-master-test",
+  "stac_version": "1.0.0",
+  "description": "This can be **markdown** or a reference to a markdown file",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Baltics"
+    },
+    {
+      "rel": "item",
+      "href": "./gm-master-test/2018/2018-06-30T11:59:59Z.json",
+      "type": "application/json",
+      "datetime": "2018-06-30T11:59:59Z"
+    },
+    {
+      "rel": "item",
+      "href": "./gm-master-test/2019/2019-02-01T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2019-02-01T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./gm-master-test/2019/2019-10-05T11:59:59Z.json",
+      "type": "application/json",
+      "datetime": "2019-10-05T11:59:59Z"
+    },
+    {
+      "rel": "wms",
+      "href": "https://ogcpreview2.restecmap.com/examind/api/WS/wms/default",
+      "type": "image/jpeg",
+      "title": "gm-master-test",
+      "wms:layers": [
+        "NO2-TROPOMI-Cairo-Daily"
+      ],
+      "role": [
+        "data"
+      ]
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "gm-master-test"
+    }
+  ],
+  "themes": [
+    "example"
+  ],
+  "tags": [
+    "example tag"
+  ],
+  "agency": [
+    "Example agency"
+  ],
+  "subcode": "EX1",
+  "sensor": [
+    "Sensorname"
+  ],
+  "satellite": [
+    "Satellitename"
+  ],
+  "insituSources": [
+    "Other insitu data"
+  ],
+  "endpointtype": "WMS_Time",
+  "title": "gm-master-test",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          30,
+          29,
+          32,
+          31
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2018-06-30T11:59:59.500000Z",
+          "2019-10-05T11:59:59.500000Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}
