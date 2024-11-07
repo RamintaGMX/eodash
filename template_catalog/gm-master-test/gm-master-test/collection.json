@@ -20,11 +20,12 @@
       ],
       "role": [
         "data"
-      ]
+      ],
+      "wms:styles": "sagris_soil_moisture_q1"
     },
     {
       "rel": "item",
-      "href": "./gm-master-test/1970/dc7d8fd3-3868-47e8-90b3-aa2d32e1b06c.json",
+      "href": "./gm-master-test/1970/95619e86-6722-4d6a-9095-54931f2002cf.json",
       "type": "application/json"
     },
     {
@@ -59,17 +60,17 @@
     "spatial": {
       "bbox": [
         [
-          30,
-          29,
-          32,
-          31
+          -180.0,
+          -90.0,
+          180.0,
+          90.0
         ]
       ]
     },
     "temporal": {
       "interval": [
         [
-          "2024-11-07T14:28:41.358606Z",
+          "2024-11-07T14:34:22.172645Z",
           null
         ]
       ]
