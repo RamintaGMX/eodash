@@ -25,7 +25,7 @@
     },
     {
       "rel": "item",
-      "href": "./gm-master-test/1970/95619e86-6722-4d6a-9095-54931f2002cf.json",
+      "href": "./gm-master-test/1970/b05170d0-d7c1-48f1-a814-5a381ee23b2d.json",
       "type": "application/json"
     },
     {
@@ -54,7 +54,7 @@
   "insituSources": [
     "Other insitu data"
   ],
-  "endpointtype": "WMS_Time",
+  "endpointtype": "WMS",
   "title": "gm-master-test",
   "extent": {
     "spatial": {
@@ -70,7 +70,7 @@
     "temporal": {
       "interval": [
         [
-          "2024-11-07T14:34:22.172645Z",
+          "2024-11-07T14:40:40.942546Z",
           null
         ]
       ]
