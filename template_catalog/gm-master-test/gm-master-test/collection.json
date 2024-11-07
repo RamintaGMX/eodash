@@ -25,7 +25,7 @@
     },
     {
       "rel": "item",
-      "href": "./gm-master-test/1970/71bf10c4-e551-4cb4-8977-e0fd23e81e9d.json",
+      "href": "./gm-master-test/1970/1da12b7d-c883-40a0-83ac-125e72a22ff9.json",
       "type": "application/json"
     },
     {
@@ -60,17 +60,17 @@
     "spatial": {
       "bbox": [
         [
-          -180.0,
-          -90.0,
-          180.0,
-          90.0
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
         ]
       ]
     },
     "temporal": {
       "interval": [
         [
-          "2024-11-07T15:26:09.331269Z",
+          "2024-11-07T15:32:06.990813Z",
           null
         ]
       ]
