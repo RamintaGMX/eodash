@@ -25,7 +25,7 @@
     },
     {
       "rel": "item",
-      "href": "./gm-master-test/1970/3affb459-585c-416d-948a-731323ba81c0.json",
+      "href": "./gm-master-test/1970/6cdc1cb2-65eb-44ba-94ce-e987640761be.json",
       "type": "application/json"
     },
     {
@@ -35,7 +35,7 @@
       "title": "gm-master-test"
     }
   ],
-  "subcode": "EX1",
+  "subcode": "gm-master-test",
   "eodash:mapProjection": {
     "name": "EPSG:3035",
     "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
@@ -56,7 +56,7 @@
     "temporal": {
       "interval": [
         [
-          "2024-11-07T15:39:54.676239Z",
+          "2024-11-07T15:40:35.656324Z",
           null
         ]
       ]

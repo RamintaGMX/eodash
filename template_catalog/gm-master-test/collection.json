@@ -16,9 +16,9 @@
       "type": "application/json",
       "title": "gm-master-test",
       "endpointtype": "WMS",
-      "code": "EX1",
+      "code": "gm-master-test",
       "id": "gm-master-test",
-      "subcode": "EX1",
+      "subcode": "gm-master-test",
       "eodash:mapProjection": {
         "name": "EPSG:3035",
         "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
@@ -52,7 +52,7 @@
       "title": "GTIF Baltics"
     }
   ],
-  "subcode": "EX1",
+  "subcode": "gm-master-test",
   "eodash:mapProjection": {
     "name": "EPSG:3035",
     "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
@@ -79,7 +79,7 @@
       "interval": [
         [
           "1970-01-01T00:00:00Z",
-          "2024-11-07T15:39:55.693339Z"
+          "2024-11-07T15:40:36.949981Z"
         ]
       ]
     }
@@ -87,7 +87,7 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "EX1"
+      "gm-master-test"
     ]
   }
 }
