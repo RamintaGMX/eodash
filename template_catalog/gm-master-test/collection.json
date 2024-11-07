@@ -60,17 +60,6 @@
       "id": "overlay_bright"
     },
     {
-      "rel": "xyz",
-      "href": "//https://server1.landimage.info/geoserver/gwc/demo/GTIFBaltic:master?gridSet=EPSG:900913&format=image/png&tileMatrix=EPSG:900913:5&tileX=10&tileY=15",
-      "type": "image/png",
-      "title": "Overlay labels2",
-      "roles": [
-        "overlay",
-        "visible"
-      ],
-      "id": "overlay_bright2"
-    },
-    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",
@@ -118,7 +107,7 @@
       "interval": [
         [
           "1970-01-01T00:00:00Z",
-          "2024-11-07T14:40:41.998716Z"
+          "2024-11-07T14:46:59.513071Z"
         ]
       ]
     }

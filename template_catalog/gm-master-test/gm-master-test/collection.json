@@ -25,7 +25,7 @@
     },
     {
       "rel": "item",
-      "href": "./gm-master-test/1970/b05170d0-d7c1-48f1-a814-5a381ee23b2d.json",
+      "href": "./gm-master-test/1970/9859962f-da44-46cc-80f3-ec91bb262dcc.json",
       "type": "application/json"
     },
     {
@@ -70,7 +70,7 @@
     "temporal": {
       "interval": [
         [
-          "2024-11-07T14:40:40.942546Z",
+          "2024-11-07T14:46:58.087030Z",
           null
         ]
       ]
