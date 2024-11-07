@@ -12,7 +12,7 @@
     },
     {
       "rel": "wms",
-      "href": "https://server1.landimage.info/geoserver/wms",
+      "href": "https://server1.landimage.info/geoserver/ows?service=wms&version=1.3.0&styles=sagris_soil_moisture_q1&tiled=true",
       "type": "image/jpeg",
       "title": "gm-master-test",
       "wms:layers": [
@@ -25,7 +25,7 @@
     },
     {
       "rel": "item",
-      "href": "./gm-master-test/1970/8897c219-a406-4261-9c2c-750b64342e67.json",
+      "href": "./gm-master-test/1970/5449fa4a-10d3-4b32-beef-b2687606eded.json",
       "type": "application/json"
     },
     {
@@ -70,7 +70,7 @@
     "temporal": {
       "interval": [
         [
-          "2024-11-07T14:50:58.213089Z",
+          "2024-11-07T14:54:48.124102Z",
           null
         ]
       ]
