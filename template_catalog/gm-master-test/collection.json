@@ -55,7 +55,7 @@
       "title": "Overlay labels",
       "roles": [
         "overlay",
-        "invisible"
+        "visible"
       ],
       "id": "overlay_bright"
     },
@@ -107,7 +107,7 @@
       "interval": [
         [
           "1970-01-01T00:00:00Z",
-          "2024-11-07T14:46:59.513071Z"
+          "2024-11-07T14:50:59.009659Z"
         ]
       ]
     }

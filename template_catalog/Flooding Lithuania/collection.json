@@ -41,7 +41,7 @@
       "title": "Overlay labels",
       "roles": [
         "overlay",
-        "invisible"
+        "visible"
       ],
       "id": "overlay_bright"
     },
