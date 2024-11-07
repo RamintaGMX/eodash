@@ -12,7 +12,7 @@
     },
     {
       "rel": "wms",
-      "href": "https://server1.landimage.info/geoserver/ows?service=wms&version=1.3.0&crs=EPSG:900913&styles=sagris_soil_moisture_q1&tiled=true",
+      "href": "https://server1.landimage.info/geoserver/wms/",
       "type": "image/jpeg",
       "title": "gm-master-test",
       "wms:layers": [
@@ -25,7 +25,7 @@
     },
     {
       "rel": "item",
-      "href": "./gm-master-test/1970/c4000943-8d40-4a67-b832-95c5f247cf57.json",
+      "href": "./gm-master-test/1970/3affb459-585c-416d-948a-731323ba81c0.json",
       "type": "application/json"
     },
     {
@@ -35,25 +35,7 @@
       "title": "gm-master-test"
     }
   ],
-  "themes": [
-    "example"
-  ],
-  "tags": [
-    "example tag"
-  ],
-  "agency": [
-    "Example agency"
-  ],
   "subcode": "EX1",
-  "sensor": [
-    "Sensorname"
-  ],
-  "satellite": [
-    "Satellitename"
-  ],
-  "insituSources": [
-    "Other insitu data"
-  ],
   "eodash:mapProjection": {
     "name": "EPSG:3035",
     "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
@@ -74,7 +56,7 @@
     "temporal": {
       "interval": [
         [
-          "2024-11-07T15:36:59.823102Z",
+          "2024-11-07T15:39:54.676239Z",
           null
         ]
       ]
