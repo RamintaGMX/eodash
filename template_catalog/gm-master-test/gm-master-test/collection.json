@@ -25,7 +25,7 @@
     },
     {
       "rel": "item",
-      "href": "./gm-master-test/1970/1da12b7d-c883-40a0-83ac-125e72a22ff9.json",
+      "href": "./gm-master-test/1970/c4000943-8d40-4a67-b832-95c5f247cf57.json",
       "type": "application/json"
     },
     {
@@ -54,6 +54,10 @@
   "insituSources": [
     "Other insitu data"
   ],
+  "eodash:mapProjection": {
+    "name": "EPSG:3035",
+    "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
+  },
   "endpointtype": "WMS",
   "title": "gm-master-test",
   "extent": {
@@ -70,7 +74,7 @@
     "temporal": {
       "interval": [
         [
-          "2024-11-07T15:32:06.990813Z",
+          "2024-11-07T15:36:59.823102Z",
           null
         ]
       ]

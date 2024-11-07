@@ -36,7 +36,11 @@
       ],
       "insituSources": [
         "Other insitu data"
-      ]
+      ],
+      "eodash:mapProjection": {
+        "name": "EPSG:3035",
+        "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
+      }
     },
     {
       "rel": "xyz",
@@ -85,6 +89,10 @@
   "insituSources": [
     "Other insitu data"
   ],
+  "eodash:mapProjection": {
+    "name": "EPSG:3035",
+    "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
+  },
   "title": "gm-master-test",
   "extent": {
     "spatial": {
@@ -107,7 +115,7 @@
       "interval": [
         [
           "1970-01-01T00:00:00Z",
-          "2024-11-07T15:32:08.405289Z"
+          "2024-11-07T15:37:00.556993Z"
         ]
       ]
     }
