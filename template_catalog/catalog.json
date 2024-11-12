@@ -64,33 +64,6 @@
     },
     {
       "rel": "child",
-      "href": "./gm-master-test/collection.json",
-      "type": "application/json",
-      "title": "gm-master-test",
-      "code": "EX1",
-      "id": "gm-master-test",
-      "themes": [
-        "example"
-      ],
-      "subcode": "EX1",
-      "satellite": [
-        "Satellitename"
-      ],
-      "sensor": [
-        "Sensorname"
-      ],
-      "tags": [
-        "example tag"
-      ],
-      "agency": [
-        "Example agency"
-      ],
-      "insituSources": [
-        "Other insitu data"
-      ]
-    },
-    {
-      "rel": "child",
       "href": "./parcels_lt/collection.json",
       "type": "application/json",
       "title": "parcels_lt",
