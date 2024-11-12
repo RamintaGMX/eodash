@@ -16,7 +16,7 @@
       "type": "application/json",
       "title": "parcels_lt",
       "endpointtype": "WMS_OverwriteTimes",
-      "code": "EX1",
+      "code": "parcels_lt",
       "id": "parcels_lt",
       "themes": [
         "example"
@@ -27,7 +27,7 @@
       "agency": [
         "Example agency"
       ],
-      "subcode": "EX1",
+      "subcode": "parcels_lt",
       "sensor": [
         "Sensorname"
       ],
@@ -75,7 +75,7 @@
   "agency": [
     "Example agency"
   ],
-  "subcode": "EX1",
+  "subcode": "parcels_lt",
   "sensor": [
     "Sensorname"
   ],
@@ -115,7 +115,7 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "EX1"
+      "parcels_lt"
     ],
     "themes": [
       "example"

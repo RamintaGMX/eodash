@@ -67,12 +67,12 @@
       "href": "./parcels_lt/collection.json",
       "type": "application/json",
       "title": "parcels_lt",
-      "code": "EX1",
+      "code": "parcels_lt",
       "id": "parcels_lt",
       "themes": [
         "example"
       ],
-      "subcode": "EX1",
+      "subcode": "parcels_lt",
       "satellite": [
         "Satellitename"
       ],
