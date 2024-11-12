@@ -11,9 +11,15 @@
       "title": "GTIF Baltics"
     },
     {
+      "rel": "item",
+      "href": "./gm-master-test/2024/2024-04-01T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-01T00:00:00Z"
+    },
+    {
       "rel": "wms",
-      "href": "https://server1.landimage.info/geoserver/wms",
-      "type": "image/jpeg",
+      "href": "https://server1.landimage.info/geoserver/gwc/service/wms",
+      "type": "image/png",
       "title": "gm-master-test",
       "wms:layers": [
         "GTIFBaltic:LIT_2024_SM_m04_q1_q2_q3"
@@ -21,12 +27,12 @@
       "role": [
         "data"
       ],
-      "wms:styles": "sagris_soil_moisture_q1"
-    },
-    {
-      "rel": "item",
-      "href": "./gm-master-test/1970/d44814a2-5a2c-4695-b881-db9a26a866ee.json",
-      "type": "application/json"
+      "wms:styles": [
+        "sagris_soil_moisture_q1"
+      ],
+      "wms:tilesize": 256,
+      "wms:version": "1.1.1",
+      "proj:epsg": 3857
     },
     {
       "rel": "parent",
@@ -35,12 +41,27 @@
       "title": "gm-master-test"
     }
   ],
-  "subcode": "gm-master-test",
-  "eodash:mapProjection": {
-    "name": "EPSG:3035",
-    "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
-  },
-  "endpointtype": "WMS",
+  "themes": [
+    "example"
+  ],
+  "tags": [
+    "example tag"
+  ],
+  "agency": [
+    "Example agency"
+  ],
+  "subcode": "EX1",
+  "sensor": [
+    "Sensorname"
+  ],
+  "satellite": [
+    "Satellitename"
+  ],
+  "insituSources": [
+    "Other insitu data"
+  ],
+  "proj:epsg": 3857,
+  "endpointtype": "WMS_OverwriteTimes",
   "title": "gm-master-test",
   "extent": {
     "spatial": {
@@ -56,8 +77,8 @@
     "temporal": {
       "interval": [
         [
-          "2024-11-07T15:53:52.807239Z",
-          null
+          "2024-04-01T00:00:00Z",
+          "2024-04-01T00:00:00Z"
         ]
       ]
     }
