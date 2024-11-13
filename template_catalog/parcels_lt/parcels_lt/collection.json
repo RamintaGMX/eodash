@@ -12,30 +12,6 @@
     },
     {
       "rel": "item",
-      "href": "./parcels_sm_wmts_lt_q1/2024/2024-04-01T00:00:00Z.json",
-      "type": "application/json",
-      "datetime": "2024-04-01T00:00:00Z"
-    },
-    {
-      "rel": "wms",
-      "href": "https://server1.landimage.info/geoserver/gwc/service/wms",
-      "type": "image/png",
-      "title": "parcels_sm_wmts_lt_q1",
-      "wms:layers": [
-        "GTIFBaltic:LIT_2024_SM_m04_q1_q2_q3"
-      ],
-      "role": [
-        "data"
-      ],
-      "wms:styles": [
-        "sagris_soil_moisture_q1"
-      ],
-      "wms:tilesize": 256,
-      "wms:version": "1.1.1",
-      "proj:epsg": 3857
-    },
-    {
-      "rel": "item",
       "href": "./parcels_sm_wmts_lt_q2/2024/2024-04-01T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-04-01T00:00:00Z"
@@ -53,6 +29,30 @@
       ],
       "wms:styles": [
         "sagris_soil_moisture_q2"
+      ],
+      "wms:tilesize": 256,
+      "wms:version": "1.1.1",
+      "proj:epsg": 3857
+    },
+    {
+      "rel": "item",
+      "href": "./parcels_sm_wmts_lt_q1/2024/2024-04-01T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-01T00:00:00Z"
+    },
+    {
+      "rel": "wms",
+      "href": "https://server1.landimage.info/geoserver/gwc/service/wms",
+      "type": "image/png",
+      "title": "parcels_sm_wmts_lt_q1",
+      "wms:layers": [
+        "GTIFBaltic:LIT_2024_SM_m04_q1_q2_q3"
+      ],
+      "role": [
+        "data"
+      ],
+      "wms:styles": [
+        "sagris_soil_moisture_q1"
       ],
       "wms:tilesize": 256,
       "wms:version": "1.1.1",
