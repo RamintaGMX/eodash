@@ -10,7 +10,5 @@ collections:
   - gm-flooding
   - gm-lodging
   - gm-logging
-Subcollections:
-  - Identifier: parcels_sm_wmts_lt_q2
-    Collection: gm-flooding
+
 
