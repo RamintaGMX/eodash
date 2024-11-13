@@ -1,61 +1,35 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "stac_extensions": [],
-  "id": "2024-04-01T00:00:00Z",
-  "geometry": {
-    "type": "FeatureCollection",
-    "features": [
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
-            [
-              [
-                22.64524,
-                54.94676
-              ],
-              [
-                23.02416,
-                54.94676
-              ],
-              [
-                23.02416,
-                55.30585
-              ],
-              [
-                22.64524,
-                55.30585
-              ],
-              [
-                22.64524,
-                54.94676
-              ]
-            ]
-          ]
-        },
-        "properties": {}
-      }
-    ]
-  },
-  "bbox": [
-    22.64524,
-    54.94676,
-    23.02416,
-    55.30585
+  "stac_extensions": [
+    "https://stac-extensions.github.io/web-map-links/v1.1.0/schema.json"
   ],
+  "id": "2024-04-01T00:00:00Z",
+  "geometry": null,
   "properties": {
     "datetime": "2024-04-01T00:00:00Z"
   },
   "links": [
     {
-      "rel": "style",
-      "href": "https://api.npoint.io/fb08ee1771db057e35c5",
-      "type": "text/cog-styles",
-      "asset:keys": [
-        "LIT d1"
-      ]
+      "rel": "wms",
+      "href": "https://server1.landimage.info/geoserver/gwc/service/wms",
+      "type": "image/png",
+      "title": "Flooding Lithuania",
+      "wms:layers": [
+        "GTIFBaltic:LIT_2024_SM_m04_q1_q2_q3"
+      ],
+      "role": [
+        "data"
+      ],
+      "wms:dimensions": {
+        "TIME": "2024-04-01T00:00:00Z"
+      },
+      "wms:styles": [
+        "sagris_soil_moisture_q1"
+      ],
+      "wms:tilesize": 256,
+      "wms:version": "1.1.1",
+      "proj:epsg": 3857
     },
     {
       "rel": "root",
@@ -76,22 +50,7 @@
       "title": "Flooding Lithuania"
     }
   ],
-  "assets": {
-    "LIT d1": {
-      "href": "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d1_flooding_5125000_3625000_cog.tif",
-      "type": "image/tiff",
-      "eodash:proj4_def": {
-        "name": "EPSG:3035",
-        "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
-      },
-      "roles": [
-        "data"
-      ]
-    }
-  },
+  "assets": {},
   "collection": "Flooding Lithuania",
-  "eodash:proj4_def": {
-    "name": "EPSG:3035",
-    "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
-  }
+  "proj:epsg": 3857
 }
