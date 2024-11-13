@@ -25,16 +25,8 @@ Resources:
     DataProjection:
       name: 'EPSG:3035'
       def: '+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs'
-Resources:
-  - EndPoint: https://server1.landimage.info/geoserver/gwc/service/wms
-    DataProjection: 3857
-    Name: WMS
-    Type: OverwriteTimes
-    MediaType: image/png
-    Styles: ["sagris_soil_moisture_q1"]
-    LayerId: GTIFBaltic:LIT_2024_SM_m04_q1_q2_q3
-    OverwriteBBox: [22.64524,54.94676,23.02416,55.30585]
-    TileSize: 256
-    Version: "1.1.1"
-    Times:
-      - '2024-04-01'
+Subcollections:
+  - Identifier: parcels_sm_wmts_lt_q1
+    Collection: gm-flooding
+  - Identifier: parcels_sm_wmts_lt_q2
+    Collection: gm-flooding
