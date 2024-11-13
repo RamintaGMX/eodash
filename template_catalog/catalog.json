@@ -63,6 +63,34 @@
       }
     },
     {
+      "rel": "child",
+      "href": "./parcels_lt/collection.json",
+      "type": "application/json",
+      "title": "parcels_lt",
+      "code": "parcels_lt",
+      "id": "parcels_lt",
+      "themes": [
+        "example"
+      ],
+      "subcode": "parcels_lt",
+      "satellite": [
+        "Satellitename"
+      ],
+      "sensor": [
+        "Sensorname"
+      ],
+      "locations": true,
+      "tags": [
+        "example tag"
+      ],
+      "agency": [
+        "Example agency"
+      ],
+      "insituSources": [
+        "Other insitu data"
+      ]
+    },
+    {
       "rel": "self",
       "href": "https://organization.github.io/repository/repository/catalog.json",
       "type": "application/json"
