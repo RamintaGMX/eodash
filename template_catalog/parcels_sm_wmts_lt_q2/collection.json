@@ -1,6 +1,6 @@
 {
   "type": "Collection",
-  "id": "parcels_lt",
+  "id": "parcels_sm_wmts_lt_q2",
   "stac_version": "1.0.0",
   "description": "This can be **markdown** or a reference to a markdown file",
   "links": [
@@ -12,12 +12,12 @@
     },
     {
       "rel": "child",
-      "href": "./parcels_lt/collection.json",
+      "href": "./parcels_sm_wmts_lt_q2/collection.json",
       "type": "application/json",
-      "title": "parcels_lt",
+      "title": "parcels_sm_wmts_lt_q2",
       "endpointtype": "WMS_OverwriteTimes",
-      "code": "parcels_lt",
-      "id": "parcels_lt",
+      "code": "parcels_lt_q2",
+      "id": "parcels_sm_wmts_lt_q2",
       "themes": [
         "example"
       ],
@@ -27,7 +27,7 @@
       "agency": [
         "Example agency"
       ],
-      "subcode": "parcels_lt",
+      "subcode": "parcels_lt_q2",
       "sensor": [
         "Sensorname"
       ],
@@ -75,7 +75,7 @@
   "agency": [
     "Example agency"
   ],
-  "subcode": "parcels_lt",
+  "subcode": "parcels_lt_q2",
   "sensor": [
     "Sensorname"
   ],
@@ -85,7 +85,7 @@
   "insituSources": [
     "Other insitu data"
   ],
-  "title": "parcels_lt",
+  "title": "parcels_sm_wmts_lt_q2",
   "extent": {
     "spatial": {
       "bbox": [
@@ -115,7 +115,7 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "parcels_lt"
+      "parcels_lt_q2"
     ],
     "themes": [
       "example"

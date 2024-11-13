@@ -1,6 +1,6 @@
 {
   "type": "Collection",
-  "id": "parcels_lt",
+  "id": "parcels_sm_wmts_lt_q1",
   "stac_version": "1.0.0",
   "description": "This can be **markdown** or a reference to a markdown file",
   "links": [
@@ -12,7 +12,7 @@
     },
     {
       "rel": "item",
-      "href": "./parcels_lt/2024/2024-04-01T00:00:00Z.json",
+      "href": "./parcels_sm_wmts_lt_q1/2024/2024-04-01T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-04-01T00:00:00Z"
     },
@@ -20,7 +20,7 @@
       "rel": "wms",
       "href": "https://server1.landimage.info/geoserver/gwc/service/wms",
       "type": "image/png",
-      "title": "parcels_lt",
+      "title": "parcels_sm_wmts_lt_q1",
       "wms:layers": [
         "GTIFBaltic:LIT_2024_SM_m04_q1_q2_q3"
       ],
@@ -38,7 +38,7 @@
       "rel": "parent",
       "href": "../collection.json",
       "type": "application/json",
-      "title": "parcels_lt"
+      "title": "parcels_sm_wmts_lt_q1"
     }
   ],
   "themes": [
@@ -50,7 +50,7 @@
   "agency": [
     "Example agency"
   ],
-  "subcode": "parcels_lt",
+  "subcode": "parcels_lt_q1",
   "sensor": [
     "Sensorname"
   ],
@@ -62,7 +62,7 @@
   ],
   "proj:epsg": 3857,
   "endpointtype": "WMS_OverwriteTimes",
-  "title": "parcels_lt",
+  "title": "parcels_sm_wmts_lt_q1",
   "extent": {
     "spatial": {
       "bbox": [

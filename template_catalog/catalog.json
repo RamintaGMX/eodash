@@ -64,15 +64,42 @@
     },
     {
       "rel": "child",
-      "href": "./parcels_lt/collection.json",
+      "href": "./parcels_sm_wmts_lt_q1/collection.json",
       "type": "application/json",
-      "title": "parcels_lt",
-      "code": "parcels_lt",
-      "id": "parcels_lt",
+      "title": "parcels_sm_wmts_lt_q1",
+      "code": "parcels_lt_q1",
+      "id": "parcels_sm_wmts_lt_q1",
       "themes": [
         "example"
       ],
-      "subcode": "parcels_lt",
+      "subcode": "parcels_lt_q1",
+      "satellite": [
+        "Satellitename"
+      ],
+      "sensor": [
+        "Sensorname"
+      ],
+      "tags": [
+        "example tag"
+      ],
+      "agency": [
+        "Example agency"
+      ],
+      "insituSources": [
+        "Other insitu data"
+      ]
+    },
+    {
+      "rel": "child",
+      "href": "./parcels_sm_wmts_lt_q2/collection.json",
+      "type": "application/json",
+      "title": "parcels_sm_wmts_lt_q2",
+      "code": "parcels_lt_q2",
+      "id": "parcels_sm_wmts_lt_q2",
+      "themes": [
+        "example"
+      ],
+      "subcode": "parcels_lt_q2",
       "satellite": [
         "Satellitename"
       ],

@@ -14,7 +14,7 @@
       "rel": "wms",
       "href": "https://server1.landimage.info/geoserver/gwc/service/wms",
       "type": "image/png",
-      "title": "parcels_lt",
+      "title": "parcels_sm_wmts_lt_q1",
       "wms:layers": [
         "GTIFBaltic:LIT_2024_SM_m04_q1_q2_q3"
       ],
@@ -41,16 +41,16 @@
       "rel": "collection",
       "href": "../../collection.json",
       "type": "application/json",
-      "title": "parcels_lt"
+      "title": "parcels_sm_wmts_lt_q1"
     },
     {
       "rel": "parent",
       "href": "../../collection.json",
       "type": "application/json",
-      "title": "parcels_lt"
+      "title": "parcels_sm_wmts_lt_q1"
     }
   ],
   "assets": {},
-  "collection": "parcels_lt",
+  "collection": "parcels_sm_wmts_lt_q1",
   "proj:epsg": 3857
 }
