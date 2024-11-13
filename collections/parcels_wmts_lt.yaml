@@ -17,7 +17,7 @@ DataSource:
 Agency:
   - Example agency
 Subcollections:
-  - Identifier: parcels_sm_wmts_lt_q1
-    Collection: parcels_sm_wmts_lt_q1
   - Identifier: parcels_sm_wmts_lt_q2
     Collection: parcels_sm_wmts_lt_q2
+  - Identifier: parcels_sm_wmts_lt_q1
+    Collection: parcels_sm_wmts_lt_q1
