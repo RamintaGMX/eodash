@@ -52,7 +52,6 @@
       "title": "Flooding Lithuania"
     }
   ],
-  "locations": true,
   "subcode": "flooding_capability",
   "eodash:mapProjection": {
     "name": "EPSG:3035",
