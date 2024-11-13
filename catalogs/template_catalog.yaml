@@ -13,6 +13,4 @@ collections:
 Subcollections:
   - Identifier: parcels_sm_wmts_lt_q2
     Collection: gm-flooding
-  - Identifier: parcels_sm_wmts_lt_q2
-    Collection: gm-flooding
 
