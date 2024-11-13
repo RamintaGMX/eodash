@@ -14,6 +14,89 @@
       "rel": "item",
       "href": "./Flooding Lithuania/2024/2024-04-01T00:00:00Z.json",
       "type": "application/json",
+      "datetime": "2024-04-01T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d1_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Flooding Lithuania/2024/2024-04-11T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-11T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d2_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Flooding Lithuania/2024/2024-04-21T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-21T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d3_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "style",
+      "href": "https://api.npoint.io/fb08ee1771db057e35c5",
+      "type": "text/cog-styles",
+      "asset:keys": [
+        "LIT d3"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Flooding Lithuania/2024/2024-04-01T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-01T00:00:00Z"
+    },
+    {
+      "rel": "wms",
+      "href": "https://server1.landimage.info/geoserver/gwc/service/wms",
+      "type": "image/png",
+      "title": "Flooding Lithuania",
+      "wms:layers": [
+        "GTIFBaltic:LIT_2024_SM_m04_q1_q2_q3"
+      ],
+      "role": [
+        "data"
+      ],
+      "wms:styles": [
+        "sagris_soil_moisture_q1"
+      ],
+      "wms:tilesize": 256,
+      "wms:version": "1.1.1",
+      "proj:epsg": 3857
+    },
+    {
+      "rel": "item",
+      "href": "./Flooding Lithuania/2024/2024-04-01T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-01T00:00:00Z"
+    },
+    {
+      "rel": "wms",
+      "href": "https://server1.landimage.info/geoserver/gwc/service/wms",
+      "type": "image/png",
+      "title": "Flooding Lithuania",
+      "wms:layers": [
+        "GTIFBaltic:LIT_2024_SM_m04_q1_q2_q3"
+      ],
+      "role": [
+        "data"
+      ],
+      "wms:styles": [
+        "sagris_soil_moisture_q2"
+      ],
+      "wms:tilesize": 256,
+      "wms:version": "1.1.1",
+      "proj:epsg": 3857
+    },
+    {
+      "rel": "item",
+      "href": "./Flooding Lithuania/2024/2024-04-01T00:00:00Z.json",
+      "type": "application/json",
       "datetime": "2024-04-01T00:00:00Z"
     },
     {
@@ -46,8 +129,12 @@
     "name": "EPSG:3035",
     "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
   },
+  "eodash:proj4_def": {
+    "name": "EPSG:3035",
+    "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
+  },
+  "endpointtype": "COG source",
   "proj:epsg": 3857,
-  "endpointtype": "WMS_OverwriteTimes",
   "title": "Flooding Lithuania",
   "extent": {
     "spatial": {
@@ -64,7 +151,7 @@
       "interval": [
         [
           "2024-04-01T00:00:00Z",
-          "2024-04-01T00:00:00Z"
+          "2024-04-21T00:00:00Z"
         ]
       ]
     }

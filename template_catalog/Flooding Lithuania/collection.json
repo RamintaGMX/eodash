@@ -15,7 +15,7 @@
       "href": "./Flooding Lithuania/collection.json",
       "type": "application/json",
       "title": "Flooding Lithuania",
-      "endpointtype": "WMS_OverwriteTimes",
+      "endpointtype": "COG source",
       "code": "flooding_capability",
       "id": "Flooding Lithuania",
       "subcode": "flooding_capability",
@@ -79,7 +79,7 @@
       "interval": [
         [
           "2024-04-01T00:00:00Z",
-          "2024-04-01T00:00:00Z"
+          "2024-04-21T00:00:00Z"
         ]
       ]
     }
