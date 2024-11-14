@@ -14,7 +14,7 @@
       "rel": "child",
       "href": "./parcels_lt/collection.json",
       "type": "application/json",
-      "title": "parcels_lt",
+      "title": "SM parcels",
       "code": "parcels_lt",
       "id": "parcels_lt",
       "themes": [
@@ -88,7 +88,7 @@
   "insituSources": [
     "Other insitu data"
   ],
-  "title": "parcels_lt",
+  "title": "SM parcels",
   "extent": {
     "spatial": {
       "bbox": [

@@ -62,7 +62,7 @@
       "rel": "parent",
       "href": "../collection.json",
       "type": "application/json",
-      "title": "parcels_lt"
+      "title": "SM parcels"
     }
   ],
   "themes": [
@@ -85,7 +85,7 @@
   "insituSources": [
     "Other insitu data"
   ],
-  "title": "parcels_lt",
+  "title": "SM parcels",
   "extent": {
     "spatial": {
       "bbox": [
