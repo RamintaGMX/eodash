@@ -19,7 +19,7 @@
       "code": "EX1",
       "id": "parcels_lt",
       "themes": [
-        "water"
+        "Flooding"
       ],
       "tags": [
         "example tag"
@@ -67,7 +67,7 @@
     }
   ],
   "themes": [
-    "water"
+    "Flooding"
   ],
   "tags": [
     "example tag"
@@ -118,7 +118,7 @@
       "EX1"
     ],
     "themes": [
-      "water"
+      "Flooding"
     ],
     "satellite": [
       "Satellitename"
