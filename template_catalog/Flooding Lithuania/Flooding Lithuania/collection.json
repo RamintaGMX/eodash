@@ -12,29 +12,11 @@
     },
     {
       "rel": "item",
-      "href": "./Flooding Lithuania/2024/2024-04-01T00:00:00Z.json",
+      "href": "./Flooding Lithuania/2024/2024-04-03T00:00:00Z.json",
       "type": "application/json",
-      "datetime": "2024-04-01T00:00:00Z",
+      "datetime": "2024-04-03T00:00:00Z",
       "assets": [
         "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d1_flooding_5125000_3625000_cog.tif"
-      ]
-    },
-    {
-      "rel": "item",
-      "href": "./Flooding Lithuania/2024/2024-04-11T00:00:00Z.json",
-      "type": "application/json",
-      "datetime": "2024-04-11T00:00:00Z",
-      "assets": [
-        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d2_flooding_5125000_3625000_cog.tif"
-      ]
-    },
-    {
-      "rel": "item",
-      "href": "./Flooding Lithuania/2024/2024-04-21T00:00:00Z.json",
-      "type": "application/json",
-      "datetime": "2024-04-21T00:00:00Z",
-      "assets": [
-        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d3_flooding_5125000_3625000_cog.tif"
       ]
     },
     {
@@ -42,7 +24,7 @@
       "href": "https://api.npoint.io/fb08ee1771db057e35c5",
       "type": "text/cog-styles",
       "asset:keys": [
-        "LIT d3"
+        "LIT low"
       ]
     },
     {
@@ -77,8 +59,8 @@
     "temporal": {
       "interval": [
         [
-          "2024-04-01T00:00:00Z",
-          "2024-04-21T00:00:00Z"
+          "2024-04-03T00:00:00Z",
+          "2024-04-03T00:00:00Z"
         ]
       ]
     }
