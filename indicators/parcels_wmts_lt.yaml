@@ -4,6 +4,5 @@ EodashIdentifier: "parcels_wmts_lt"
 Description: ''
 Collections:
   - gm-flooding
-  - gm-lodging
-  - gm-logging
+  - gm-flooding-at
   - parcels_wmts_lt
