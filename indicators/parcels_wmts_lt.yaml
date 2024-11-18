@@ -1,8 +1,0 @@
-Name: "parcels_wmts_lt"
-Title: "parcels_wmts_lt"
-EodashIdentifier: "parcels_wmts_lt"
-Description: ''
-Collections:
-  - gm-flooding
-  - gm-flooding-at
-  - parcels_wmts_lt
