@@ -1,6 +1,8 @@
 Name: Lodging Lithuania
 Title: Lodging Lithuania
 EodashIdentifier: lodging_capability_lit
+Themes:
+  - forest
 Description: ""
 MapProjection:
   name: 'EPSG:3035'
