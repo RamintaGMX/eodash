@@ -11,9 +11,9 @@ Resources:
     Style: https://api.npoint.io/fb08ee1771db057e35c5
     TimeEntries:
       - Time: "20240403"
-      Assets:
-        - Identifier: "LIT low"
-          File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d1_flooding_5125000_3625000_cog.tif
+        Assets:
+          - Identifier: "LIT low"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d1_flooding_5125000_3625000_cog.tif
       #   Assets:
       #     - Identifier: "LIT d1"
       #       File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d1_flooding_5125000_3625000_cog.tif
