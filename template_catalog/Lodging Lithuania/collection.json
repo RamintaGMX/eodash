@@ -19,7 +19,7 @@
       "code": "lodging_capability_lit",
       "id": "Lodging Lithuania",
       "themes": [
-        "forest"
+        "Lodging"
       ],
       "subcode": "lodging_capability_lit",
       "eodash:mapProjection": {
@@ -56,7 +56,7 @@
     }
   ],
   "themes": [
-    "forest"
+    "Lodging"
   ],
   "subcode": "lodging_capability_lit",
   "eodash:mapProjection": {
@@ -96,7 +96,7 @@
       "lodging_capability_lit"
     ],
     "themes": [
-      "forest"
+      "Lodging"
     ]
   }
 }
