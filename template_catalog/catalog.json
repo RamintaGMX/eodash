@@ -28,11 +28,11 @@
     },
     {
       "rel": "child",
-      "href": "./Lithuania/collection.json",
+      "href": "./Flooding Lithuania/collection.json",
       "type": "application/json",
-      "title": "Flooding Lithuania",
+      "title": "Lithuania",
       "code": "flooding_capability",
-      "id": "Lithuania",
+      "id": "Flooding Lithuania",
       "themes": [
         "Flooding"
       ],
