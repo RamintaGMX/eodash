@@ -41,13 +41,13 @@
       "rel": "collection",
       "href": "../../collection.json",
       "type": "application/json",
-      "title": "Lithuania vector soil moisture high"
+      "title": "Lithuania 2024 April soil moisture high vector"
     },
     {
       "rel": "parent",
       "href": "../../collection.json",
       "type": "application/json",
-      "title": "Lithuania vector soil moisture high"
+      "title": "Lithuania 2024 April soil moisture high vector"
     }
   ],
   "assets": {},

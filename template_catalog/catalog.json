@@ -79,7 +79,7 @@
       "rel": "child",
       "href": "./parcels_lt/collection.json",
       "type": "application/json",
-      "title": "Lithuania vector soil moisture high",
+      "title": "Lithuania 2024 April soil moisture high vector",
       "code": "EX1",
       "id": "parcels_lt",
       "themes": [
