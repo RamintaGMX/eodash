@@ -1,7 +1,9 @@
-Name: parcels_wmts_lt
-Title: parcels_wmts_lt datasets
-EodashIdentifier: parcels_wmts_lt
+Name: "parcels_wmts_lt"
+Title: "parcels_wmts_lt"
+EodashIdentifier: "parcels_wmts_lt"
 Description: ''
 Collections:
-  - parcels_sm_wmts_lt_q1
-  - parcels_sm_wmts_lt_q2
+  - gm-flooding
+  - gm-lodging
+  - gm-logging
+  - parcels_wmts_lt
