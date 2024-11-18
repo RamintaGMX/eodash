@@ -41,13 +41,13 @@
       "rel": "collection",
       "href": "../../collection.json",
       "type": "application/json",
-      "title": "parcels_lt"
+      "title": "Lithuania vector soil moisture high"
     },
     {
       "rel": "parent",
       "href": "../../collection.json",
       "type": "application/json",
-      "title": "parcels_lt"
+      "title": "Lithuania vector soil moisture high"
     }
   ],
   "assets": {},

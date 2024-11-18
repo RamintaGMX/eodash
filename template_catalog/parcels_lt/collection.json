@@ -14,7 +14,7 @@
       "rel": "child",
       "href": "./parcels_lt/collection.json",
       "type": "application/json",
-      "title": "parcels_lt",
+      "title": "Lithuania vector soil moisture high",
       "endpointtype": "WMS_OverwriteTimes",
       "code": "EX1",
       "id": "parcels_lt",
@@ -85,7 +85,7 @@
   "insituSources": [
     "Other insitu data"
   ],
-  "title": "parcels_lt",
+  "title": "Lithuania vector soil moisture high",
   "extent": {
     "spatial": {
       "bbox": [

@@ -38,7 +38,7 @@
       "rel": "parent",
       "href": "../collection.json",
       "type": "application/json",
-      "title": "parcels_lt"
+      "title": "Lithuania vector soil moisture high"
     }
   ],
   "themes": [
@@ -62,7 +62,7 @@
   ],
   "proj:epsg": 3857,
   "endpointtype": "WMS_OverwriteTimes",
-  "title": "parcels_lt",
+  "title": "Lithuania vector soil moisture high",
   "extent": {
     "spatial": {
       "bbox": [

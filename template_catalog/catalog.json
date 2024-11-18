@@ -50,7 +50,8 @@
       "code": "lodging_capability_lit",
       "id": "Lodging Lithuania",
       "themes": [
-        "Lodging"
+        "Lodging",
+        2024
       ],
       "subcode": "lodging_capability_lit",
       "eodash:mapProjection": {
@@ -78,7 +79,7 @@
       "rel": "child",
       "href": "./parcels_lt/collection.json",
       "type": "application/json",
-      "title": "parcels_lt",
+      "title": "Lithuania vector soil moisture high",
       "code": "EX1",
       "id": "parcels_lt",
       "themes": [
