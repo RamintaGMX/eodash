@@ -1,64 +1,58 @@
 {
   "type": "Collection",
-  "id": "Flooding Lithuania",
+  "id": "Lithuania",
   "stac_version": "1.0.0",
   "description": "# SAR Soil Moisture Index\n\nSAR Soil Moisture Index was developed at Geomatrix UAB (Lithuania) for detection and mapping of\nhigh soil moisture in low-vegetation and bare soil areas \u2013 presumably, regular seasonal floods and\noccasional hazardous summer-time floods affecting agriculture. SAR Soil Moisture index is computed\nfrom analysis-ready Sentinel-1 polarimetry SAR data, produced by SAGRIS software toolbox as\ncalibrated, orthorectified, flattened and cloud-optimised 16-bit raster datasets. Methodology is based on\nSAR polarisation ratio, combined with direct classification of back-scatter signal values, which allows\ndetection of a wide range of flooding conditions \u2013 from highly saturated soils to temporary water bodies\nstanding is agriculture fields. Combination of different computation methods allows detection of\nexcessive water both on bare soil and under the coverage of crops, unless vegetation is too massive for the\nC-band radar signal to penetrate (e.g. woody vegetation, corn fields, etc.). \n\nSAR Soil Moisture index contains a combined set of polarisation ratios and coded values, which have the following practical\nmeanings:\n- 0\u20139: Low-to-moderate soil moisture (saturation), which poses no threat to heavy machinery, yet\npractical farming operations are likely to be disturbed when values reach above 5;\n- 10\u201350: High soil moisture (complete saturation) with water accumulating on soil surface below\nvegetation cover. Physical access to fields and routine farming activities are not possible;\n- 50\u2013100: Partial flooding of fields with vegetation partially submerged. This is a hazardous\ncondition, potentially causing a substantial loss of crops;\n- 100\u2013200: Complete flooding of fields with open water bodies and completely submerged\nvegetation. This is a force majeure condition, definitely causing a complete loss of crops and\ndisturbing further activities of the farming cycle, thus impacting the next year harvest.",
   "links": [
     {
       "rel": "root",
-      "href": "../../catalog.json",
+      "href": "../catalog.json",
       "type": "application/json",
       "title": "GTIF Baltics"
     },
     {
-      "rel": "item",
-      "href": "./Flooding Lithuania/2024/2024-04-03T00:00:00Z.json",
+      "rel": "child",
+      "href": "./Lithuania/collection.json",
       "type": "application/json",
-      "datetime": "2024-04-03T00:00:00Z",
-      "assets": [
-        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d1_flooding_5125000_3625000_cog.tif"
-      ]
+      "title": "Flooding Lithuania",
+      "endpointtype": "COG source",
+      "code": "flooding_capability",
+      "id": "Lithuania",
+      "themes": [
+        "Flooding"
+      ],
+      "subcode": "flooding_capability",
+      "eodash:mapProjection": {
+        "name": "EPSG:3035",
+        "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
+      }
     },
     {
-      "rel": "item",
-      "href": "./Flooding Lithuania/2024/2024-04-06T00:00:00Z.json",
-      "type": "application/json",
-      "datetime": "2024-04-06T00:00:00Z",
-      "assets": [
-        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d1_flooding_5125000_3625000_cog.tif"
-      ]
+      "rel": "xyz",
+      "href": "//tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2023_3857/default/g/{z}/{y}/{x}.jpeg",
+      "type": "image/jpeg",
+      "title": "EOxCloudless 2023",
+      "roles": [
+        "baselayer"
+      ],
+      "id": "cloudless-2023"
     },
     {
-      "rel": "item",
-      "href": "./Flooding Lithuania/2024/2024-04-11T00:00:00Z.json",
-      "type": "application/json",
-      "datetime": "2024-04-11T00:00:00Z",
-      "assets": [
-        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d2_flooding_5125000_3625000_cog.tif"
-      ]
-    },
-    {
-      "rel": "item",
-      "href": "./Flooding Lithuania/2024/2024-04-21T00:00:00Z.json",
-      "type": "application/json",
-      "datetime": "2024-04-21T00:00:00Z",
-      "assets": [
-        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d3_flooding_5125000_3625000_cog.tif"
-      ]
-    },
-    {
-      "rel": "style",
-      "href": "https://api.npoint.io/fb08ee1771db057e35c5",
-      "type": "text/cog-styles",
-      "asset:keys": [
-        "LIT d3"
-      ]
+      "rel": "xyz",
+      "href": "//tiles.maps.eox.at/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png",
+      "type": "image/png",
+      "title": "Overlay labels",
+      "roles": [
+        "overlay",
+        "visible"
+      ],
+      "id": "overlay_bright"
     },
     {
       "rel": "parent",
-      "href": "../collection.json",
+      "href": "../catalog.json",
       "type": "application/json",
-      "title": "Flooding Lithuania"
+      "title": "GTIF Baltics"
     }
   ],
   "themes": [
@@ -69,15 +63,16 @@
     "name": "EPSG:3035",
     "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
   },
-  "eodash:proj4_def": {
-    "name": "EPSG:3035",
-    "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
-  },
-  "endpointtype": "COG source",
   "title": "Flooding Lithuania",
   "extent": {
     "spatial": {
       "bbox": [
+        [
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
+        ],
         [
           22.64524,
           54.94676,
@@ -95,5 +90,13 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "summaries": {
+    "subcode": [
+      "flooding_capability"
+    ],
+    "themes": [
+      "Flooding"
+    ]
+  }
 }
