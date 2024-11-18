@@ -1,9 +1,9 @@
 Name: parcels_lt
-Title: SM parcels
-EodashIdentifier: parcels_lt
+Title: parcels_lt
+EodashIdentifier: EX1
 Description: This can be **markdown** or a reference to a markdown file
 Themes:
-  - Flooding
+  - water
 Tags:
   - example tag
 DataSource:
@@ -16,8 +16,16 @@ DataSource:
     - Other insitu data
 Agency:
   - Example agency
-Subcollections:
-  - Identifier: parcels_sm_wmts_lt_q2
-    Collection: parcels_sm_wmts_lt_q2
-  - Identifier: parcels_sm_wmts_lt_q1
-    Collection: parcels_sm_wmts_lt_q1
+Resources:
+  - EndPoint: https://server1.landimage.info/geoserver/gwc/service/wms
+    DataProjection: 3857
+    Name: WMS
+    Type: OverwriteTimes
+    MediaType: image/png
+    Styles: ["sagris_soil_moisture_q1"]
+    LayerId: GTIFBaltic:LIT_2024_SM_m04_q1_q2_q3
+    OverwriteBBox: [22.64524,54.94676,23.02416,55.30585]
+    TileSize: 256
+    Version: "1.1.1"
+    Times:
+      - '2024-04-01'
