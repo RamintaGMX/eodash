@@ -18,6 +18,9 @@
       "endpointtype": "COG source",
       "code": "flooding_capability",
       "id": "Flooding Lithuania",
+      "themes": [
+        "Flooding"
+      ],
       "subcode": "flooding_capability",
       "eodash:mapProjection": {
         "name": "EPSG:3035",
@@ -51,6 +54,9 @@
       "type": "application/json",
       "title": "GTIF Baltics"
     }
+  ],
+  "themes": [
+    "Flooding"
   ],
   "subcode": "flooding_capability",
   "eodash:mapProjection": {
@@ -88,6 +94,9 @@
   "summaries": {
     "subcode": [
       "flooding_capability"
+    ],
+    "themes": [
+      "Flooding"
     ]
   }
 }

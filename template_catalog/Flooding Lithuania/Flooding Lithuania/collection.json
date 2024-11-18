@@ -61,6 +61,9 @@
       "title": "Flooding Lithuania"
     }
   ],
+  "themes": [
+    "Flooding"
+  ],
   "subcode": "flooding_capability",
   "eodash:mapProjection": {
     "name": "EPSG:3035",
