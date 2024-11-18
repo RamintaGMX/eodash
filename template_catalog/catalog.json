@@ -17,6 +17,9 @@
       "title": "Flooding Austria",
       "code": "flooding_capability_aut",
       "id": "Flooding Austria",
+      "themes": [
+        "Flooding"
+      ],
       "subcode": "flooding_capability_aut",
       "eodash:mapProjection": {
         "name": "EPSG:3035",
