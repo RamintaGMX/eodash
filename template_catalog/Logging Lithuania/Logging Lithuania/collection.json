@@ -34,6 +34,9 @@
       "title": "Logging Lithuania"
     }
   ],
+  "themes": [
+    "Lodging"
+  ],
   "subcode": "logging_capability_lit",
   "eodash:mapProjection": {
     "name": "EPSG:3035",
