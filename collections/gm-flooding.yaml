@@ -2,11 +2,13 @@ Name: Flooding Lithuania
 Title: Flooding Lithuania
 EodashIdentifier: flooding_capability
 Description: "https://gist.githubusercontent.com/SonataGMX/760387f6a59988ec690c966a2876d6ba/raw/340048fd7811f31ea2e3660ceafab67aa9420879/sm_discription_gmx.md"
+Themes:
+  - Flooding
 MapProjection:
   name: 'EPSG:3035'
   def: '+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs'
 Resources:
-  - Name: COG source  
+  - Name: COG source
     Bbox: [22.64524,54.94676,23.02416,55.30585]
     Style: https://api.npoint.io/fb08ee1771db057e35c5
     TimeEntries:
