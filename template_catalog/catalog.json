@@ -76,33 +76,6 @@
       }
     },
     {
-      "rel": "child",
-      "href": "./parcels_lt/collection.json",
-      "type": "application/json",
-      "title": "Lithuania 2024 April soil moisture high vector",
-      "code": "EX1",
-      "id": "parcels_lt",
-      "themes": [
-        "Flooding"
-      ],
-      "subcode": "EX1",
-      "satellite": [
-        "Satellitename"
-      ],
-      "sensor": [
-        "Sensorname"
-      ],
-      "tags": [
-        "example tag"
-      ],
-      "agency": [
-        "Example agency"
-      ],
-      "insituSources": [
-        "Other insitu data"
-      ]
-    },
-    {
       "rel": "self",
       "href": "https://organization.github.io/repository/repository/catalog.json",
       "type": "application/json"
