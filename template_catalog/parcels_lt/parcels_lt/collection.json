@@ -12,7 +12,7 @@
     },
     {
       "rel": "item",
-      "href": "./parcels_sm_wmts_lt_q2/2024/2024-04-01T00:00:00Z.json",
+      "href": "./parcels_lt/2024/2024-04-01T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-04-01T00:00:00Z"
     },
@@ -20,31 +20,7 @@
       "rel": "wms",
       "href": "https://server1.landimage.info/geoserver/gwc/service/wms",
       "type": "image/png",
-      "title": "parcels_sm_wmts_lt_q2",
-      "wms:layers": [
-        "GTIFBaltic:LIT_2024_SM_m04_q1_q2_q3"
-      ],
-      "role": [
-        "data"
-      ],
-      "wms:styles": [
-        "sagris_soil_moisture_q2"
-      ],
-      "wms:tilesize": 256,
-      "wms:version": "1.1.1",
-      "proj:epsg": 3857
-    },
-    {
-      "rel": "item",
-      "href": "./parcels_sm_wmts_lt_q1/2024/2024-04-01T00:00:00Z.json",
-      "type": "application/json",
-      "datetime": "2024-04-01T00:00:00Z"
-    },
-    {
-      "rel": "wms",
-      "href": "https://server1.landimage.info/geoserver/gwc/service/wms",
-      "type": "image/png",
-      "title": "parcels_sm_wmts_lt_q1",
+      "title": "parcels_lt",
       "wms:layers": [
         "GTIFBaltic:LIT_2024_SM_m04_q1_q2_q3"
       ],
@@ -62,20 +38,19 @@
       "rel": "parent",
       "href": "../collection.json",
       "type": "application/json",
-      "title": "SM parcels"
+      "title": "parcels_lt"
     }
   ],
   "themes": [
-    "Flooding"
+    "water"
   ],
-  "locations": true,
   "tags": [
     "example tag"
   ],
   "agency": [
     "Example agency"
   ],
-  "subcode": "parcels_lt",
+  "subcode": "EX1",
   "sensor": [
     "Sensorname"
   ],
@@ -85,7 +60,9 @@
   "insituSources": [
     "Other insitu data"
   ],
-  "title": "SM parcels",
+  "proj:epsg": 3857,
+  "endpointtype": "WMS_OverwriteTimes",
+  "title": "parcels_lt",
   "extent": {
     "spatial": {
       "bbox": [
@@ -106,9 +83,5 @@
       ]
     }
   },
-  "license": "proprietary",
-  "summaries": {
-    "cities": [],
-    "countries": []
-  }
+  "license": "proprietary"
 }

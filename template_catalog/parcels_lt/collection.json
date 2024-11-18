@@ -14,22 +14,20 @@
       "rel": "child",
       "href": "./parcels_lt/collection.json",
       "type": "application/json",
-      "title": "SM parcels",
-      "code": "parcels_lt",
+      "title": "parcels_lt",
+      "endpointtype": "WMS_OverwriteTimes",
+      "code": "EX1",
       "id": "parcels_lt",
       "themes": [
-        "Flooding"
+        "water"
       ],
-      "cities": [],
-      "countries": [],
-      "locations": true,
       "tags": [
         "example tag"
       ],
       "agency": [
         "Example agency"
       ],
-      "subcode": "parcels_lt",
+      "subcode": "EX1",
       "sensor": [
         "Sensorname"
       ],
@@ -69,16 +67,15 @@
     }
   ],
   "themes": [
-    "Flooding"
+    "water"
   ],
-  "locations": true,
   "tags": [
     "example tag"
   ],
   "agency": [
     "Example agency"
   ],
-  "subcode": "parcels_lt",
+  "subcode": "EX1",
   "sensor": [
     "Sensorname"
   ],
@@ -88,7 +85,7 @@
   "insituSources": [
     "Other insitu data"
   ],
-  "title": "SM parcels",
+  "title": "parcels_lt",
   "extent": {
     "spatial": {
       "bbox": [
@@ -118,10 +115,10 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "parcels_lt"
+      "EX1"
     ],
     "themes": [
-      "Flooding"
+      "water"
     ],
     "satellite": [
       "Satellitename"

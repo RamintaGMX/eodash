@@ -72,20 +72,19 @@
       "rel": "child",
       "href": "./parcels_lt/collection.json",
       "type": "application/json",
-      "title": "SM parcels",
-      "code": "parcels_lt",
+      "title": "parcels_lt",
+      "code": "EX1",
       "id": "parcels_lt",
       "themes": [
-        "Flooding"
+        "water"
       ],
-      "subcode": "parcels_lt",
+      "subcode": "EX1",
       "satellite": [
         "Satellitename"
       ],
       "sensor": [
         "Sensorname"
       ],
-      "locations": true,
       "tags": [
         "example tag"
       ],
