@@ -34,6 +34,9 @@
       "title": "Lodging Lithuania"
     }
   ],
+  "themes": [
+    "forest"
+  ],
   "subcode": "lodging_capability_lit",
   "eodash:mapProjection": {
     "name": "EPSG:3035",
