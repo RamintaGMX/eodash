@@ -18,7 +18,7 @@
       "code": "parcels_lt",
       "id": "parcels_lt",
       "themes": [
-        "example"
+        "Flooding"
       ],
       "cities": [],
       "countries": [],
@@ -69,7 +69,7 @@
     }
   ],
   "themes": [
-    "example"
+    "Flooding"
   ],
   "locations": true,
   "tags": [
@@ -121,7 +121,7 @@
       "parcels_lt"
     ],
     "themes": [
-      "example"
+      "Flooding"
     ],
     "satellite": [
       "Satellitename"
