@@ -14,6 +14,7 @@ Resources:
         Assets:
           - Identifier: "LIT low"
             File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d1_flooding_5125000_3625000_cog.tif
+      - Time: "20240406"
         Assets:
           - Identifier: "LIT d1"
             File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d1_flooding_5125000_3625000_cog.tif
