@@ -12,31 +12,16 @@
     },
     {
       "rel": "child",
-      "href": "./Soil Moisture medium - parcels/collection.json",
+      "href": "./Soil Moisture medium/collection.json",
       "type": "application/json",
-      "title": "Soil Moisture medium - parcels",
-      "endpointtype": "WMS_OverwriteTimes",
-      "code": "sm_lt_04_parcels_wms_medium",
-      "id": "Soil Moisture medium - parcels",
+      "title": "Soil Moisture medium",
+      "endpointtype": "COG source",
+      "code": "sm_04_lt_raster_medium",
+      "id": "Soil Moisture medium",
       "themes": [
         "water"
       ],
-      "tags": [
-        "example tag"
-      ],
-      "agency": [
-        "Example agency"
-      ],
-      "subcode": "sm_lt_04_parcels_wms_medium",
-      "sensor": [
-        "Sensorname"
-      ],
-      "satellite": [
-        "Satellitename"
-      ],
-      "insituSources": [
-        "Other insitu data"
-      ]
+      "subcode": "sm_04_lt_raster_medium"
     },
     {
       "rel": "xyz",
@@ -76,16 +61,16 @@
     "spatial": {
       "bbox": [
         [
-          22.64524,
-          54.94676,
-          23.02416,
-          55.30585
+          -180,
+          -85,
+          180,
+          85
         ],
         [
-          22.64524,
-          54.94676,
-          23.02416,
-          55.30585
+          -180,
+          -85,
+          180,
+          85
         ]
       ]
     },
@@ -101,16 +86,10 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "sm_lt_04_parcels_wms_medium"
+      "sm_04_lt_raster_medium"
     ],
     "themes": [
       "water"
-    ],
-    "satellite": [
-      "Satellitename"
-    ],
-    "sensor": [
-      "Sensorname"
     ]
   }
 }
