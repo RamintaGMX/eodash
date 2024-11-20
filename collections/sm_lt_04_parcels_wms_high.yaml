@@ -1,6 +1,6 @@
 Name: Soil Moisture medium - parcels
 Title: Soil Moisture medium - parcels
-EodashIdentifier: sm_lt_04_parcels_wms_high
+EodashIdentifier: sm_lt_04_medium
 Description: This can be **markdown** or a reference to a markdown file
 Themes:
   - water
