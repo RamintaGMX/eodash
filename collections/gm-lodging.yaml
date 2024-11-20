@@ -3,7 +3,6 @@ Title: Lithuania
 EodashIdentifier: lodging_capability_lit
 Themes:
   - Lodging
-  - 2024
 Description: ""
 MapProjection:
   name: 'EPSG:3035'
