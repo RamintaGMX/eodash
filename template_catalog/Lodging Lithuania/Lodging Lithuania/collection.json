@@ -35,8 +35,7 @@
     }
   ],
   "themes": [
-    "Lodging",
-    2024
+    "Lodging"
   ],
   "subcode": "lodging_capability_lit",
   "eodash:mapProjection": {
