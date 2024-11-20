@@ -1,0 +1,91 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "stac_extensions": [],
+  "id": "2024-04-22T00:00:00Z",
+  "geometry": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -180,
+                -85
+              ],
+              [
+                180,
+                -85
+              ],
+              [
+                180,
+                85
+              ],
+              [
+                -180,
+                85
+              ],
+              [
+                -180,
+                -85
+              ]
+            ]
+          ]
+        },
+        "properties": {}
+      }
+    ]
+  },
+  "bbox": [
+    -180,
+    -85,
+    180,
+    85
+  ],
+  "properties": {
+    "datetime": "2024-04-22T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "style",
+      "href": "https://api.npoint.io/85c43058073e5051f880",
+      "type": "text/cog-styles",
+      "asset:keys": [
+        "22"
+      ]
+    },
+    {
+      "rel": "root",
+      "href": "../../../../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Baltics"
+    },
+    {
+      "rel": "collection",
+      "href": "../../collection.json",
+      "type": "application/json",
+      "title": "Soil Moisture medium"
+    },
+    {
+      "rel": "parent",
+      "href": "../../collection.json",
+      "type": "application/json",
+      "title": "Soil Moisture medium"
+    }
+  ],
+  "assets": {
+    "22": {
+      "href": "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif",
+      "type": "image/tiff",
+      "proj:epsg": 3035,
+      "roles": [
+        "data"
+      ]
+    }
+  },
+  "collection": "Soil Moisture medium",
+  "proj:epsg": 3035
+}
