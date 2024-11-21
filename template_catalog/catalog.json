@@ -28,22 +28,6 @@
     },
     {
       "rel": "child",
-      "href": "./Flooding Lithuania/collection.json",
-      "type": "application/json",
-      "title": "Lithuania",
-      "code": "flooding_capability",
-      "id": "Flooding Lithuania",
-      "themes": [
-        "Flooding"
-      ],
-      "subcode": "flooding_capability",
-      "eodash:mapProjection": {
-        "name": "EPSG:3035",
-        "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
-      }
-    },
-    {
-      "rel": "child",
       "href": "./Soil Moisture 04 Lithuania high/collection.json",
       "type": "application/json",
       "title": "Soil Moisture 04 Lithuania high",
@@ -117,8 +101,8 @@
       "id": "Lodging 06 Lithuania",
       "subcode": "ld_lt_06",
       "themes": [
-        "Crops lodging",
-        "Flooding"
+        "Flooding",
+        "Crops lodging"
       ],
       "satellite": [
         "Satellitename"
