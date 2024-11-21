@@ -19,7 +19,7 @@
       "code": "ld_lt_06",
       "id": "ld_lt_06_parcels_wms",
       "themes": [
-        "Lodging"
+        "Crops lodging"
       ],
       "tags": [
         "example tag"
@@ -104,7 +104,7 @@
       "ld_lt_06"
     ],
     "themes": [
-      "Lodging"
+      "Crops lodging"
     ],
     "satellite": [
       "Satellitename"
