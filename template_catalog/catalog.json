@@ -143,60 +143,6 @@
     },
     {
       "rel": "child",
-      "href": "./Forest Loss in 2024 08/collection.json",
-      "type": "application/json",
-      "title": "Forest Loss in 2024 08",
-      "code": "forest_lt_08",
-      "id": "Forest Loss in 2024 08",
-      "themes": [
-        "Forest"
-      ],
-      "subcode": "forest_lt_08",
-      "satellite": [
-        "Satellitename"
-      ],
-      "sensor": [
-        "Sensorname"
-      ],
-      "tags": [
-        "example tag"
-      ],
-      "agency": [
-        "Example agency"
-      ],
-      "insituSources": [
-        "Other insitu data"
-      ]
-    },
-    {
-      "rel": "child",
-      "href": "./Forest Loss in 2024 09/collection.json",
-      "type": "application/json",
-      "title": "Forest Loss in 2024 09",
-      "code": "forest_lt_09",
-      "id": "Forest Loss in 2024 09",
-      "themes": [
-        "Forest"
-      ],
-      "subcode": "forest_lt_09",
-      "satellite": [
-        "Satellitename"
-      ],
-      "sensor": [
-        "Sensorname"
-      ],
-      "tags": [
-        "example tag"
-      ],
-      "agency": [
-        "Example agency"
-      ],
-      "insituSources": [
-        "Other insitu data"
-      ]
-    },
-    {
-      "rel": "child",
       "href": "./Forest Lithuania/collection.json",
       "type": "application/json",
       "title": "Forest Lithuania",
