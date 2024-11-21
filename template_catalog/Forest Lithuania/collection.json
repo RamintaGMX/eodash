@@ -67,6 +67,34 @@
       ]
     },
     {
+      "rel": "child",
+      "href": "./Forest Loss in 2024 07/collection.json",
+      "type": "application/json",
+      "title": "Forest Loss in 2024 07",
+      "endpointtype": "WMS_OverwriteTimes",
+      "code": "forest_lt_07",
+      "id": "Forest Loss in 2024 07",
+      "themes": [
+        "Forest"
+      ],
+      "tags": [
+        "example tag"
+      ],
+      "agency": [
+        "Example agency"
+      ],
+      "subcode": "forest_lt_07",
+      "sensor": [
+        "Sensorname"
+      ],
+      "satellite": [
+        "Satellitename"
+      ],
+      "insituSources": [
+        "Other insitu data"
+      ]
+    },
+    {
       "rel": "xyz",
       "href": "//tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2023_3857/default/g/{z}/{y}/{x}.jpeg",
       "type": "image/jpeg",
@@ -120,6 +148,12 @@
           54.94676,
           23.02416,
           55.30585
+        ],
+        [
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
         ]
       ]
     },
@@ -127,7 +161,7 @@
       "interval": [
         [
           "2024-05-01T00:00:00Z",
-          "2024-06-30T00:00:00Z"
+          "2024-07-31T00:00:00Z"
         ]
       ]
     }
@@ -136,6 +170,7 @@
   "summaries": {
     "subcode": [
       "forest_lt_06",
+      "forest_lt_07",
       "forest_lt_05"
     ],
     "themes": [

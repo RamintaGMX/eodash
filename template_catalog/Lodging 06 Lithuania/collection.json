@@ -120,8 +120,8 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "ld_lt_06_wms",
-      "ld_06_lt_raster"
+      "ld_06_lt_raster",
+      "ld_lt_06_wms"
     ],
     "themes": [
       "Crops Lodging"
