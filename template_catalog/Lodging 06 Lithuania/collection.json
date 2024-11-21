@@ -39,6 +39,19 @@
       ]
     },
     {
+      "rel": "child",
+      "href": "./Lodging 06/collection.json",
+      "type": "application/json",
+      "title": "Lodging 06",
+      "endpointtype": "COG source",
+      "code": "ld_06_lt_raster",
+      "id": "Lodging 06",
+      "themes": [
+        "Flooding"
+      ],
+      "subcode": "ld_06_lt_raster"
+    },
+    {
       "rel": "xyz",
       "href": "//tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2023_3857/default/g/{z}/{y}/{x}.jpeg",
       "type": "image/jpeg",
@@ -86,14 +99,20 @@
           54.94676,
           23.02416,
           55.30585
+        ],
+        [
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
         ]
       ]
     },
     "temporal": {
       "interval": [
         [
-          "2024-06-01T00:00:00Z",
-          "2024-06-01T00:00:00Z"
+          "2024-04-07T00:00:00Z",
+          "2024-06-30T00:00:00Z"
         ]
       ]
     }
@@ -101,9 +120,11 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
+      "ld_06_lt_raster",
       "ld_lt_06_wms"
     ],
     "themes": [
+      "Flooding",
       "Crops lodging"
     ],
     "satellite": [

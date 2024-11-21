@@ -1,0 +1,91 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "stac_extensions": [],
+  "id": "2024-06-26T00:00:00Z",
+  "geometry": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                22.64524,
+                54.94676
+              ],
+              [
+                23.02416,
+                54.94676
+              ],
+              [
+                23.02416,
+                55.30585
+              ],
+              [
+                22.64524,
+                55.30585
+              ],
+              [
+                22.64524,
+                54.94676
+              ]
+            ]
+          ]
+        },
+        "properties": {}
+      }
+    ]
+  },
+  "bbox": [
+    22.64524,
+    54.94676,
+    23.02416,
+    55.30585
+  ],
+  "properties": {
+    "datetime": "2024-06-26T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "style",
+      "href": "https://api.npoint.io/fb08ee1771db057e35c5",
+      "type": "text/cog-styles",
+      "asset:keys": [
+        "26"
+      ]
+    },
+    {
+      "rel": "root",
+      "href": "../../../../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Baltics"
+    },
+    {
+      "rel": "collection",
+      "href": "../../collection.json",
+      "type": "application/json",
+      "title": "Lodging 06"
+    },
+    {
+      "rel": "parent",
+      "href": "../../collection.json",
+      "type": "application/json",
+      "title": "Lodging 06"
+    }
+  ],
+  "assets": {
+    "26": {
+      "href": "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif",
+      "type": "image/tiff",
+      "proj:epsg": 3035,
+      "roles": [
+        "data"
+      ]
+    }
+  },
+  "collection": "Lodging 06",
+  "proj:epsg": 3035
+}
