@@ -143,60 +143,6 @@
     },
     {
       "rel": "child",
-      "href": "./Forest Loss in 2024 05/collection.json",
-      "type": "application/json",
-      "title": "Forest Loss in 2024 05",
-      "code": "forest_lt_05",
-      "id": "Forest Loss in 2024 05",
-      "themes": [
-        "Forest"
-      ],
-      "subcode": "forest_lt_05",
-      "satellite": [
-        "Satellitename"
-      ],
-      "sensor": [
-        "Sensorname"
-      ],
-      "tags": [
-        "example tag"
-      ],
-      "agency": [
-        "Example agency"
-      ],
-      "insituSources": [
-        "Other insitu data"
-      ]
-    },
-    {
-      "rel": "child",
-      "href": "./Forest Loss in 2024 06/collection.json",
-      "type": "application/json",
-      "title": "Forest Loss in 2024 06",
-      "code": "forest_lt_06",
-      "id": "Forest Loss in 2024 06",
-      "themes": [
-        "Forest"
-      ],
-      "subcode": "forest_lt_06",
-      "satellite": [
-        "Satellitename"
-      ],
-      "sensor": [
-        "Sensorname"
-      ],
-      "tags": [
-        "example tag"
-      ],
-      "agency": [
-        "Example agency"
-      ],
-      "insituSources": [
-        "Other insitu data"
-      ]
-    },
-    {
-      "rel": "child",
       "href": "./Forest Loss in 2024 07/collection.json",
       "type": "application/json",
       "title": "Forest Loss in 2024 07",
