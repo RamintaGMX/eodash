@@ -1,8 +1,8 @@
 {
   "type": "Collection",
-  "id": "Soil Moisture 04 Lithuania high",
+  "id": "Forest Loss in 2024 05",
   "stac_version": "1.0.0",
-  "description": "lithuania indicator high",
+  "description": "Forest Loss in 2024 05",
   "links": [
     {
       "rel": "root",
@@ -12,14 +12,14 @@
     },
     {
       "rel": "child",
-      "href": "./Soil Moisture high - parcels/collection.json",
+      "href": "./Forest Loss in 2024 05/collection.json",
       "type": "application/json",
-      "title": "Soil Moisture high - parcels",
+      "title": "Forest Loss in 2024 05",
       "endpointtype": "WMS_OverwriteTimes",
-      "code": "sm_lt_04_parcels_wms_high",
-      "id": "Soil Moisture high - parcels",
+      "code": "forest_lt_05",
+      "id": "Forest Loss in 2024 05",
       "themes": [
-        "Flooding"
+        "Forest"
       ],
       "tags": [
         "example tag"
@@ -27,7 +27,7 @@
       "agency": [
         "Example agency"
       ],
-      "subcode": "sm_lt_04_parcels_wms_high",
+      "subcode": "forest_lt_05",
       "sensor": [
         "Sensorname"
       ],
@@ -37,19 +37,6 @@
       "insituSources": [
         "Other insitu data"
       ]
-    },
-    {
-      "rel": "child",
-      "href": "./Soil Moisture high/collection.json",
-      "type": "application/json",
-      "title": "Soil Moisture high",
-      "endpointtype": "COG source",
-      "code": "sm_04_lt_raster_high",
-      "id": "Soil Moisture high",
-      "themes": [
-        "Flooding"
-      ],
-      "subcode": "sm_04_lt_raster_high"
     },
     {
       "rel": "xyz",
@@ -79,21 +66,29 @@
       "title": "GTIF Baltics"
     }
   ],
-  "subcode": "sm_lt_04_high",
-  "eodash:mapProjection": {
-    "name": "EPSG:3035",
-    "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
-  },
-  "title": "Soil Moisture 04 Lithuania high",
+  "themes": [
+    "Forest"
+  ],
+  "tags": [
+    "example tag"
+  ],
+  "agency": [
+    "Example agency"
+  ],
+  "subcode": "forest_lt_05",
+  "sensor": [
+    "Sensorname"
+  ],
+  "satellite": [
+    "Satellitename"
+  ],
+  "insituSources": [
+    "Other insitu data"
+  ],
+  "title": "Forest Loss in 2024 05",
   "extent": {
     "spatial": {
       "bbox": [
-        [
-          22.64524,
-          54.94676,
-          23.02416,
-          55.30585
-        ],
         [
           22.64524,
           54.94676,
@@ -111,8 +106,8 @@
     "temporal": {
       "interval": [
         [
-          "2024-04-01T00:00:00Z",
-          "2024-04-30T00:00:00Z"
+          "2024-05-01T00:00:00Z",
+          "2024-05-31T00:00:00Z"
         ]
       ]
     }
@@ -120,11 +115,10 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "sm_04_lt_raster_high",
-      "sm_lt_04_parcels_wms_high"
+      "forest_lt_05"
     ],
     "themes": [
-      "Flooding"
+      "Forest"
     ],
     "satellite": [
       "Satellitename"

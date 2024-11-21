@@ -1,0 +1,265 @@
+{
+  "type": "Collection",
+  "id": "Forest Loss in 2024 05",
+  "stac_version": "1.0.0",
+  "description": "Forest Loss in 2024 05",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Baltics"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-01T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-01T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-02T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-02T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-03T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-03T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-04T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-04T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-05T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-05T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-06T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-06T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-07T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-07T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-08T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-08T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-09T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-09T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-10T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-10T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-11T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-11T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-12T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-12T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-13T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-13T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-14T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-14T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-15T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-15T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-16T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-16T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-17T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-17T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-18T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-18T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-19T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-19T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-20T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-20T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-21T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-21T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-22T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-22T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-23T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-23T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-24T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-24T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-25T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-25T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-26T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-26T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-27T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-27T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-28T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-28T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-29T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-29T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-30T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-30T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Forest Loss in 2024 05/2024/2024-05-31T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-05-31T00:00:00Z"
+    },
+    {
+      "rel": "wms",
+      "href": "https://server1.landimage.info/geoserver/gwc/service/wms",
+      "type": "image/png",
+      "title": "Forest Loss in 2024 05",
+      "wms:layers": [
+        "GTIFBaltic:LIT_2024_forest_cuts_m05"
+      ],
+      "role": [
+        "data"
+      ],
+      "wms:styles": [],
+      "wms:tilesize": 256,
+      "wms:version": "1.1.1",
+      "proj:epsg": 3857
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Forest Loss in 2024 05"
+    }
+  ],
+  "themes": [
+    "Forest"
+  ],
+  "tags": [
+    "example tag"
+  ],
+  "agency": [
+    "Example agency"
+  ],
+  "subcode": "forest_lt_05",
+  "sensor": [
+    "Sensorname"
+  ],
+  "satellite": [
+    "Satellitename"
+  ],
+  "insituSources": [
+    "Other insitu data"
+  ],
+  "proj:epsg": 3857,
+  "endpointtype": "WMS_OverwriteTimes",
+  "title": "Forest Loss in 2024 05",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2024-05-01T00:00:00Z",
+          "2024-05-31T00:00:00Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}
