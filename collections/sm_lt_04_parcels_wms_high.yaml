@@ -1,9 +1,9 @@
-Name: Soil Moisture medium - parcels
-Title: Soil Moisture medium - parcels
-EodashIdentifier: sm_lt_04_parcels_wms_medium
+Name: Soil Moisture high - parcels
+Title: Soil Moisture high - parcels
+EodashIdentifier: sm_lt_04_parcels_wms_high
 Description: This can be **markdown** or a reference to a markdown file
 Themes:
-  - water
+  - Flooding
 Tags:
   - example tag
 DataSource:
