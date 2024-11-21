@@ -156,7 +156,7 @@
       "type": "application/json",
       "title": "Forest Loss in 2024 05-09",
       "endpointtype": "WMS_OverwriteTimes",
-      "code": "forest_lt_0509",
+      "code": "forest_lt_0509_wms",
       "id": "Forest Loss in 2024 05-09",
       "themes": [
         "Forest"
@@ -167,7 +167,7 @@
       "agency": [
         "Example agency"
       ],
-      "subcode": "forest_lt_0509",
+      "subcode": "forest_lt_0509_wms",
       "sensor": [
         "Sensorname"
       ],
@@ -271,12 +271,12 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "forest_lt_08",
-      "forest_lt_09",
-      "forest_lt_0509",
       "forest_lt_05",
+      "forest_lt_0509_wms",
       "forest_lt_06",
-      "forest_lt_07"
+      "forest_lt_09",
+      "forest_lt_07",
+      "forest_lt_08"
     ],
     "themes": [
       "Forest"
