@@ -39,6 +39,19 @@
       ]
     },
     {
+      "rel": "child",
+      "href": "./Soil Moisture high/collection.json",
+      "type": "application/json",
+      "title": "Soil Moisture high",
+      "endpointtype": "COG source",
+      "code": "sm_04_lt_raster_high",
+      "id": "Soil Moisture high",
+      "themes": [
+        "Flooding"
+      ],
+      "subcode": "sm_04_lt_raster_high"
+    },
+    {
       "rel": "xyz",
       "href": "//tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2023_3857/default/g/{z}/{y}/{x}.jpeg",
       "type": "image/jpeg",
@@ -76,16 +89,22 @@
     "spatial": {
       "bbox": [
         [
-          22.64524,
-          54.94676,
-          23.02416,
-          55.30585
+          -180,
+          -85,
+          180,
+          85
         ],
         [
           22.64524,
           54.94676,
           23.02416,
           55.30585
+        ],
+        [
+          -180,
+          -85,
+          180,
+          85
         ]
       ]
     },
@@ -101,6 +120,7 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
+      "sm_04_lt_raster_high",
       "sm_lt_04_parcels_wms_high"
     ],
     "themes": [
