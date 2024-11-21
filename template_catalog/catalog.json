@@ -130,33 +130,6 @@
     },
     {
       "rel": "child",
-      "href": "./parcels_lt/collection.json",
-      "type": "application/json",
-      "title": "Lithuania 2024 April soil moisture low vector",
-      "code": "EX1",
-      "id": "parcels_lt",
-      "themes": [
-        "Flooding"
-      ],
-      "subcode": "EX1",
-      "satellite": [
-        "Satellitename"
-      ],
-      "sensor": [
-        "Sensorname"
-      ],
-      "tags": [
-        "example tag"
-      ],
-      "agency": [
-        "Example agency"
-      ],
-      "insituSources": [
-        "Other insitu data"
-      ]
-    },
-    {
-      "rel": "child",
       "href": "./Soil Moisture 04 Lithuania medium/collection.json",
       "type": "application/json",
       "title": "Soil Moisture 04 Lithuania medium",
