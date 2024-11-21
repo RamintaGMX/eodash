@@ -277,6 +277,28 @@
       ]
     },
     {
+      "rel": "child",
+      "href": "./Forest Lithuania/collection.json",
+      "type": "application/json",
+      "title": "Forest Lithuania",
+      "code": "forest_lt_m05-09",
+      "id": "Forest Lithuania",
+      "subcode": "forest_lt_m05-09",
+      "themes": [
+        "Forest"
+      ],
+      "satellite": [
+        "Satellitename"
+      ],
+      "sensor": [
+        "Sensorname"
+      ],
+      "eodash:mapProjection": {
+        "name": "EPSG:3035",
+        "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
+      }
+    },
+    {
       "rel": "self",
       "href": "https://organization.github.io/repository/repository/catalog.json",
       "type": "application/json"
