@@ -178,6 +178,33 @@
       }
     },
     {
+      "rel": "child",
+      "href": "./ld_lt_06_parcels_wms/collection.json",
+      "type": "application/json",
+      "title": "Lithuania 2024 June lodging vector",
+      "code": "parcels_lt_q1",
+      "id": "ld_lt_06_parcels_wms",
+      "themes": [
+        "Lodging"
+      ],
+      "subcode": "parcels_lt_q1",
+      "satellite": [
+        "Satellitename"
+      ],
+      "sensor": [
+        "Sensorname"
+      ],
+      "tags": [
+        "example tag"
+      ],
+      "agency": [
+        "Example agency"
+      ],
+      "insituSources": [
+        "Other insitu data"
+      ]
+    },
+    {
       "rel": "self",
       "href": "https://organization.github.io/repository/repository/catalog.json",
       "type": "application/json"

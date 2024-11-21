@@ -1,8 +1,8 @@
 {
   "type": "Collection",
-  "id": "Soil Moisture 04 Lithuania medium",
+  "id": "ld_lt_06_parcels_wms",
   "stac_version": "1.0.0",
-  "description": "lithuania indicator medium",
+  "description": "This can be **markdown** or a reference to a markdown file",
   "links": [
     {
       "rel": "root",
@@ -12,14 +12,14 @@
     },
     {
       "rel": "child",
-      "href": "./Soil Moisture medium - parcels/collection.json",
+      "href": "./ld_lt_06_parcels_wms/collection.json",
       "type": "application/json",
-      "title": "Soil Moisture medium - parcels",
+      "title": "Lithuania 2024 June lodging vector",
       "endpointtype": "WMS_OverwriteTimes",
-      "code": "sm_lt_04_parcels_wms_medium",
-      "id": "Soil Moisture medium - parcels",
+      "code": "parcels_lt_q1",
+      "id": "ld_lt_06_parcels_wms",
       "themes": [
-        "water"
+        "Lodging"
       ],
       "tags": [
         "example tag"
@@ -27,7 +27,7 @@
       "agency": [
         "Example agency"
       ],
-      "subcode": "sm_lt_04_parcels_wms_medium",
+      "subcode": "parcels_lt_q1",
       "sensor": [
         "Sensorname"
       ],
@@ -37,19 +37,6 @@
       "insituSources": [
         "Other insitu data"
       ]
-    },
-    {
-      "rel": "child",
-      "href": "./Soil Moisture medium/collection.json",
-      "type": "application/json",
-      "title": "Soil Moisture medium",
-      "endpointtype": "COG source",
-      "code": "sm_04_lt_raster_medium",
-      "id": "Soil Moisture medium",
-      "themes": [
-        "water"
-      ],
-      "subcode": "sm_04_lt_raster_medium"
     },
     {
       "rel": "xyz",
@@ -79,21 +66,29 @@
       "title": "GTIF Baltics"
     }
   ],
-  "subcode": "sm_lt_04_medium",
-  "eodash:mapProjection": {
-    "name": "EPSG:3035",
-    "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
-  },
-  "title": "Soil Moisture 04 Lithuania medium",
+  "themes": [
+    "Lodging"
+  ],
+  "tags": [
+    "example tag"
+  ],
+  "agency": [
+    "Example agency"
+  ],
+  "subcode": "parcels_lt_q1",
+  "sensor": [
+    "Sensorname"
+  ],
+  "satellite": [
+    "Satellitename"
+  ],
+  "insituSources": [
+    "Other insitu data"
+  ],
+  "title": "Lithuania 2024 June lodging vector",
   "extent": {
     "spatial": {
       "bbox": [
-        [
-          -180,
-          -85,
-          180,
-          85
-        ],
         [
           22.64524,
           54.94676,
@@ -101,18 +96,18 @@
           55.30585
         ],
         [
-          -180,
-          -85,
-          180,
-          85
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
         ]
       ]
     },
     "temporal": {
       "interval": [
         [
-          "2024-04-01T00:00:00Z",
-          "2024-04-30T00:00:00Z"
+          "2024-06-01T00:00:00Z",
+          "2024-06-01T00:00:00Z"
         ]
       ]
     }
@@ -120,11 +115,10 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "sm_04_lt_raster_medium",
-      "sm_lt_04_parcels_wms_medium"
+      "parcels_lt_q1"
     ],
     "themes": [
-      "water"
+      "Lodging"
     ],
     "satellite": [
       "Satellitename"
