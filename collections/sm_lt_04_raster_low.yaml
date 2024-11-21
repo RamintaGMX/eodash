@@ -3,7 +3,7 @@ Title: Soil Moisture low
 EodashIdentifier: sm_04_lt_raster_low
 Description: "##Interesting title"
 Themes:
-  - water
+  - Flooding
 Resources:
   - Name: COG source
     Style: https://api.npoint.io/85c43058073e5051f880
