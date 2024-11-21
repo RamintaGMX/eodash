@@ -3,7 +3,7 @@ Title: Lodging 06
 EodashIdentifier: ld_06_lt_raster
 Description: "##Interesting title"
 Themes:
-  - Flooding
+  - Crops Lodging
 Resources:
   - Name: COG source
     Style: https://api.npoint.io/fb08ee1771db057e35c5
