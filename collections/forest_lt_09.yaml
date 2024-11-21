@@ -1,0 +1,34 @@
+Name: Forest Loss in 2024 09
+Title: Forest Loss in 2024 09
+EodashIdentifier: forest_lt_09
+Description: Forest Loss in 2024 09
+Themes:
+  - Forest
+Tags:
+  - example tag
+DataSource:
+  Spaceborne:
+    Satellite:
+      - Satellitename
+    Sensor:
+      - Sensorname
+  InSitu:
+    - Other insitu data
+Agency:
+  - Example agency
+Resources:
+  - EndPoint: https://server1.landimage.info/geoserver/gwc/service/wms
+    DataProjection: 3857
+    Name: WMS
+    Type: OverwriteTimes
+    MediaType: image/png
+    Styles: []
+    LayerId: GTIFBaltic:LIT_2024_forest_cuts_m09
+    OverwriteBBox: [22.64524,54.94676,23.02416,55.30585]
+    TileSize: 256
+    Version: "1.1.1"
+    DateTimeInterval:
+      Start: "2024-09-01T00:00:00Z"
+      End: "2024-09-30:00:00Z"
+      Timedelta:
+        days: 1
