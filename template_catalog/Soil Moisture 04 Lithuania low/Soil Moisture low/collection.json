@@ -1,0 +1,326 @@
+{
+  "type": "Collection",
+  "id": "Soil Moisture low",
+  "stac_version": "1.0.0",
+  "description": "##Interesting title",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Baltics"
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-01T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-01T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-02T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-02T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-03T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-03T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-04T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-04T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-05T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-05T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-06T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-06T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-07T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-07T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-08T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-08T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-09T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-09T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-10T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-10T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-11T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-11T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-12T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-12T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-13T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-13T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-14T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-14T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-15T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-15T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-16T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-16T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-17T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-17T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-18T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-18T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-19T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-19T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-20T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-20T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-21T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-21T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-22T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-22T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-23T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-23T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-24T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-24T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-25T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-25T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-26T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-26T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-27T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-27T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-28T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-28T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-29T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-29T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "item",
+      "href": "./Soil Moisture low/2024/2024-04-30T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-30T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif"
+      ]
+    },
+    {
+      "rel": "style",
+      "href": "https://api.npoint.io/85c43058073e5051f880",
+      "type": "text/cog-styles",
+      "asset:keys": [
+        "30"
+      ]
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Soil Moisture 04 Lithuania low"
+    }
+  ],
+  "themes": [
+    "water"
+  ],
+  "subcode": "sm_04_lt_raster_low",
+  "proj:epsg": 3035,
+  "endpointtype": "COG source",
+  "title": "Soil Moisture low",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -180,
+          -85,
+          180,
+          85
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2024-04-01T00:00:00Z",
+          "2024-04-30T00:00:00Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}
