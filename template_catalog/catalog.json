@@ -116,11 +116,11 @@
     },
     {
       "rel": "child",
-      "href": "./Forest Lithuania/collection.json",
+      "href": "./Forest Loss in 2024 05-09/collection.json",
       "type": "application/json",
-      "title": "Forest Lithuania",
+      "title": "Forest Loss in 2024 05-09",
       "code": "forest_lt_m05-09",
-      "id": "Forest Lithuania",
+      "id": "Forest Loss in 2024 05-09",
       "subcode": "forest_lt_m05-09",
       "themes": [
         "Forest"
