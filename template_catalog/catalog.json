@@ -163,6 +163,33 @@
       }
     },
     {
+      "rel": "child",
+      "href": "./Forest summertime Lithuania/collection.json",
+      "type": "application/json",
+      "title": "Forest summertime Lithuania",
+      "code": "forest_lt_0509",
+      "id": "Forest summertime Lithuania",
+      "themes": [
+        "Forest"
+      ],
+      "subcode": "forest_lt_0509",
+      "satellite": [
+        "Satellitename"
+      ],
+      "sensor": [
+        "Sensorname"
+      ],
+      "tags": [
+        "example tag"
+      ],
+      "agency": [
+        "Example agency"
+      ],
+      "insituSources": [
+        "Other insitu data"
+      ]
+    },
+    {
       "rel": "self",
       "href": "https://organization.github.io/repository/repository/catalog.json",
       "type": "application/json"
