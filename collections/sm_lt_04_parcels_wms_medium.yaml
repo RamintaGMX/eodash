@@ -3,7 +3,7 @@ Title: Soil Moisture medium - parcels
 EodashIdentifier: sm_lt_04_parcels_wms_medium
 Description: This can be **markdown** or a reference to a markdown file
 Themes:
-  - water
+  - Flooding
 Tags:
   - example tag
 DataSource:
