@@ -16,7 +16,7 @@
       "type": "application/json",
       "title": "Lithuania 2024 June lodging",
       "endpointtype": "WMS_OverwriteTimes",
-      "code": "ld_lt_06",
+      "code": "ld_lt_06_wms",
       "id": "Lithuania 2024 June lodging vector",
       "themes": [
         "Crops lodging"
@@ -27,7 +27,7 @@
       "agency": [
         "Example agency"
       ],
-      "subcode": "ld_lt_06",
+      "subcode": "ld_lt_06_wms",
       "sensor": [
         "Sensorname"
       ],
@@ -101,7 +101,7 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "ld_lt_06"
+      "ld_lt_06_wms"
     ],
     "themes": [
       "Crops lodging"
