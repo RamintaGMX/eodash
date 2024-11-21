@@ -19,7 +19,7 @@
       "code": "ld_lt_06_wms",
       "id": "Lithuania 2024 June lodging vector",
       "themes": [
-        "Crops lodging"
+        "Crops Lodging"
       ],
       "tags": [
         "example tag"
@@ -124,8 +124,7 @@
       "ld_lt_06_wms"
     ],
     "themes": [
-      "Crops Lodging",
-      "Crops lodging"
+      "Crops Lodging"
     ],
     "satellite": [
       "Satellitename"
