@@ -1,0 +1,131 @@
+Name: Lodging 06
+Title: Lodging 06
+EodashIdentifier: ld_06_lt_raster
+Description: "##Interesting title"
+Themes:
+  - Flooding
+Resources:
+  - Name: COG source
+    Style: https://api.npoint.io/fb08ee1771db057e35c5
+    DataProjection: 3035
+    Bbox: [22.64524,54.94676,23.02416,55.30585]
+    TimeEntries:
+      - Time: "2024-06-01"
+        Assets:
+          - Identifier: "01"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-02"
+        Assets:
+          - Identifier: "02"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-03"
+        Assets:
+          - Identifier: "03"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-04"
+        Assets:
+          - Identifier: "04"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-05"
+        Assets:
+          - Identifier: "05"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+        Assets:
+          - Identifier: "06"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-04-07"
+        Assets:
+          - Identifier: "07"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-08"
+        Assets:
+          - Identifier: "08"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-09"
+        Assets:
+          - Identifier: "09"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-10"
+        Assets:
+          - Identifier: "10"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-11"
+        Assets:
+          - Identifier: "11"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-12"
+        Assets:
+          - Identifier: "12"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-13"
+        Assets:
+          - Identifier: "13"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-14"
+        Assets:
+          - Identifier: "14"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-15"
+        Assets:
+          - Identifier: "15"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-16"
+        Assets:
+          - Identifier: "16"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-17"
+        Assets:
+          - Identifier: "17"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-18"
+        Assets:
+          - Identifier: "18"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-19"
+        Assets:
+          - Identifier: "19"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-20"
+        Assets:
+          - Identifier: "20"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-21"
+        Assets:
+          - Identifier: "21"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-22"
+        Assets:
+          - Identifier: "22"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-23"
+        Assets:
+          - Identifier: "23"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-24"
+        Assets:
+          - Identifier: "24"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-25"
+        Assets:
+          - Identifier: "25"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-26"
+        Assets:
+          - Identifier: "26"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-27"
+        Assets:
+          - Identifier: "27"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-28"
+        Assets:
+          - Identifier: "28"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-29"
+        Assets:
+          - Identifier: "29"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+      - Time: "2024-06-30"
+        Assets:
+          - Identifier: "30"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
