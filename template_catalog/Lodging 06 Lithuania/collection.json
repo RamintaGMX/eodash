@@ -12,12 +12,12 @@
     },
     {
       "rel": "child",
-      "href": "./ld_lt_06_parcels_wms/collection.json",
+      "href": "./Lithuania 2024 June lodging vector/collection.json",
       "type": "application/json",
       "title": "Lithuania 2024 June lodging",
       "endpointtype": "WMS_OverwriteTimes",
       "code": "ld_lt_06",
-      "id": "ld_lt_06_parcels_wms",
+      "id": "Lithuania 2024 June lodging vector",
       "themes": [
         "Crops lodging"
       ],

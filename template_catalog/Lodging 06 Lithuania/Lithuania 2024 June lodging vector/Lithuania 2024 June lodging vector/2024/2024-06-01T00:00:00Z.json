@@ -14,7 +14,7 @@
       "rel": "wms",
       "href": "https://server1.landimage.info/geoserver/gwc/service/wms",
       "type": "image/png",
-      "title": "ld_lt_06_parcels_wms",
+      "title": "Lithuania 2024 June lodging vector",
       "wms:layers": [
         "GTIFBaltic:LIT_2024_lodging_m06_0130"
       ],
@@ -49,6 +49,6 @@
     }
   ],
   "assets": {},
-  "collection": "ld_lt_06_parcels_wms",
+  "collection": "Lithuania 2024 June lodging vector",
   "proj:epsg": 3857
 }
