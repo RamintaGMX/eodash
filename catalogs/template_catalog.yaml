@@ -10,8 +10,7 @@ collections:
   - gm-flooding
   - gm-lodging
   - gm-logging
-  - parcels_sm_wmts_lt_q1
-  - parcels_sm_wmts_lt_q2
-  - parcels_sm_wmts_lt_q3
+  - sm_lt_04_high
   - sm_lt_04_medium
+  - sm_lt_04_low
   - ld_lt_06_parcels_wms
