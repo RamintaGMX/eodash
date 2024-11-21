@@ -19,7 +19,7 @@
       "code": "logging_capability_lit",
       "id": "Logging Lithuania",
       "themes": [
-        "Lodging"
+        "Crops lodging"
       ],
       "subcode": "logging_capability_lit",
       "eodash:mapProjection": {
@@ -56,7 +56,7 @@
     }
   ],
   "themes": [
-    "Lodging"
+    "Crops lodging"
   ],
   "subcode": "logging_capability_lit",
   "eodash:mapProjection": {
@@ -96,7 +96,7 @@
       "logging_capability_lit"
     ],
     "themes": [
-      "Lodging"
+      "Crops lodging"
     ]
   }
 }
