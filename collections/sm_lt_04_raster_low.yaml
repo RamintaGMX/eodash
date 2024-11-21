@@ -12,15 +12,15 @@ Resources:
       - Time: "2024-04-01"
         Assets:
           - Identifier: "01"
-            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_low_flooding_5125000_3625000_cog.tif
       - Time: "2024-04-02"
         Assets:
           - Identifier: "02"
-            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_low_flooding_5125000_3625000_cog.tif
       - Time: "2024-04-03"
         Assets:
           - Identifier: "03"
-            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_lowflooding_5125000_3625000_cog.tif
       - Time: "2024-04-04"
         Assets:
           - Identifier: "04"
