@@ -47,7 +47,7 @@
       "code": "sm_04_lt_raster_low",
       "id": "Soil Moisture low",
       "themes": [
-        "water"
+        "Flooding"
       ],
       "subcode": "sm_04_lt_raster_low"
     },
@@ -120,12 +120,11 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "sm_lt_04_parcels_wms_low",
-      "sm_04_lt_raster_low"
+      "sm_04_lt_raster_low",
+      "sm_lt_04_parcels_wms_low"
     ],
     "themes": [
-      "Flooding",
-      "water"
+      "Flooding"
     ],
     "satellite": [
       "Satellitename"

@@ -124,8 +124,8 @@
       "sm_lt_04_parcels_wms_medium"
     ],
     "themes": [
-      "Flooding",
-      "water"
+      "water",
+      "Flooding"
     ],
     "satellite": [
       "Satellitename"
