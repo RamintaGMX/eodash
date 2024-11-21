@@ -1,6 +1,6 @@
-Name: parcels_lt
-Title: Lithuania 2024 April soil moisture low vector
-EodashIdentifier: EX1
+Name: Soil Moisture low - parcels
+Title: Soil Moisture low - parcels
+EodashIdentifier: sm_lt_04_parcels_wms_low
 Description: This can be **markdown** or a reference to a markdown file
 Themes:
   - Flooding
@@ -27,5 +27,8 @@ Resources:
     OverwriteBBox: [22.64524,54.94676,23.02416,55.30585]
     TileSize: 256
     Version: "1.1.1"
-    Times:
-      - '2024-04-01'
+    DateTimeInterval:
+      Start: "2024-04-01T00:00:00Z"
+      End: "2024-04-30:00:00Z"
+      Timedelta:
+        days: 1
