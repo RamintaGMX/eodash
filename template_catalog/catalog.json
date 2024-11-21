@@ -117,8 +117,8 @@
       "id": "Lodging 06 Lithuania",
       "subcode": "ld_lt_06",
       "themes": [
-        "Flooding",
-        "Crops lodging"
+        "Crops lodging",
+        "Flooding"
       ],
       "satellite": [
         "Satellitename"
@@ -133,11 +133,11 @@
     },
     {
       "rel": "child",
-      "href": "./Forest summertime Lithuania/collection.json",
+      "href": "./Forest Loss in 2024 05-09/collection.json",
       "type": "application/json",
-      "title": "Forest summertime Lithuania",
+      "title": "Forest Loss in 2024 05-09",
       "code": "forest_lt_0509",
-      "id": "Forest summertime Lithuania",
+      "id": "Forest Loss in 2024 05-09",
       "themes": [
         "Forest"
       ],
