@@ -144,13 +144,13 @@
       "rel": "child",
       "href": "./ld_lt_06_parcels_wms/collection.json",
       "type": "application/json",
-      "title": "Lithuania 2024 June lodging vector",
-      "code": "parcels_lt_q1",
+      "title": "Lithuania 2024 June lodging",
+      "code": "ld_lt_06",
       "id": "ld_lt_06_parcels_wms",
       "themes": [
         "Lodging"
       ],
-      "subcode": "parcels_lt_q1",
+      "subcode": "ld_lt_06",
       "satellite": [
         "Satellitename"
       ],

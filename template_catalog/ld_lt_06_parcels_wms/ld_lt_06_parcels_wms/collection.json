@@ -36,7 +36,7 @@
       "rel": "parent",
       "href": "../collection.json",
       "type": "application/json",
-      "title": "Lithuania 2024 June lodging vector"
+      "title": "Lithuania 2024 June lodging"
     }
   ],
   "themes": [
@@ -48,7 +48,7 @@
   "agency": [
     "Example agency"
   ],
-  "subcode": "parcels_lt_q1",
+  "subcode": "ld_lt_06",
   "sensor": [
     "Sensorname"
   ],
@@ -60,7 +60,7 @@
   ],
   "proj:epsg": 3857,
   "endpointtype": "WMS_OverwriteTimes",
-  "title": "Lithuania 2024 June lodging vector",
+  "title": "Lithuania 2024 June lodging",
   "extent": {
     "spatial": {
       "bbox": [

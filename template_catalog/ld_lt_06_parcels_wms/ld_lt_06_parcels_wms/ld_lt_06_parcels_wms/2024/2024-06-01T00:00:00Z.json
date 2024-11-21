@@ -39,13 +39,13 @@
       "rel": "collection",
       "href": "../../collection.json",
       "type": "application/json",
-      "title": "Lithuania 2024 June lodging vector"
+      "title": "Lithuania 2024 June lodging"
     },
     {
       "rel": "parent",
       "href": "../../collection.json",
       "type": "application/json",
-      "title": "Lithuania 2024 June lodging vector"
+      "title": "Lithuania 2024 June lodging"
     }
   ],
   "assets": {},

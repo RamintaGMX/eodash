@@ -14,9 +14,9 @@
       "rel": "child",
       "href": "./ld_lt_06_parcels_wms/collection.json",
       "type": "application/json",
-      "title": "Lithuania 2024 June lodging vector",
+      "title": "Lithuania 2024 June lodging",
       "endpointtype": "WMS_OverwriteTimes",
-      "code": "parcels_lt_q1",
+      "code": "ld_lt_06",
       "id": "ld_lt_06_parcels_wms",
       "themes": [
         "Lodging"
@@ -27,7 +27,7 @@
       "agency": [
         "Example agency"
       ],
-      "subcode": "parcels_lt_q1",
+      "subcode": "ld_lt_06",
       "sensor": [
         "Sensorname"
       ],
@@ -75,7 +75,7 @@
   "agency": [
     "Example agency"
   ],
-  "subcode": "parcels_lt_q1",
+  "subcode": "ld_lt_06",
   "sensor": [
     "Sensorname"
   ],
@@ -85,7 +85,7 @@
   "insituSources": [
     "Other insitu data"
   ],
-  "title": "Lithuania 2024 June lodging vector",
+  "title": "Lithuania 2024 June lodging",
   "extent": {
     "spatial": {
       "bbox": [
@@ -115,7 +115,7 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "parcels_lt_q1"
+      "ld_lt_06"
     ],
     "themes": [
       "Lodging"
