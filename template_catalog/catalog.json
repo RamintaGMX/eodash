@@ -76,57 +76,25 @@
     },
     {
       "rel": "child",
-      "href": "./parcels_sm_wmts_lt_q1/collection.json",
+      "href": "./Soil Moisture 04 Lithuania high/collection.json",
       "type": "application/json",
-      "title": "Lithuania 2024 April soil moisture high vector",
-      "code": "parcels_lt_q1",
-      "id": "parcels_sm_wmts_lt_q1",
+      "title": "Soil Moisture 04 Lithuania high",
+      "code": "sm_lt_04_high",
+      "id": "Soil Moisture 04 Lithuania high",
+      "subcode": "sm_lt_04_high",
       "themes": [
         "Flooding"
       ],
-      "subcode": "parcels_lt_q1",
       "satellite": [
         "Satellitename"
       ],
       "sensor": [
         "Sensorname"
       ],
-      "tags": [
-        "example tag"
-      ],
-      "agency": [
-        "Example agency"
-      ],
-      "insituSources": [
-        "Other insitu data"
-      ]
-    },
-    {
-      "rel": "child",
-      "href": "./parcels_sm_wmts_lt_q2/collection.json",
-      "type": "application/json",
-      "title": "Lithuania 2024 April soil moisture medium vector",
-      "code": "parcels_lt_q2",
-      "id": "parcels_sm_wmts_lt_q2",
-      "themes": [
-        "Flooding"
-      ],
-      "subcode": "parcels_lt_q2",
-      "satellite": [
-        "Satellitename"
-      ],
-      "sensor": [
-        "Sensorname"
-      ],
-      "tags": [
-        "example tag"
-      ],
-      "agency": [
-        "Example agency"
-      ],
-      "insituSources": [
-        "Other insitu data"
-      ]
+      "eodash:mapProjection": {
+        "name": "EPSG:3035",
+        "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
+      }
     },
     {
       "rel": "child",
@@ -138,6 +106,28 @@
       "subcode": "sm_lt_04_medium",
       "themes": [
         "water"
+      ],
+      "satellite": [
+        "Satellitename"
+      ],
+      "sensor": [
+        "Sensorname"
+      ],
+      "eodash:mapProjection": {
+        "name": "EPSG:3035",
+        "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
+      }
+    },
+    {
+      "rel": "child",
+      "href": "./Soil Moisture 04 Lithuania low/collection.json",
+      "type": "application/json",
+      "title": "Soil Moisture 04 Lithuania low",
+      "code": "sm_lt_04_low",
+      "id": "Soil Moisture 04 Lithuania low",
+      "subcode": "sm_lt_04_low",
+      "themes": [
+        "Flooding"
       ],
       "satellite": [
         "Satellitename"
