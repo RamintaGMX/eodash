@@ -1,8 +1,8 @@
 {
   "type": "Collection",
-  "id": "ld_lt_06_parcels_wms",
+  "id": "Lodging 06 Lithuania",
   "stac_version": "1.0.0",
-  "description": "This can be **markdown** or a reference to a markdown file",
+  "description": "lithuania indicator",
   "links": [
     {
       "rel": "root",
@@ -66,26 +66,12 @@
       "title": "GTIF Baltics"
     }
   ],
-  "themes": [
-    "Lodging"
-  ],
-  "tags": [
-    "example tag"
-  ],
-  "agency": [
-    "Example agency"
-  ],
   "subcode": "ld_lt_06",
-  "sensor": [
-    "Sensorname"
-  ],
-  "satellite": [
-    "Satellitename"
-  ],
-  "insituSources": [
-    "Other insitu data"
-  ],
-  "title": "Lithuania 2024 June lodging",
+  "eodash:mapProjection": {
+    "name": "EPSG:3035",
+    "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
+  },
+  "title": "Lodging 06 Lithuania",
   "extent": {
     "spatial": {
       "bbox": [
