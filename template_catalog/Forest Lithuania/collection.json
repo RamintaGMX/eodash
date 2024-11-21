@@ -95,6 +95,62 @@
       ]
     },
     {
+      "rel": "child",
+      "href": "./Forest Loss in 2024 08/collection.json",
+      "type": "application/json",
+      "title": "Forest Loss in 2024 08",
+      "endpointtype": "WMS_OverwriteTimes",
+      "code": "forest_lt_08",
+      "id": "Forest Loss in 2024 08",
+      "themes": [
+        "Forest"
+      ],
+      "tags": [
+        "example tag"
+      ],
+      "agency": [
+        "Example agency"
+      ],
+      "subcode": "forest_lt_08",
+      "sensor": [
+        "Sensorname"
+      ],
+      "satellite": [
+        "Satellitename"
+      ],
+      "insituSources": [
+        "Other insitu data"
+      ]
+    },
+    {
+      "rel": "child",
+      "href": "./Forest Loss in 2024 09/collection.json",
+      "type": "application/json",
+      "title": "Forest Loss in 2024 09",
+      "endpointtype": "WMS_OverwriteTimes",
+      "code": "forest_lt_09",
+      "id": "Forest Loss in 2024 09",
+      "themes": [
+        "Forest"
+      ],
+      "tags": [
+        "example tag"
+      ],
+      "agency": [
+        "Example agency"
+      ],
+      "subcode": "forest_lt_09",
+      "sensor": [
+        "Sensorname"
+      ],
+      "satellite": [
+        "Satellitename"
+      ],
+      "insituSources": [
+        "Other insitu data"
+      ]
+    },
+    {
       "rel": "xyz",
       "href": "//tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2023_3857/default/g/{z}/{y}/{x}.jpeg",
       "type": "image/jpeg",
@@ -154,6 +210,18 @@
           54.94676,
           23.02416,
           55.30585
+        ],
+        [
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
+        ],
+        [
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
         ]
       ]
     },
@@ -161,7 +229,7 @@
       "interval": [
         [
           "2024-05-01T00:00:00Z",
-          "2024-07-31T00:00:00Z"
+          "2024-09-30T00:00:00Z"
         ]
       ]
     }
@@ -169,9 +237,11 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
+      "forest_lt_06",
+      "forest_lt_09",
       "forest_lt_05",
-      "forest_lt_07",
-      "forest_lt_06"
+      "forest_lt_08",
+      "forest_lt_07"
     ],
     "themes": [
       "Forest"
