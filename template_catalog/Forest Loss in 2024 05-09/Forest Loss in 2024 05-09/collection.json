@@ -930,7 +930,7 @@
     },
     {
       "rel": "wms",
-      "href": "https://server1.landimage.info/geoserver/gwc/service/wms",
+      "href": "https://server1.landimage.info/geoserver/wms",
       "type": "image/png",
       "title": "Forest Loss in 2024 05-09",
       "wms:layers": [
