@@ -101,8 +101,8 @@
       "id": "Lodging 06 Lithuania",
       "subcode": "ld_lt_06",
       "themes": [
-        "Crops lodging",
-        "Flooding"
+        "Crops Lodging",
+        "Crops lodging"
       ],
       "satellite": [
         "Satellitename"

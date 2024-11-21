@@ -47,7 +47,7 @@
       "code": "ld_06_lt_raster",
       "id": "Lodging 06",
       "themes": [
-        "Flooding"
+        "Crops Lodging"
       ],
       "subcode": "ld_06_lt_raster"
     },
@@ -124,8 +124,8 @@
       "ld_lt_06_wms"
     ],
     "themes": [
-      "Crops lodging",
-      "Flooding"
+      "Crops Lodging",
+      "Crops lodging"
     ],
     "satellite": [
       "Satellitename"
