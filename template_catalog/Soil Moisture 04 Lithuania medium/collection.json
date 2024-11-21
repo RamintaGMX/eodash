@@ -19,7 +19,7 @@
       "code": "sm_lt_04_parcels_wms_medium",
       "id": "Soil Moisture medium - parcels",
       "themes": [
-        "water"
+        "Flooding"
       ],
       "tags": [
         "example tag"
@@ -124,6 +124,7 @@
       "sm_04_lt_raster_medium"
     ],
     "themes": [
+      "Flooding",
       "water"
     ],
     "satellite": [

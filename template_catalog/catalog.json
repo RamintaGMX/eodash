@@ -105,6 +105,7 @@
       "id": "Soil Moisture 04 Lithuania medium",
       "subcode": "sm_lt_04_medium",
       "themes": [
+        "Flooding",
         "water"
       ],
       "satellite": [
