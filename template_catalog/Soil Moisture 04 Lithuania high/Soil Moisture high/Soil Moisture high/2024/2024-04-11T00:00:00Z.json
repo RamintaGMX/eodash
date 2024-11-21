@@ -78,7 +78,7 @@
   ],
   "assets": {
     "11": {
-      "href": "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_5125000_3625000_cog.tif",
+      "href": "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_medium_flooding_2664995_7420977_cog.tif",
       "type": "image/tiff",
       "proj:epsg": 3035,
       "roles": [
