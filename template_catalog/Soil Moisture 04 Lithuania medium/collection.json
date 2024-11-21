@@ -120,12 +120,12 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "sm_lt_04_parcels_wms_medium",
-      "sm_04_lt_raster_medium"
+      "sm_04_lt_raster_medium",
+      "sm_lt_04_parcels_wms_medium"
     ],
     "themes": [
-      "Flooding",
-      "water"
+      "water",
+      "Flooding"
     ],
     "satellite": [
       "Satellitename"
