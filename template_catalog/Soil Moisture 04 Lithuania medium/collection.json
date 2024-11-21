@@ -47,7 +47,7 @@
       "code": "sm_04_lt_raster_medium",
       "id": "Soil Moisture medium",
       "themes": [
-        "water"
+        "Flooding"
       ],
       "subcode": "sm_04_lt_raster_medium"
     },
@@ -120,11 +120,10 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "sm_04_lt_raster_medium",
-      "sm_lt_04_parcels_wms_medium"
+      "sm_lt_04_parcels_wms_medium",
+      "sm_04_lt_raster_medium"
     ],
     "themes": [
-      "water",
       "Flooding"
     ],
     "satellite": [
