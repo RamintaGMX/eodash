@@ -9,3 +9,4 @@ MapProjection:
 Collections:
   - sm_lt_04_parcels_wms_low
   - sm_lt_04_raster_low
+  - sm_lt_04_raster_medium
