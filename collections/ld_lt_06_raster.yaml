@@ -6,7 +6,7 @@ Themes:
   - Crops Lodging
 Resources:
   - Name: COG source
-    Style: https://api.npoint.io/fb08ee1771db057e35c5
+    Style: https://api.npoint.io/7f1fdb1c5d806d5a7a36
     DataProjection: 3035
     Bbox: [22.64524,54.94676,23.02416,55.30585]
     TimeEntries:
