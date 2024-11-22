@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "Soil Moisture 04 Lithuania low",
   "stac_version": "1.0.0",
-  "description": "lithuania indicator low",
+  "description": "https://gist.github.com/SonataGMX/0ca67c448ba49b836ca4fd56a8468d91#sar-soil-moisture-index",
   "links": [
     {
       "rel": "root",
@@ -120,8 +120,8 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "sm_lt_04_parcels_wms_low",
-      "sm_04_lt_raster_low"
+      "sm_04_lt_raster_low",
+      "sm_lt_04_parcels_wms_low"
     ],
     "themes": [
       "Flooding"
