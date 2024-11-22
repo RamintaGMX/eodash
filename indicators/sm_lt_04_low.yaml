@@ -1,7 +1,7 @@
 Name: "Soil Moisture 04 Lithuania low"
 Title: "Soil Moisture 04 Lithuania low"
 EodashIdentifier: "sm_lt_04_low"
-Description: "https://gist.githubusercontent.com/SonataGMX/0ca67c448ba49b836ca4fd56a8468d91/raw/37b324464b5663cba01b768c4fa2199be836f5de/sm_discription_gmx_v2.md"
+Description: "https://gist.githubusercontent.com/SonataGMX/760387f6a59988ec690c966a2876d6ba/raw/334ed6c92ef569a3d7f103b2e670b69e5ad38e13/sm_discription_gmx.md"
 Bbox: [22.64524,54.94676,23.02416,55.30585]
 MapProjection:
   name: 'EPSG:3035'
