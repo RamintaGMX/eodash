@@ -52,19 +52,6 @@
       "subcode": "sm_04_lt_raster_low"
     },
     {
-      "rel": "child",
-      "href": "./Soil Moisture medium/collection.json",
-      "type": "application/json",
-      "title": "Soil Moisture medium",
-      "endpointtype": "COG source",
-      "code": "sm_04_lt_raster_medium",
-      "id": "Soil Moisture medium",
-      "themes": [
-        "Flooding"
-      ],
-      "subcode": "sm_04_lt_raster_medium"
-    },
-    {
       "rel": "xyz",
       "href": "//tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2023_3857/default/g/{z}/{y}/{x}.jpeg",
       "type": "image/jpeg",
@@ -118,12 +105,6 @@
           54.94676,
           23.02416,
           55.30585
-        ],
-        [
-          22.64524,
-          54.94676,
-          23.02416,
-          55.30585
         ]
       ]
     },
@@ -140,7 +121,6 @@
   "summaries": {
     "subcode": [
       "sm_lt_04_parcels_wms_low",
-      "sm_04_lt_raster_medium",
       "sm_04_lt_raster_low"
     ],
     "themes": [
