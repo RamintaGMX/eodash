@@ -77,7 +77,7 @@
       50,
       100
     ],
-    "scaletype": "discrete"
+    "scaletype": "threshold"
   },
   "proj:epsg": 3857,
   "endpointtype": "WMS_OverwriteTimes",
