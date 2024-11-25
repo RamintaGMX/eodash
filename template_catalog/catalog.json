@@ -120,8 +120,8 @@
       "id": "Lodging 06 Lithuania",
       "subcode": "ld_lt_06",
       "themes": [
-        "Crops Lodging",
-        "Lithuania"
+        "Lithuania",
+        "Crops Lodging"
       ],
       "satellite": [
         "Satellitename"

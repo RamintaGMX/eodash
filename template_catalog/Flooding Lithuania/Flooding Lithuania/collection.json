@@ -89,5 +89,14 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "legend": {
+      "href": "https://raw.githubusercontent.com/organization/assets-repo/main//collections/legend_flooding.png",
+      "type": "image/png",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
 }
