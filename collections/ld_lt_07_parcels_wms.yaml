@@ -1,23 +1,11 @@
 Name: Lithuania 2024 June lodging vector
 Title: Lithuania 2024 June lodging
 EodashIdentifier: ld_lt_07_wms
-Description: This can be **markdown** or a reference to a markdown file
+Description: ""
 Themes:
   - Crops Lodging
-Tags:
-  - example tag
-DataSource:
-  Spaceborne:
-    Satellite:
-      - Satellitename
-    Sensor:
-      - Sensorname
-  InSitu:
-    - Other insitu data
-Agency:
-  - Example agency
 Resources:
-  - EndPoint: https://server1.landimage.info/geoserver/gwc/service/wms
+  - EndPoint: https://server1.landimage.info/geoserver/wms
     DataProjection: 3857
     Name: WMS
     Type: OverwriteTimes
@@ -28,4 +16,4 @@ Resources:
     TileSize: 256
     Version: "1.1.1"
     Times:
-      - '2024-06-01'
+      - '2024-06-25'
