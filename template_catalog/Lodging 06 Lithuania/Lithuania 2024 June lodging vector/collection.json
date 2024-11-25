@@ -84,7 +84,7 @@
   "license": "proprietary",
   "assets": {
     "legend": {
-      "href": "https://raw.githubusercontent.com/organization/assets-repo/main//ramintaGMX/eodash/main/collections/sagris_crop_lodging_pc.png",
+      "href": "https://raw.githubusercontent.com/organization/assets-repo/main//collections/sagris_crop_lodging_pc.png",
       "type": "image/png",
       "roles": [
         "metadata"
