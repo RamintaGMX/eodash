@@ -33,7 +33,7 @@ Resources:
         Assets:
           - Identifier: "06"
             File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
-      - Time: "2024-04-07"
+      - Time: "2024-06-07"
         Assets:
           - Identifier: "07"
             File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
