@@ -103,7 +103,7 @@
     "name": "EPSG:3035",
     "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
   },
-  "title": "Soil Moisture 04 Lithuania high",
+  "title": "indicators/fooding.md",
   "extent": {
     "spatial": {
       "bbox": [
@@ -139,8 +139,8 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "sm_lt_04_parcels_wms_high",
-      "sm_04_lt_raster_high"
+      "sm_04_lt_raster_high",
+      "sm_lt_04_parcels_wms_high"
     ],
     "themes": [
       "Flooding"
@@ -151,14 +151,5 @@
     "sensor": [
       "Sensorname"
     ]
-  },
-  "assets": {
-    "legend": {
-      "href": "https://raw.githubusercontent.com/ramintaGMX/eodash/main//indicators/fooding.md",
-      "type": "image/png",
-      "roles": [
-        "metadata"
-      ]
-    }
   }
 }
