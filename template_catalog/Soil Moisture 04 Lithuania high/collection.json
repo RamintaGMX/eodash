@@ -124,8 +124,8 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "sm_04_lt_raster_high",
-      "sm_lt_04_parcels_wms_high"
+      "sm_lt_04_parcels_wms_high",
+      "sm_04_lt_raster_high"
     ],
     "themes": [
       "Flooding"
@@ -136,5 +136,14 @@
     "sensor": [
       "Sensorname"
     ]
+  },
+  "assets": {
+    "thumbnail": {
+      "href": "https://raw.githubusercontent.com/ramintaGMX/eodash/main//indicators/sagris_crop_lodging_pc.png",
+      "type": "image/png",
+      "roles": [
+        "thumbnail"
+      ]
+    }
   }
 }
