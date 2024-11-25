@@ -271,12 +271,12 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "forest_lt_09",
-      "forest_lt_07",
-      "forest_lt_05",
       "forest_lt_06",
       "forest_lt_0509_wms",
-      "forest_lt_08"
+      "forest_lt_08",
+      "forest_lt_07",
+      "forest_lt_09",
+      "forest_lt_05"
     ],
     "themes": [
       "Forest"
