@@ -1,6 +1,6 @@
 Name: Lithuania 2024 June lodging vector
 Title: Lithuania 2024 June lodging
-EodashIdentifier: ld_lt_06_wms
+EodashIdentifier: ld_lt_07_wms
 Description: This can be **markdown** or a reference to a markdown file
 Themes:
   - Crops Lodging
@@ -16,13 +16,6 @@ DataSource:
     - Other insitu data
 Agency:
   - Example agency
-Colorlegend:
-  title: "Lodging Amount"
-  range: [ "#00366e", "#74fe5d", "#acacac", "#000000"]
-  domain: [0, 100]
-  tickFormat: ".0f"
-  tickValues: [0, 25, 50, 100]
-  scaletype: threshold
 Resources:
   - EndPoint: https://server1.landimage.info/geoserver/gwc/service/wms
     DataProjection: 3857
@@ -30,7 +23,7 @@ Resources:
     Type: OverwriteTimes
     MediaType: image/png
     Styles: []
-    LayerId: GTIFBaltic:LIT_2024_lodging_m06_0130
+    LayerId: GTIFBaltic:LIT_2024_crops_lodging_m07
     OverwriteBBox: [22.64524,54.94676,23.02416,55.30585]
     TileSize: 256
     Version: "1.1.1"
