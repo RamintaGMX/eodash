@@ -22,7 +22,7 @@ Colorlegend:
   domain: [0, 100]
   tickFormat: ".0f"
   tickValues: [0, 25, 50, 100]
-  scaletype: discrete
+  scaletype: threshold
 Resources:
   - EndPoint: https://server1.landimage.info/geoserver/gwc/service/wms
     DataProjection: 3857
