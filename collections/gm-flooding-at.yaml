@@ -1,7 +1,7 @@
 Name: Flooding Austria
 Title: Austria
 EodashIdentifier: flooding_capability_aut
-Description: "https://gist.githubusercontent.com/SonataGMX/760387f6a59988ec690c966a2876d6ba/raw/340048fd7811f31ea2e3660ceafab67aa9420879/sm_discription_gmx.md"
+Description: "fooding.md"
 Themes:
   - Flooding
 MapProjection:
