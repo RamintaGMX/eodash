@@ -55,19 +55,10 @@
         "Flooding"
       ],
       "satellite": [
-        "indicators/fooding.md"
+        "Satellitename"
       ],
       "sensor": [
-        "indicators/fooding.md"
-      ],
-      "tags": [
-        "example tag"
-      ],
-      "agency": [
-        "indicators/fooding.md"
-      ],
-      "insituSources": [
-        "indicators/fooding.md"
+        "Sensorname"
       ],
       "eodash:mapProjection": {
         "name": "EPSG:3035",
