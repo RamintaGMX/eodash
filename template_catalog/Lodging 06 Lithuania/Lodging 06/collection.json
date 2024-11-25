@@ -47,7 +47,7 @@
     "title": "Lodging Amount",
     "range": [
       "#000000",
-      "#ff0000"
+      "#f9e622"
     ],
     "domain": [
       30,
