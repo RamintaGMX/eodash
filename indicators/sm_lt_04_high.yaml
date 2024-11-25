@@ -1,6 +1,7 @@
 Name: "Soil Moisture 04 Lithuania high"
 Title: "Soil Moisture 04 Lithuania high"
 EodashIdentifier: "sm_lt_04_high"
+Image: indicators/sagris_crop_lodging_pc.png
 Description: indicators/fooding.md
 Bbox: [21.0, 53.8, 26.9, 56.5]
 MapProjection:
