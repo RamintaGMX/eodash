@@ -71,7 +71,7 @@
   "license": "proprietary",
   "assets": {
     "legend": {
-      "href": "https://raw.githubusercontent.com/organization/assets-repo/main//flooding_legend.png",
+      "href": "https://raw.githubusercontent.com/organization/assets-repo/main//collections/flooding_legend.png",
       "type": "image/png",
       "roles": [
         "metadata"
