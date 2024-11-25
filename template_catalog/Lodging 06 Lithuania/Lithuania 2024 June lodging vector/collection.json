@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "Lithuania 2024 June lodging vector",
   "stac_version": "1.0.0",
-  "description": "This can be **markdown** or a reference to a markdown file",
+  "description": "",
   "links": [
     {
       "rel": "root",
@@ -12,13 +12,13 @@
     },
     {
       "rel": "item",
-      "href": "./Lithuania 2024 June lodging vector/2024/2024-06-01T00:00:00Z.json",
+      "href": "./Lithuania 2024 June lodging vector/2024/2024-06-25T00:00:00Z.json",
       "type": "application/json",
-      "datetime": "2024-06-01T00:00:00Z"
+      "datetime": "2024-06-25T00:00:00Z"
     },
     {
       "rel": "wms",
-      "href": "https://server1.landimage.info/geoserver/gwc/service/wms",
+      "href": "https://server1.landimage.info/geoserver/wms",
       "type": "image/png",
       "title": "Lithuania 2024 June lodging vector",
       "wms:layers": [
@@ -42,22 +42,7 @@
   "themes": [
     "Crops Lodging"
   ],
-  "tags": [
-    "example tag"
-  ],
-  "agency": [
-    "Example agency"
-  ],
   "subcode": "ld_lt_07_wms",
-  "sensor": [
-    "Sensorname"
-  ],
-  "satellite": [
-    "Satellitename"
-  ],
-  "insituSources": [
-    "Other insitu data"
-  ],
   "proj:epsg": 3857,
   "endpointtype": "WMS_OverwriteTimes",
   "title": "Lithuania 2024 June lodging",
@@ -75,8 +60,8 @@
     "temporal": {
       "interval": [
         [
-          "2024-06-01T00:00:00Z",
-          "2024-06-01T00:00:00Z"
+          "2024-06-25T00:00:00Z",
+          "2024-06-25T00:00:00Z"
         ]
       ]
     }

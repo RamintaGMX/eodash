@@ -127,14 +127,8 @@
       "id": "Lodging 06 Lithuania",
       "subcode": "ld_lt_06",
       "themes": [
-        "Crops Lodging",
-        "Lithuania"
-      ],
-      "satellite": [
-        "Satellitename"
-      ],
-      "sensor": [
-        "Sensorname"
+        "Lithuania",
+        "Crops Lodging"
       ],
       "eodash:mapProjection": {
         "name": "EPSG:3035",

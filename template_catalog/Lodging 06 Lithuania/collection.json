@@ -21,22 +21,7 @@
       "themes": [
         "Crops Lodging"
       ],
-      "tags": [
-        "example tag"
-      ],
-      "agency": [
-        "Example agency"
-      ],
-      "subcode": "ld_lt_07_wms",
-      "sensor": [
-        "Sensorname"
-      ],
-      "satellite": [
-        "Satellitename"
-      ],
-      "insituSources": [
-        "Other insitu data"
-      ]
+      "subcode": "ld_lt_07_wms"
     },
     {
       "rel": "child",
@@ -117,7 +102,7 @@
       "interval": [
         [
           "2024-06-01T00:00:00Z",
-          "2024-06-01T00:00:00Z"
+          "2024-06-25T00:00:00Z"
         ]
       ]
     }
@@ -125,18 +110,12 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "ld_06_lt_raster",
-      "ld_lt_07_wms"
+      "ld_lt_07_wms",
+      "ld_06_lt_raster"
     ],
     "themes": [
-      "Crops Lodging",
-      "Lithuania"
-    ],
-    "satellite": [
-      "Satellitename"
-    ],
-    "sensor": [
-      "Sensorname"
+      "Lithuania",
+      "Crops Lodging"
     ]
   }
 }
