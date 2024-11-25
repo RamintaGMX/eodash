@@ -19,9 +19,7 @@
       "code": "flooding_capability",
       "id": "Flooding Lithuania",
       "themes": [
-        "Lithuania",
-        "2024",
-        "April"
+        "Flooding"
       ],
       "subcode": "flooding_capability",
       "collection_group": "Water",
@@ -59,9 +57,7 @@
     }
   ],
   "themes": [
-    "Lithuania",
-    "2024",
-    "April"
+    "Flooding"
   ],
   "subcode": "flooding_capability",
   "collection_group": "Water",
@@ -102,18 +98,7 @@
       "flooding_capability"
     ],
     "themes": [
-      "April",
-      "Lithuania",
-      "2024"
+      "Flooding"
     ]
-  },
-  "assets": {
-    "legend": {
-      "href": "https://raw.githubusercontent.com/organization/assets-repo/main//collections/legend_flooding.png",
-      "type": "image/png",
-      "roles": [
-        "metadata"
-      ]
-    }
   }
 }
