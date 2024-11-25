@@ -4,6 +4,16 @@ EodashIdentifier: ld_06_lt_raster
 Description: "##Interesting title"
 Themes:
   - Crops Lodging
+MapProjection:
+  name: 'EPSG:3035'
+  def: '+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs'
+Colorlegend:
+  title: "Lodging Amount"
+  range: ["#000000", "#ff0000"]
+  domain: [30, 100]
+  tickFormat: ".0f"
+  tickValues: [30,100]
+  scaletype: continuous
 Resources:
   - Name: COG source
     Style: https://api.npoint.io/7f1fdb1c5d806d5a7a36
