@@ -306,17 +306,17 @@
   "eox:colorlegend": {
     "title": "Flooding Amount",
     "range": [
-      "#000000",
-      "#00366e"
+      "#00366e",
+      "#000000"
     ],
     "domain": [
-      30,
-      100
+      0,
+      255
     ],
     "tickFormat": ".0f",
     "tickValues": [
-      30,
-      100
+      0,
+      255
     ],
     "scaletype": "continuous"
   },
