@@ -102,18 +102,9 @@
       "flooding_capability"
     ],
     "themes": [
+      "2024",
       "April",
-      "Lithuania",
-      "2024"
+      "Lithuania"
     ]
-  },
-  "assets": {
-    "legend": {
-      "href": "https://raw.githubusercontent.com/organization/assets-repo/main//collections/legend_flooding.png",
-      "type": "image/png",
-      "roles": [
-        "metadata"
-      ]
-    }
   }
 }
