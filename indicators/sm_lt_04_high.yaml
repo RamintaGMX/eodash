@@ -1,5 +1,5 @@
 Name: "Soil Moisture 04 Lithuania high"
-Title: indicators/fooding.md
+Title: "Soil Moisture 04 Lithuania high"
 EodashIdentifier: "sm_lt_04_high"
 Description: indicators/fooding.md
 Tags:
@@ -7,13 +7,13 @@ Tags:
 DataSource:
   Spaceborne:
     Satellite:
-      - Satellitename
+      - indicators/fooding.md
     Sensor:
-      - Sensorname
+      - indicators/fooding.md
   InSitu:
-    - Other insitu data
+    - indicators/fooding.md
 Agency:
-  - Example agency
+  - indicators/fooding.md
 Bbox: [22.64524,54.94676,23.02416,55.30585]
 MapProjection:
   name: 'EPSG:3035'
