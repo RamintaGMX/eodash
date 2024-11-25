@@ -47,7 +47,7 @@
       "rel": "child",
       "href": "./Soil Moisture 04 Lithuania high/collection.json",
       "type": "application/json",
-      "title": "indicators/fooding.md",
+      "title": "Soil Moisture 04 Lithuania high",
       "code": "sm_lt_04_high",
       "id": "Soil Moisture 04 Lithuania high",
       "subcode": "sm_lt_04_high",
@@ -55,19 +55,19 @@
         "Flooding"
       ],
       "satellite": [
-        "Satellitename"
+        "indicators/fooding.md"
       ],
       "sensor": [
-        "Sensorname"
+        "indicators/fooding.md"
       ],
       "tags": [
         "example tag"
       ],
       "agency": [
-        "Example agency"
+        "indicators/fooding.md"
       ],
       "insituSources": [
-        "Other insitu data"
+        "indicators/fooding.md"
       ],
       "eodash:mapProjection": {
         "name": "EPSG:3035",
@@ -127,8 +127,8 @@
       "id": "Lodging 06 Lithuania",
       "subcode": "ld_lt_06",
       "themes": [
-        "Crops Lodging",
-        "Lithuania"
+        "Lithuania",
+        "Crops Lodging"
       ],
       "satellite": [
         "Satellitename"

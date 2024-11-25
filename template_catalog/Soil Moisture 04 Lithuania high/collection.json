@@ -87,23 +87,23 @@
     "example tag"
   ],
   "agency": [
-    "Example agency"
+    "indicators/fooding.md"
   ],
   "subcode": "sm_lt_04_high",
   "sensor": [
-    "Sensorname"
+    "indicators/fooding.md"
   ],
   "satellite": [
-    "Satellitename"
+    "indicators/fooding.md"
   ],
   "insituSources": [
-    "Other insitu data"
+    "indicators/fooding.md"
   ],
   "eodash:mapProjection": {
     "name": "EPSG:3035",
     "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
   },
-  "title": "indicators/fooding.md",
+  "title": "Soil Moisture 04 Lithuania high",
   "extent": {
     "spatial": {
       "bbox": [
