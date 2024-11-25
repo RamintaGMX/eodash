@@ -1,25 +1,26 @@
 Name: Flooding Lithuania
-Title: Lithuania
+Title: Flooding Lithuania
 EodashIdentifier: flooding_capability
-Description: "https://gist.githubusercontent.com/SonataGMX/760387f6a59988ec690c966a2876d6ba/raw/340048fd7811f31ea2e3660ceafab67aa9420879/sm_discription_gmx.md"
+Description: "fooding.md"
+CollectionGroup: Water
 Themes:
-  - Flooding
+  - Lithuania
+  - "2024"
+  - April
 MapProjection:
   name: 'EPSG:3035'
   def: '+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs'
+Legend: collections/legend_flooding.png
 Resources:
   - Name: COG source
     Bbox: [22.64524,54.94676,23.02416,55.30585]
-    Style: https://api.npoint.io/fb08ee1771db057e35c5
+    Style: https://api.npoint.io/85c43058073e5051f880
     TimeEntries:
-      - Time: "20240403"
-        Assets:
-          - Identifier: "LIT low"
-            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d1_flooding_5125000_3625000_cog.tif
-      - Time: "20240406"
+      - Time: "20240401"
         Assets:
           - Identifier: "LIT d1"
             File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d1_flooding_5125000_3625000_cog.tif
+            Legend: collections/legend_flooding.png
       - Time: "20240411"
         Assets:
           - Identifier: "LIT d2"
