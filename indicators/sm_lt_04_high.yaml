@@ -1,6 +1,7 @@
 Name: "Soil Moisture 04 Lithuania high"
 Title: "Soil Moisture 04 Lithuania high"
 EodashIdentifier: "sm_lt_04_high"
+Legend: indicators/fooding.md
 Description: indicators/fooding.md
 Tags:
   - example tag
