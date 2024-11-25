@@ -1,2 +1,2 @@
 # Title
-![image](flooding_legend.png)
+![image](legend_flooding.png)
