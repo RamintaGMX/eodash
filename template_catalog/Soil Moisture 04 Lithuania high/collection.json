@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "Soil Moisture 04 Lithuania high",
   "stac_version": "1.0.0",
-  "description": "# Title\n![image](sagris_crop_lodging_pc.png)\n",
+  "description": "### Flooding legend\n![image](sagris_crop_lodging_pc.png)\n",
   "links": [
     {
       "rel": "root",
@@ -124,8 +124,8 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "sm_lt_04_parcels_wms_high",
-      "sm_04_lt_raster_high"
+      "sm_04_lt_raster_high",
+      "sm_lt_04_parcels_wms_high"
     ],
     "themes": [
       "Flooding"
