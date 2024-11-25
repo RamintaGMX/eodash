@@ -22,7 +22,7 @@
       "type": "image/png",
       "title": "Lithuania 2024 June lodging vector",
       "wms:layers": [
-        "GTIFBaltic:LIT_2024_lodging_m06_0130"
+        "GTIFBaltic:LIT_2024_crops_lodging_m07"
       ],
       "role": [
         "data"
@@ -48,7 +48,7 @@
   "agency": [
     "Example agency"
   ],
-  "subcode": "ld_lt_06_wms",
+  "subcode": "ld_lt_07_wms",
   "sensor": [
     "Sensorname"
   ],
@@ -58,27 +58,6 @@
   "insituSources": [
     "Other insitu data"
   ],
-  "eox:colorlegend": {
-    "title": "Lodging Amount",
-    "range": [
-      "#00366e",
-      "#74fe5d",
-      "#acacac",
-      "#000000"
-    ],
-    "domain": [
-      0,
-      100
-    ],
-    "tickFormat": ".0f",
-    "tickValues": [
-      0,
-      25,
-      50,
-      100
-    ],
-    "scaletype": "threshold"
-  },
   "proj:epsg": 3857,
   "endpointtype": "WMS_OverwriteTimes",
   "title": "Lithuania 2024 June lodging",
