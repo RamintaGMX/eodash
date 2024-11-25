@@ -2,10 +2,10 @@
 Name: Lodging 06
 Title: Lodging 06
 EodashIdentifier: ld_06_lt_raster
-Description: "##Interesting title"
+Description: ""
 CollectionGroup: Crops
 Themes:
-  - Lithuania
+  - Crops Lodging
 MapProjection:
   name: 'EPSG:3035'
   def: '+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs'
