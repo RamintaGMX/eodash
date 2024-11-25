@@ -4,6 +4,13 @@ EodashIdentifier: sm_04_lt_raster_high
 Description: "##Interesting title"
 Themes:
   - Flooding
+Colorlegend:
+  title: "Flooding Amount"
+  range: ["#000000", "#00366e"]
+  domain: [30, 100]
+  tickFormat: ".0f"
+  tickValues: [30,100]
+  scaletype: continuous
 Resources:
   - Name: COG source
     Style: https://api.npoint.io/94d6c5c498a0ac16563f
