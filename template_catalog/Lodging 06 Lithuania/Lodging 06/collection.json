@@ -46,17 +46,17 @@
   "eox:colorlegend": {
     "title": "Lodging Amount",
     "range": [
-      "#000000",
-      "#f9e622"
+      "#f9e622",
+      "#000000"
     ],
     "domain": [
-      30,
-      100
+      0,
+      255
     ],
     "tickFormat": ".0f",
     "tickValues": [
-      30,
-      100
+      0,
+      255
     ],
     "scaletype": "continuous"
   },
