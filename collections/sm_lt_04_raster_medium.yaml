@@ -6,10 +6,10 @@ Themes:
   - Flooding
 Colorlegend:
   title: "Flooding Amount"
-  range: ["#000000", "#00366e"]
-  domain: [30, 100]
+  range: ["#00366e", "#000000"]
+  domain: [0, 255]
   tickFormat: ".0f"
-  tickValues: [30,100]
+  tickValues: [0,255]
   scaletype: continuous
 Resources:
   - Name: COG source
