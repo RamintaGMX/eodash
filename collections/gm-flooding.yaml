@@ -17,7 +17,6 @@ Resources:
         Assets:
           - Identifier: "LIT d1"
             File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_d1_flooding_5125000_3625000_cog.tif
-            Legend: collections/legend_flooding.png
       - Time: "20240411"
         Assets:
           - Identifier: "LIT d2"
