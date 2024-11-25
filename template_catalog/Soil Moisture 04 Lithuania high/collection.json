@@ -151,5 +151,14 @@
     "sensor": [
       "Sensorname"
     ]
+  },
+  "assets": {
+    "legend": {
+      "href": "https://raw.githubusercontent.com/ramintaGMX/eodash/main//indicators/fooding.md",
+      "type": "image/png",
+      "roles": [
+        "metadata"
+      ]
+    }
   }
 }
