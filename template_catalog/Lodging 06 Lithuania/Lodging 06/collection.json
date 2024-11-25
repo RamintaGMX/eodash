@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "Lodging 06",
   "stac_version": "1.0.0",
-  "description": "##Interesting title",
+  "description": "",
   "links": [
     {
       "rel": "root",
@@ -35,7 +35,7 @@
     }
   ],
   "themes": [
-    "Lithuania"
+    "Crops Lodging"
   ],
   "subcode": "ld_06_lt_raster",
   "collection_group": "Crops",

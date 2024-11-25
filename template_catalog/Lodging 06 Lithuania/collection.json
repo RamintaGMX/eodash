@@ -32,7 +32,7 @@
       "code": "ld_06_lt_raster",
       "id": "Lodging 06",
       "themes": [
-        "Lithuania"
+        "Crops Lodging"
       ],
       "subcode": "ld_06_lt_raster",
       "collection_group": "Crops",
@@ -114,7 +114,6 @@
       "ld_06_lt_raster"
     ],
     "themes": [
-      "Lithuania",
       "Crops Lodging"
     ]
   }
