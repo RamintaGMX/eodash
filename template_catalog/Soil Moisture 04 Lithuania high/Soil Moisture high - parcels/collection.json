@@ -257,5 +257,14 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "proprietary",
+  "assets": {
+    "legend": {
+      "href": "https://raw.githubusercontent.com/ramintaGMX/eodash/main//collections/sagris_crop_lodging_pc.png",
+      "type": "image/png",
+      "roles": [
+        "metadata"
+      ]
+    }
+  }
 }
