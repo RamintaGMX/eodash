@@ -9,10 +9,10 @@ MapProjection:
   def: '+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs'
 Colorlegend:
   title: "Flooding Amount"
-  range: ["#000000", "#00366e"]
-  domain: [30, 100]
+  range: [ "#00366e", "#000000"]
+  domain: [0, 255]
   tickFormat: ".0f"
-  tickValues: [30,100]
+  tickValues: [0, 255]
   scaletype: continuous
 Resources:
   - Name: COG source
