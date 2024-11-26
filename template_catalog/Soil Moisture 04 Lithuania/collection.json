@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "Soil Moisture 04 Lithuania",
   "stac_version": "1.0.0",
-  "description": "### Flooding legend\n![image](sagris_siol_moisture_q1_image.png)\n",
+  "description": "### Flooding legend\n![image](sagris_soil_moisture_q1_image.png)\n",
   "links": [
     {
       "rel": "root",
@@ -230,12 +230,12 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "sm_04_lt_raster_medium",
       "sm_lt_04_parcels_wms_high",
+      "sm_04_lt_raster_medium",
       "sm_lt_04_parcels_wms_medium",
+      "sm_lt_04_parcels_wms_low",
       "sm_04_lt_raster_low",
-      "sm_04_lt_raster_high",
-      "sm_lt_04_parcels_wms_low"
+      "sm_04_lt_raster_high"
     ],
     "themes": [
       "Flooding"
