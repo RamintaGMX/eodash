@@ -299,23 +299,6 @@
     "Flooding"
   ],
   "subcode": "sm_04_lt_raster_low",
-  "eox:colorlegend": {
-    "title": "Flooding Amount",
-    "range": [
-      "#00366e",
-      "#000000"
-    ],
-    "domain": [
-      0,
-      255
-    ],
-    "tickFormat": ".0f",
-    "tickValues": [
-      0,
-      255
-    ],
-    "scaletype": "continuous"
-  },
   "proj:epsg": 3035,
   "endpointtype": "COG source",
   "title": "Soil Moisture low",
