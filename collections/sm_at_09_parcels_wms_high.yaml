@@ -1,34 +1,22 @@
-Name: Soil Moisture high - parcels
-Title: Soil Moisture high - parcels
-EodashIdentifier: sm_lt_04_parcels_wms_high
-Description: This can be **markdown** or a reference to a markdown file
+Name: Crops Lodging - parcels
+Title: Crops Lodging - parcels
+EodashIdentifier: sm_at_09_parcels_wms_high
+Description: ""
 Themes:
-  - Flooding
-Tags:
-  - example tag
-DataSource:
-  Spaceborne:
-    Satellite:
-      - Satellitename
-    Sensor:
-      - Sensorname
-  InSitu:
-    - Other insitu data
-Agency:
-  - Example agency
+  - Crops Lodging
 Resources:
-  - EndPoint: https://server1.landimage.info/geoserver/gwc/service/wms
+  - EndPoint: https://server1.landimage.info/geoserver/wms
     DataProjection: 3857
     Name: WMS
     Type: OverwriteTimes
     MediaType: image/png
-    Styles: ["sagris_soil_moisture_q1"]
-    LayerId: GTIFBaltic:LIT_2024_SM_m04_q1_q2_q3
+    Styles: []
+    LayerId: GTIFBaltic:LIT_2024_crops_lodging_07
     OverwriteBBox: [22.64524,54.94676,23.02416,55.30585]
     TileSize: 256
     Version: "1.1.1"
     DateTimeInterval:
-      Start: "2024-04-01T00:00:00Z"
-      End: "2024-04-30:00:00Z"
+      Start: "2024-06-25T00:00:00Z"
+      End: "2024-07-15:00:00Z"
       Timedelta:
-        days: 1
+        days: 20
