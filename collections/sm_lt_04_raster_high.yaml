@@ -19,7 +19,11 @@ Resources:
     Style: https://api.npoint.io/94d6c5c498a0ac16563f
     DataProjection: 3035
     Bbox: [22.64524,54.94676,23.02416,55.30585]
-
+    TimeEntries:
+      - Time: "2024-04-01"
+        Assets:
+          - Identifier: "LIT 01"
+            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_high_flooding_5201873_3657058_cog.tif
 #    TimeEntries:
 #      - Time: "2024-04-01"
 #        Assets:
