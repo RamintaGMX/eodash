@@ -12,11 +12,11 @@ Resources:
     MediaType: image/png
     Styles: []
     LayerId: GTIFBaltic:AUT_SM_2024_09_1120_Q1
-    OverwriteBBox: [22.64524,54.94676,23.02416,55.30585]
+    OverwriteBBox: [9.415283,46.346928,17.094727,49.016257]
     TileSize: 256
     Version: "1.1.1"
     DateTimeInterval:
-      Start: "2024-06-25T00:00:00Z"
-      End: "2024-07-15:00:00Z"
+      Start: "2024-09-01T00:00:00Z"
+      End: "2024-09-30:00:00Z"
       Timedelta:
-        days: 20
+        days: 1
