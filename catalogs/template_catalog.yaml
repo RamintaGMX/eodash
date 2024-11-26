@@ -8,4 +8,4 @@ assets_endpoint: "https://raw.githubusercontent.com/ramintaGMX/eodash/main/"
 collections:
   - gm-flooding-at
   - sm_lt_04_high_medium_low
-  - ld_lt_06
+  - ld_lt_07
