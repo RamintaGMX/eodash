@@ -16,7 +16,7 @@
       "type": "image/png",
       "title": "Lithuania 2024 June lodging vector",
       "wms:layers": [
-        "GTIFBaltic:LIT_2024_crops_lodging_m07"
+        "GTIFBaltic:LIT_2024_crops_lodging_07"
       ],
       "role": [
         "data"
