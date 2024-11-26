@@ -18,7 +18,7 @@ Agency:
   - Example agency
 Resources:
   - EndPoint: https://server1.landimage.info/geoserver/wms
-    DataProjection: 3035
+    DataProjection: 84
     Name: WMS
     Type: OverwriteTimes
     MediaType: image/png
