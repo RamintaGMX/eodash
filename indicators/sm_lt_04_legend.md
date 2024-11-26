@@ -1,7 +1,7 @@
+## SAR Soil Moisture Index
+
 ### Flooding legend
 ![image](sagris_soil_moisture_q1_image.png)
-
-## SAR Soil Moisture Index
 
 SAR Soil Moisture Index was developed at Geomatrix UAB (Lithuania) for detection and mapping of
 high soil moisture in low-vegetation and bare soil areas – presumably, regular seasonal floods and
