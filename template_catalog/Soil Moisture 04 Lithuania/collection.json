@@ -116,6 +116,27 @@
       "id": "overlay_bright"
     },
     {
+      "rel": "xyz",
+      "href": "//tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2023_3857/default/g/{z}/{y}/{x}.jpeg",
+      "type": "image/jpeg",
+      "title": "EOxCloudless 2023",
+      "roles": [
+        "baselayer"
+      ],
+      "id": "cloudless-2023"
+    },
+    {
+      "rel": "xyz",
+      "href": "//tiles.maps.eox.at/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png",
+      "type": "image/png",
+      "title": "Overlay labels",
+      "roles": [
+        "overlay",
+        "visible"
+      ],
+      "id": "overlay_bright"
+    },
+    {
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",
@@ -138,22 +159,22 @@
           55.30585
         ],
         [
-          22.64524,
-          54.94676,
-          23.02416,
-          55.30585
+          9.415283,
+          46.346928,
+          17.094727,
+          49.016257
         ],
         [
-          22.64524,
-          54.94676,
-          23.02416,
-          55.30585
+          9.415283,
+          46.346928,
+          17.094727,
+          49.016257
         ],
         [
-          22.64524,
-          54.94676,
-          23.02416,
-          55.30585
+          9.415283,
+          46.346928,
+          17.094727,
+          49.016257
         ]
       ]
     },
@@ -161,7 +182,7 @@
       "interval": [
         [
           "2024-04-01T00:00:00Z",
-          "2024-04-30T00:00:00Z"
+          "2024-09-30T00:00:00Z"
         ]
       ]
     }
@@ -169,9 +190,9 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "sm_lt_04_parcels_wms_high",
-      "sm_lt_04_parcels_wms_medium",
-      "sm_lt_04_parcels_wms_low"
+      "sm_at_09_parcels_wms_high",
+      "sm_at_09_parcels_wms_medium",
+      "sm_at_09_parcels_wms_low"
     ],
     "themes": [
       "Flooding"

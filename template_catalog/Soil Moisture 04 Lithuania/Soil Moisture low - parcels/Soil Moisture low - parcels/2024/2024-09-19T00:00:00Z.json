@@ -1,0 +1,54 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "stac_extensions": [
+    "https://stac-extensions.github.io/web-map-links/v1.1.0/schema.json"
+  ],
+  "id": "2024-09-19T00:00:00Z",
+  "geometry": null,
+  "properties": {
+    "datetime": "2024-09-19T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "wms",
+      "href": "https://server1.landimage.info/geoserver/wms",
+      "type": "image/png",
+      "title": "Soil Moisture low - parcels",
+      "wms:layers": [
+        "GTIFBaltic:AUT_SM_2024_09_1120_Q3"
+      ],
+      "role": [
+        "data"
+      ],
+      "wms:dimensions": {
+        "TIME": "2024-09-19T00:00:00Z"
+      },
+      "wms:styles": [],
+      "wms:tilesize": 256,
+      "wms:version": "1.1.1",
+      "proj:epsg": 3857
+    },
+    {
+      "rel": "root",
+      "href": "../../../../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Baltics"
+    },
+    {
+      "rel": "collection",
+      "href": "../../collection.json",
+      "type": "application/json",
+      "title": "Soil Moisture low - parcels"
+    },
+    {
+      "rel": "parent",
+      "href": "../../collection.json",
+      "type": "application/json",
+      "title": "Soil Moisture low - parcels"
+    }
+  ],
+  "assets": {},
+  "collection": "Soil Moisture low - parcels",
+  "proj:epsg": 3857
+}

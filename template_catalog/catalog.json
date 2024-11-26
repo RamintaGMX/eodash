@@ -65,18 +65,6 @@
       }
     },
     {
-      "rel": "child",
-      "href": "./Soil Moisture high - parcels/collection.json",
-      "type": "application/json",
-      "title": "Soil Moisture high - parcels",
-      "code": "sm_at_09_parcels_wms_high",
-      "id": "Soil Moisture high - parcels",
-      "themes": [
-        "Flooding"
-      ],
-      "subcode": "sm_at_09_parcels_wms_high"
-    },
-    {
       "rel": "self",
       "href": "https://organization.github.io/repository/repository/catalog.json",
       "type": "application/json"
