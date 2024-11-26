@@ -28,8 +28,8 @@ Resources:
     TileSize: 256
     Version: "1.1.1"
     DateTimeInterval:
-      Start: "2024-06-21T00:00:00Z"
-      End: "2024-07-11:00:00Z"
+      Start: "2024-06-25T00:00:00Z"
+      End: "2024-07-15:00:00Z"
       Timedelta:
         days: 20
 #Resources:
