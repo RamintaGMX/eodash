@@ -1,8 +1,8 @@
 {
   "type": "Collection",
-  "id": "Soil Moisture 04 Lithuania high",
+  "id": "Soil Moisture 04 Lithuania",
   "stac_version": "1.0.0",
-  "description": "### Flooding legend\n![image](sagris_crop_lodging_pc.png)\n",
+  "description": "### Flooding legend\n![image](sagris_siol_moisture_q1_image.png)\n",
   "links": [
     {
       "rel": "root",
@@ -56,6 +56,88 @@
       }
     },
     {
+      "rel": "child",
+      "href": "./Soil Moisture medium - parcels/collection.json",
+      "type": "application/json",
+      "title": "Soil Moisture medium - parcels",
+      "endpointtype": "WMS_OverwriteTimes",
+      "code": "sm_lt_04_parcels_wms_medium",
+      "id": "Soil Moisture medium - parcels",
+      "themes": [
+        "Flooding"
+      ],
+      "tags": [
+        "example tag"
+      ],
+      "agency": [
+        "Example agency"
+      ],
+      "subcode": "sm_lt_04_parcels_wms_medium",
+      "sensor": [
+        "Sensorname"
+      ],
+      "satellite": [
+        "Satellitename"
+      ],
+      "insituSources": [
+        "Other insitu data"
+      ]
+    },
+    {
+      "rel": "child",
+      "href": "./Soil Moisture medium/collection.json",
+      "type": "application/json",
+      "title": "Soil Moisture medium",
+      "endpointtype": "COG source",
+      "code": "sm_04_lt_raster_medium",
+      "id": "Soil Moisture medium",
+      "themes": [
+        "Flooding"
+      ],
+      "subcode": "sm_04_lt_raster_medium"
+    },
+    {
+      "rel": "child",
+      "href": "./Soil Moisture low - parcels/collection.json",
+      "type": "application/json",
+      "title": "Soil Moisture low - parcels",
+      "endpointtype": "WMS_OverwriteTimes",
+      "code": "sm_lt_04_parcels_wms_low",
+      "id": "Soil Moisture low - parcels",
+      "themes": [
+        "Flooding"
+      ],
+      "tags": [
+        "example tag"
+      ],
+      "agency": [
+        "Example agency"
+      ],
+      "subcode": "sm_lt_04_parcels_wms_low",
+      "sensor": [
+        "Sensorname"
+      ],
+      "satellite": [
+        "Satellitename"
+      ],
+      "insituSources": [
+        "Other insitu data"
+      ]
+    },
+    {
+      "rel": "child",
+      "href": "./Soil Moisture low/collection.json",
+      "type": "application/json",
+      "title": "Soil Moisture low",
+      "endpointtype": "COG source",
+      "code": "sm_04_lt_raster_low",
+      "id": "Soil Moisture low",
+      "themes": [
+        "Flooding"
+      ],
+      "subcode": "sm_04_lt_raster_low"
+    },
+    {
       "rel": "xyz",
       "href": "//tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2023_3857/default/g/{z}/{y}/{x}.jpeg",
       "type": "image/jpeg",
@@ -83,15 +165,39 @@
       "title": "GTIF Baltics"
     }
   ],
-  "subcode": "sm_lt_04_high",
+  "subcode": "sm_lt_04_high_medium_low",
   "eodash:mapProjection": {
     "name": "EPSG:3035",
     "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
   },
-  "title": "Soil Moisture 04 Lithuania high",
+  "title": "Soil Moisture 04 Lithuania",
   "extent": {
     "spatial": {
       "bbox": [
+        [
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
+        ],
+        [
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
+        ],
+        [
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
+        ],
+        [
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
+        ],
         [
           22.64524,
           54.94676,
@@ -124,8 +230,12 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "sm_04_lt_raster_high",
-      "sm_lt_04_parcels_wms_high"
+      "sm_lt_04_parcels_wms_low",
+      "sm_04_lt_raster_low",
+      "sm_lt_04_parcels_wms_medium",
+      "sm_lt_04_parcels_wms_high",
+      "sm_04_lt_raster_medium",
+      "sm_04_lt_raster_high"
     ],
     "themes": [
       "Flooding"
@@ -136,14 +246,5 @@
     "sensor": [
       "Sensorname"
     ]
-  },
-  "assets": {
-    "thumbnail": {
-      "href": "https://raw.githubusercontent.com/ramintaGMX/eodash/main//indicators/sagris_crop_lodging_pc.png",
-      "type": "image/png",
-      "roles": [
-        "thumbnail"
-      ]
-    }
   }
 }
