@@ -11,7 +11,7 @@ Resources:
     Type: OverwriteTimes
     MediaType: image/png
     Styles: []
-    LayerId: GTIFBaltic:LIT_2024_crops_lodging_m07
+    LayerId: GTIFBaltic:LIT_2024_crops_lodging_07
     OverwriteBBox: [22.64524,54.94676,23.02416,55.30585]
     TileSize: 256
     Version: "1.1.1"
