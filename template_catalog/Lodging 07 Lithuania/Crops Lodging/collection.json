@@ -24,11 +24,11 @@
     },
     {
       "rel": "wms",
-      "href": "https://server1.landimage.info/geoserver/wms",
+      "href": "https://server1.landimage.info/geoserver/ows?styles=sagris_soil_moisture_q1&tiled=true",
       "type": "image/png",
       "title": "Crops Lodging",
       "wms:layers": [
-        "GTIFBaltic:LIT_2024_crops_lodging_07"
+        "GTIFBaltic:S1_2024_0621_0711_crops_lodging_diff"
       ],
       "role": [
         "data"
