@@ -19,11 +19,7 @@ Resources:
     Style: https://api.npoint.io/94d6c5c498a0ac16563f
     DataProjection: 3035
     Bbox: [22.64524,54.94676,23.02416,55.30585]
-    DateTimeInterval:
-      Start: "2024-04-01T00:00:00Z"
-      End: "2024-04-30:00:00Z"
-      Timedelta:
-        days: 29    
+
 #    TimeEntries:
 #      - Time: "2024-04-01"
 #        Assets:
