@@ -12,7 +12,7 @@
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture high/1970/6c810dab-1732-467a-825f-998677992d03.json",
+      "href": "./Soil Moisture high/1970/b3653f94-9544-4d4a-8aca-189758f6492b.json",
       "type": "application/json"
     },
     {
@@ -47,8 +47,8 @@
     "temporal": {
       "interval": [
         [
-          "2024-04-01T00:00:00Z",
-          "2024-04-30T00:00:00Z"
+          "2024-11-26T20:37:46.820343Z",
+          null
         ]
       ]
     }

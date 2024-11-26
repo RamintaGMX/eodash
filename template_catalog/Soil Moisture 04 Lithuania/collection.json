@@ -222,7 +222,7 @@
       "interval": [
         [
           "1970-01-01T00:00:00Z",
-          "2024-11-26T20:34:44.709218Z"
+          "2024-11-26T20:37:46.820439Z"
         ]
       ]
     }
@@ -230,11 +230,11 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "sm_04_lt_raster_high",
       "sm_04_lt_raster_medium",
       "sm_lt_04_parcels_wms_medium",
-      "sm_lt_04_parcels_wms_low",
       "sm_04_lt_raster_low",
+      "sm_04_lt_raster_high",
+      "sm_lt_04_parcels_wms_low",
       "sm_lt_04_parcels_wms_high"
     ],
     "themes": [
