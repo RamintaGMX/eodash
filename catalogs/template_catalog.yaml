@@ -7,7 +7,5 @@ default_overlay_layers: "layers/overlays"
 assets_endpoint: "https://raw.githubusercontent.com/ramintaGMX/eodash/main/"
 collections:
   - gm-flooding-at
-  - sm_lt_04_high
-  - sm_lt_04_medium
-  - sm_lt_04_low
+  - sm_lt_04_high_medium_low
   - ld_lt_06
