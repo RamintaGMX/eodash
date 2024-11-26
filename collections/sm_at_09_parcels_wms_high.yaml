@@ -6,7 +6,7 @@ Themes:
   - Flooding
 Resources:
   - EndPoint: https://server1.landimage.info/geoserver/wms
-    DataProjection: 3857
+    DataProjection: 84
     Name: WMS
     Type: OverwriteTimes
     MediaType: image/png
@@ -19,4 +19,4 @@ Resources:
       Start: "2024-09-01T00:00:00Z"
       End: "2024-09-30:00:00Z"
       Timedelta:
-        days: 1
+        days: 29
