@@ -17,6 +17,12 @@
       "datetime": "2024-04-01T00:00:00Z"
     },
     {
+      "rel": "item",
+      "href": "./Soil Moisture high - parcels/2024/2024-04-30T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-30T00:00:00Z"
+    },
+    {
       "rel": "wms",
       "href": "https://server1.landimage.info/geoserver/gwc/service/wms",
       "type": "image/png",
@@ -78,7 +84,7 @@
       "interval": [
         [
           "2024-04-01T00:00:00Z",
-          "2024-04-01T00:00:00Z"
+          "2024-04-30T00:00:00Z"
         ]
       ]
     }
