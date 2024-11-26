@@ -12,44 +12,6 @@
     },
     {
       "rel": "child",
-      "href": "./Soil Moisture 09 Austria/collection.json",
-      "type": "application/json",
-      "title": "Soil Moisture 09 Austria",
-      "endpointtype": "COG source",
-      "code": "flooding_capability_aut",
-      "id": "Soil Moisture 09 Austria",
-      "themes": [
-        "Flooding"
-      ],
-      "subcode": "flooding_capability_aut",
-      "eodash:mapProjection": {
-        "name": "EPSG:3035",
-        "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
-      }
-    },
-    {
-      "rel": "xyz",
-      "href": "//tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2023_3857/default/g/{z}/{y}/{x}.jpeg",
-      "type": "image/jpeg",
-      "title": "EOxCloudless 2023",
-      "roles": [
-        "baselayer"
-      ],
-      "id": "cloudless-2023"
-    },
-    {
-      "rel": "xyz",
-      "href": "//tiles.maps.eox.at/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png",
-      "type": "image/png",
-      "title": "Overlay labels",
-      "roles": [
-        "overlay",
-        "visible"
-      ],
-      "id": "overlay_bright"
-    },
-    {
-      "rel": "child",
       "href": "./Soil Moisture high - parcels/collection.json",
       "type": "application/json",
       "title": "Soil Moisture high - parcels",
@@ -115,9 +77,6 @@
       "title": "GTIF Baltics"
     }
   ],
-  "themes": [
-    "Flooding"
-  ],
   "subcode": "sm_at_09_high_medium_low",
   "eodash:mapProjection": {
     "name": "EPSG:3035",
@@ -127,12 +86,6 @@
   "extent": {
     "spatial": {
       "bbox": [
-        [
-          9.415283,
-          46.346928,
-          17.094727,
-          49.016257
-        ],
         [
           9.415283,
           46.346928,
@@ -171,10 +124,9 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "sm_at_09_parcels_wms_high",
-      "flooding_capability_aut",
+      "sm_at_09_parcels_wms_low",
       "sm_at_09_parcels_wms_medium",
-      "sm_at_09_parcels_wms_low"
+      "sm_at_09_parcels_wms_high"
     ],
     "themes": [
       "Flooding"
