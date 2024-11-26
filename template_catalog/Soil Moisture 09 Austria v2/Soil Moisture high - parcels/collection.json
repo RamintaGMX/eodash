@@ -1,6 +1,6 @@
 {
   "type": "Collection",
-  "id": "Soil Moisture low - parcels",
+  "id": "Soil Moisture high - parcels",
   "stac_version": "1.0.0",
   "description": "",
   "links": [
@@ -12,181 +12,181 @@
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-01T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-01T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-01T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-02T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-02T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-02T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-03T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-03T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-03T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-04T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-04T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-04T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-05T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-05T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-05T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-06T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-06T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-06T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-07T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-07T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-07T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-08T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-08T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-08T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-09T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-09T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-09T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-10T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-10T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-10T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-11T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-11T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-11T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-12T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-12T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-12T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-13T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-13T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-13T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-14T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-14T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-14T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-15T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-15T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-15T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-16T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-16T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-16T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-17T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-17T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-17T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-18T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-18T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-18T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-19T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-19T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-19T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-20T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-20T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-20T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-21T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-21T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-21T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-22T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-22T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-22T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-23T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-23T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-23T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-24T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-24T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-24T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-25T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-25T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-25T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-26T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-26T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-26T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-27T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-27T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-27T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-28T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-28T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-28T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-29T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-29T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-29T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture low - parcels/2024/2024-09-30T00:00:00Z.json",
+      "href": "./Soil Moisture high - parcels/2024/2024-09-30T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-30T00:00:00Z"
     },
@@ -194,9 +194,9 @@
       "rel": "wms",
       "href": "https://server1.landimage.info/geoserver/wms",
       "type": "image/png",
-      "title": "Soil Moisture low - parcels",
+      "title": "Soil Moisture high - parcels",
       "wms:layers": [
-        "GTIFBaltic:AUT_SM_2024_09_1120_Q3"
+        "GTIFBaltic:AUT_SM_2024_09_1120_Q1"
       ],
       "role": [
         "data"
@@ -210,16 +210,16 @@
       "rel": "parent",
       "href": "../collection.json",
       "type": "application/json",
-      "title": "Soil Moisture 09 Austria"
+      "title": "Soil Moisture 09 Austria v2"
     }
   ],
   "themes": [
     "Flooding"
   ],
-  "subcode": "sm_at_09_parcels_wms_low",
+  "subcode": "sm_at_09_parcels_wms_high",
   "proj:epsg": 3857,
   "endpointtype": "WMS_OverwriteTimes",
-  "title": "Soil Moisture low - parcels",
+  "title": "Soil Moisture high - parcels",
   "extent": {
     "spatial": {
       "bbox": [
