@@ -1,0 +1,45 @@
+
+Name: Crops Lodging
+Title:  Crops Lodging
+EodashIdentifier: ld_06_lt_raster
+Description: ""
+CollectionGroup: Crops
+Themes:
+  - Crops Lodging
+MapProjection:
+  name: 'EPSG:3035'
+  def: '+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs'
+Resources:
+  - EndPoint: https://server1.landimage.info/geoserver/ows?styles=sagris_soil_moisture_q1&tiled=true
+    DataProjection: 3857
+    Name: WMS
+    Type: OverwriteTimes
+    MediaType: image/png
+    Styles: []
+    LayerId: GTIFBaltic:S1_2024_0621_0711_crops_lodging_diff
+    OverwriteBBox: [22.64524,54.94676,23.02416,55.30585]
+    TileSize: 256
+    Version: "1.1.1"
+    DateTimeInterval:
+      Start: "2024-06-25T00:00:00Z"
+      End: "2024-07-15:00:00Z"
+      Timedelta:
+        days: 20
+#Colorlegend:
+#  title: "Lodging Amount"
+#  range: ["#ffffff", "#f9e622"]
+#  domain: [0, 255]
+#  tickFormat: ".0f"
+#  tickValues: [0,255]
+#  scaletype: continuous
+#Resources:
+#  - Name: COG source
+#    Style: https://api.npoint.io/7f1fdb1c5d806d5a7a36
+#    DataProjection: 3035
+#    Bbox: [22.64524,54.94676,23.02416,55.30585]
+#    TimeEntries:
+#      - Time: "2024-06-01"
+#        Assets:
+#          - Identifier: "01"
+#            File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
+#            Legend: collections/flooding_legend.png
