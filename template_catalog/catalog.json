@@ -50,11 +50,11 @@
     },
     {
       "rel": "child",
-      "href": "./Soil Moisture 09 Austria v2/collection.json",
+      "href": "./Soil Moisture 09 Austria/collection.json",
       "type": "application/json",
-      "title": "Soil Moisture 09 Austria v2",
+      "title": "Soil Moisture 09 Austria",
       "code": "sm_at_09_high_medium_low",
-      "id": "Soil Moisture 09 Austria v2",
+      "id": "Soil Moisture 09 Austria",
       "subcode": "sm_at_09_high_medium_low",
       "themes": [
         "Flooding"
