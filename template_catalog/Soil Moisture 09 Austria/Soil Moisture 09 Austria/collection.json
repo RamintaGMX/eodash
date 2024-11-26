@@ -1,6 +1,6 @@
 {
   "type": "Collection",
-  "id": "Flooding Austria",
+  "id": "Soil Moisture 09 Austria",
   "stac_version": "1.0.0",
   "description": "# Soil Moisture\n\n### Flooding legend\n![image](sagris_soil_moisture_q1_image.png)\n\nSAR Soil Moisture Index was developed at Geomatrix UAB (Lithuania) for detection and mapping of\nhigh soil moisture in low-vegetation and bare soil areas \u2013 presumably, regular seasonal floods and\noccasional hazardous summer-time floods affecting agriculture. SAR Soil Moisture index is computed\nfrom analysis-ready Sentinel-1 polarimetry SAR data, produced by SAGRIS software toolbox as\ncalibrated, orthorectified, flattened and cloud-optimised 16-bit raster datasets. Methodology is based on\nSAR polarisation ratio, combined with direct classification of back-scatter signal values, which allows\ndetection of a wide range of flooding conditions \u2013 from highly saturated soils to temporary water bodies\nstanding is agriculture fields. Combination of different computation methods allows detection of\nexcessive water both on bare soil and under the coverage of crops, unless vegetation is too massive for the\nC-band radar signal to penetrate (e.g. woody vegetation, corn fields, etc.). \n\n\nSAR Soil Moisture index contains a combined set of polarisation ratios and coded values, which have the following practical\nmeanings:\n- 0\u20139: Low-to-moderate soil moisture (saturation), which poses no threat to heavy machinery, yet\npractical farming operations are likely to be disturbed when values reach above 5;\n- 10\u201350: High soil moisture (complete saturation) with water accumulating on soil surface below\nvegetation cover. Physical access to fields and routine farming activities are not possible;\n- 50\u2013100: Partial flooding of fields with vegetation partially submerged. This is a hazardous\ncondition, potentially causing a substantial loss of crops;\n- 100\u2013200: Complete flooding of fields with open water bodies and completely submerged\nvegetation. This is a force majeure condition, definitely causing a complete loss of crops and\ndisturbing further activities of the farming cycle, thus impacting the next year harvest.\n",
   "links": [
@@ -12,7 +12,7 @@
     },
     {
       "rel": "item",
-      "href": "./Flooding Austria/2024/2024-09-11T00:00:00Z.json",
+      "href": "./Soil Moisture 09 Austria/2024/2024-09-11T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-09-11T00:00:00Z",
       "assets": [
@@ -31,7 +31,7 @@
       "rel": "parent",
       "href": "../collection.json",
       "type": "application/json",
-      "title": "Austria"
+      "title": "Soil Moisture 09 Austria"
     }
   ],
   "themes": [
@@ -47,7 +47,7 @@
     "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
   },
   "endpointtype": "COG source",
-  "title": "Austria",
+  "title": "Soil Moisture 09 Austria",
   "extent": {
     "spatial": {
       "bbox": [

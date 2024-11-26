@@ -12,11 +12,11 @@
     },
     {
       "rel": "child",
-      "href": "./Flooding Austria/collection.json",
+      "href": "./Soil Moisture 09 Austria/collection.json",
       "type": "application/json",
-      "title": "Austria",
+      "title": "Soil Moisture 09 Austria",
       "code": "flooding_capability_aut",
-      "id": "Flooding Austria",
+      "id": "Soil Moisture 09 Austria",
       "themes": [
         "Flooding"
       ],
