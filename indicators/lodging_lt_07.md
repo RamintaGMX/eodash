@@ -1,5 +1,5 @@
 ### Lodging legend
-![image](sagris_crop_lodging_pc.png)
+<!-- ![image](sagris_crop_lodging_pc.png) -->
 
 Crop lodging (i.e. intense bending or even dumping to the ground) is
 caused by impacts of severe summer storms, grazing of wild animals or
