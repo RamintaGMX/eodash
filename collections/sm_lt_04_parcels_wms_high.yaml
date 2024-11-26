@@ -29,6 +29,6 @@ Resources:
     Version: "1.1.1"
     DateTimeInterval:
       Start: "2024-04-25T00:00:00Z"
-      End: "2024-05-15:00:00Z"
+      End: "2024-05-15T00:00:00Z"
       Timedelta:
         days: 20
