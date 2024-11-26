@@ -1,0 +1,76 @@
+{
+  "type": "Collection",
+  "id": "Crops Lodging - parcels",
+  "stac_version": "1.0.0",
+  "description": "",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "GTIF Baltics"
+    },
+    {
+      "rel": "item",
+      "href": "./Crops Lodging - parcels/2024/2024-06-25T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-06-25T00:00:00Z"
+    },
+    {
+      "rel": "item",
+      "href": "./Crops Lodging - parcels/2024/2024-07-15T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-07-15T00:00:00Z"
+    },
+    {
+      "rel": "wms",
+      "href": "https://server1.landimage.info/geoserver/wms",
+      "type": "image/png",
+      "title": "Crops Lodging - parcels",
+      "wms:layers": [
+        "GTIFBaltic:AUT_SM_2024_09_1120_Q3"
+      ],
+      "role": [
+        "data"
+      ],
+      "wms:styles": [],
+      "wms:tilesize": 256,
+      "wms:version": "1.1.1",
+      "proj:epsg": 3857
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Crops Lodging - parcels"
+    }
+  ],
+  "themes": [
+    "Flooding"
+  ],
+  "subcode": "sm_at_09_parcels_wms_high",
+  "proj:epsg": 3857,
+  "endpointtype": "WMS_OverwriteTimes",
+  "title": "Crops Lodging - parcels",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2024-06-25T00:00:00Z",
+          "2024-07-15T00:00:00Z"
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

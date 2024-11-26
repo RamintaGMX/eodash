@@ -65,6 +65,18 @@
       }
     },
     {
+      "rel": "child",
+      "href": "./Crops Lodging - parcels/collection.json",
+      "type": "application/json",
+      "title": "Crops Lodging - parcels",
+      "code": "sm_at_09_parcels_wms_high",
+      "id": "Crops Lodging - parcels",
+      "themes": [
+        "Flooding"
+      ],
+      "subcode": "sm_at_09_parcels_wms_high"
+    },
+    {
       "rel": "self",
       "href": "https://organization.github.io/repository/repository/catalog.json",
       "type": "application/json"
