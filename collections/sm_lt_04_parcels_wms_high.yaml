@@ -16,7 +16,6 @@ DataSource:
     - Other insitu data
 Agency:
   - Example agency
-Legend: collections/sagris_crop_lodging_pc.png
 Resources:
   - EndPoint: https://server1.landimage.info/geoserver/gwc/service/wms
     DataProjection: 3857
