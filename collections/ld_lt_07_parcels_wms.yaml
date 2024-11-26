@@ -15,5 +15,8 @@ Resources:
     OverwriteBBox: [22.64524,54.94676,23.02416,55.30585]
     TileSize: 256
     Version: "1.1.1"
-    Times:
-      - '2024-06-25'
+    DateTimeInterval:
+      Start: "2024-06-25T00:00:00Z"
+      End: "2024-07-15:00:00Z"
+      Timedelta:
+        days: 20
