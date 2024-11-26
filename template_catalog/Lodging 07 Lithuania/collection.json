@@ -25,12 +25,12 @@
     },
     {
       "rel": "child",
-      "href": "./Lodging 06/collection.json",
+      "href": "./Crops Lodging/collection.json",
       "type": "application/json",
-      "title": "Lodging 06",
+      "title": "Crops Lodging",
       "endpointtype": "COG source",
       "code": "ld_06_lt_raster",
-      "id": "Lodging 06",
+      "id": "Crops Lodging",
       "themes": [
         "Crops Lodging"
       ],
@@ -110,8 +110,8 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "ld_lt_07_wms",
-      "ld_06_lt_raster"
+      "ld_06_lt_raster",
+      "ld_lt_07_wms"
     ],
     "themes": [
       "Crops Lodging"

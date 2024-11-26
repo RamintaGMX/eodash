@@ -1,6 +1,6 @@
 {
   "type": "Collection",
-  "id": "Lodging 06",
+  "id": "Crops Lodging",
   "stac_version": "1.0.0",
   "description": "",
   "links": [
@@ -12,7 +12,7 @@
     },
     {
       "rel": "item",
-      "href": "./Lodging 06/2024/2024-06-01T00:00:00Z.json",
+      "href": "./Crops Lodging/2024/2024-06-01T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-06-01T00:00:00Z",
       "assets": [
@@ -62,7 +62,7 @@
   },
   "proj:epsg": 3035,
   "endpointtype": "COG source",
-  "title": "Lodging 06",
+  "title": "Crops Lodging",
   "extent": {
     "spatial": {
       "bbox": [
