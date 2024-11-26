@@ -1,7 +1,7 @@
-Name: "Lodging 06 Lithuania"
-Title: "Lodging 06 Lithuania"
-EodashIdentifier: "ld_lt_06"
-Description: "lithuania indicator"
+Name: "Lodging 07 Lithuania"
+Title: "Lodging 07 Lithuania"
+EodashIdentifier: "ld_lt_07"
+Description: indicators/lodging_lt_07.md
 Bbox: [22.64524,54.94676,23.02416,55.30585]
 MapProjection:
   name: 'EPSG:3035'
