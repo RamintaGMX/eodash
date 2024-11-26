@@ -1,8 +1,8 @@
 {
   "type": "Collection",
-  "id": "Lodging 06 Lithuania",
+  "id": "Lodging 07 Lithuania",
   "stac_version": "1.0.0",
-  "description": "lithuania indicator",
+  "description": "### Flooding legend\n![image](sagris_crop_lodging_pc.png)\n",
   "links": [
     {
       "rel": "root",
@@ -69,12 +69,12 @@
       "title": "GTIF Baltics"
     }
   ],
-  "subcode": "ld_lt_06",
+  "subcode": "ld_lt_07",
   "eodash:mapProjection": {
     "name": "EPSG:3035",
     "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
   },
-  "title": "Lodging 06 Lithuania",
+  "title": "Lodging 07 Lithuania",
   "extent": {
     "spatial": {
       "bbox": [

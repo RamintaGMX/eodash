@@ -50,12 +50,12 @@
     },
     {
       "rel": "child",
-      "href": "./Lodging 06 Lithuania/collection.json",
+      "href": "./Lodging 07 Lithuania/collection.json",
       "type": "application/json",
-      "title": "Lodging 06 Lithuania",
-      "code": "ld_lt_06",
-      "id": "Lodging 06 Lithuania",
-      "subcode": "ld_lt_06",
+      "title": "Lodging 07 Lithuania",
+      "code": "ld_lt_07",
+      "id": "Lodging 07 Lithuania",
+      "subcode": "ld_lt_07",
       "themes": [
         "Crops Lodging"
       ],
