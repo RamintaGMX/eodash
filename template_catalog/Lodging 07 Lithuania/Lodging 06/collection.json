@@ -46,8 +46,8 @@
   "eox:colorlegend": {
     "title": "Lodging Amount",
     "range": [
-      "#f9e622",
-      "#000000"
+      "#ffffff",
+      "#f9e622"
     ],
     "domain": [
       0,
