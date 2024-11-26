@@ -25,7 +25,7 @@ Resources:
           - Identifier: "01"
              File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_high_flooding_5201873_3657058_cog.tif
 
-    TimeEntries:
+#    TimeEntries:
 #      - Time: "2024-04-01"
 #        Assets:
 #          - Identifier: "01"
