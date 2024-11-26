@@ -66,11 +66,11 @@
     },
     {
       "rel": "child",
-      "href": "./Crops Lodging - parcels/collection.json",
+      "href": "./Soil Moisture high - parcels/collection.json",
       "type": "application/json",
-      "title": "Crops Lodging - parcels",
+      "title": "Soil Moisture high - parcels",
       "code": "sm_at_09_parcels_wms_high",
-      "id": "Crops Lodging - parcels",
+      "id": "Soil Moisture high - parcels",
       "themes": [
         "Flooding"
       ],
