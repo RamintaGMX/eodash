@@ -1,30 +1,18 @@
 Name: Soil Moisture medium - parcels
 Title: Soil Moisture medium - parcels
 EodashIdentifier: sm_at_09_parcels_wms_medium
-Description: This can be **markdown** or a reference to a markdown file
+Description: ""
 Themes:
   - Flooding
-Tags:
-  - example tag
-DataSource:
-  Spaceborne:
-    Satellite:
-      - Satellitename
-    Sensor:
-      - Sensorname
-  InSitu:
-    - Other insitu data
-Agency:
-  - Example agency
 Resources:
-  - EndPoint: https://server1.landimage.info/geoserver/gwc/service/wms
+  - EndPoint: https://server1.landimage.info/geoserver/wms
     DataProjection: 3857
     Name: WMS
     Type: OverwriteTimes
     MediaType: image/png
     Styles: []
     LayerId: GTIFBaltic:AUT_SM_2024_09_1120_Q2
-    OverwriteBBox: [22.64524,54.94676,23.02416,55.30585]
+    OverwriteBBox: [9.415283,46.346928,17.094727,49.016257]
     TileSize: 256
     Version: "1.1.1"
     DateTimeInterval:
