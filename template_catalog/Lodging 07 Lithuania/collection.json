@@ -102,7 +102,7 @@
       "interval": [
         [
           "2024-06-01T00:00:00Z",
-          "2024-06-25T00:00:00Z"
+          "2024-07-15T00:00:00Z"
         ]
       ]
     }
@@ -110,8 +110,8 @@
   "license": "proprietary",
   "summaries": {
     "subcode": [
-      "ld_06_lt_raster",
-      "ld_lt_07_wms"
+      "ld_lt_07_wms",
+      "ld_06_lt_raster"
     ],
     "themes": [
       "Crops Lodging"

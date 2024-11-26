@@ -17,6 +17,12 @@
       "datetime": "2024-06-25T00:00:00Z"
     },
     {
+      "rel": "item",
+      "href": "./Crops Lodging - parcels/2024/2024-07-15T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-07-15T00:00:00Z"
+    },
+    {
       "rel": "wms",
       "href": "https://server1.landimage.info/geoserver/wms",
       "type": "image/png",
@@ -61,7 +67,7 @@
       "interval": [
         [
           "2024-06-25T00:00:00Z",
-          "2024-06-25T00:00:00Z"
+          "2024-07-15T00:00:00Z"
         ]
       ]
     }
