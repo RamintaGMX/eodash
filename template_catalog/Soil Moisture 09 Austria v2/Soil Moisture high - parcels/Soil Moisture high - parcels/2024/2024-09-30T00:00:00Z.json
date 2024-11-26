@@ -27,7 +27,7 @@
       "wms:styles": [],
       "wms:tilesize": 256,
       "wms:version": "1.1.1",
-      "proj:epsg": 3857
+      "proj:epsg": 84
     },
     {
       "rel": "root",
@@ -50,5 +50,5 @@
   ],
   "assets": {},
   "collection": "Soil Moisture high - parcels",
-  "proj:epsg": 3857
+  "proj:epsg": 84
 }
