@@ -1,6 +1,6 @@
 {
   "type": "Collection",
-  "id": "Lithuania 2024 June lodging vector",
+  "id": "Crops Lodging - parcels",
   "stac_version": "1.0.0",
   "description": "",
   "links": [
@@ -12,7 +12,7 @@
     },
     {
       "rel": "item",
-      "href": "./Lithuania 2024 June lodging vector/2024/2024-06-25T00:00:00Z.json",
+      "href": "./Crops Lodging - parcels/2024/2024-06-25T00:00:00Z.json",
       "type": "application/json",
       "datetime": "2024-06-25T00:00:00Z"
     },
@@ -20,7 +20,7 @@
       "rel": "wms",
       "href": "https://server1.landimage.info/geoserver/wms",
       "type": "image/png",
-      "title": "Lithuania 2024 June lodging vector",
+      "title": "Crops Lodging - parcels",
       "wms:layers": [
         "GTIFBaltic:LIT_2024_crops_lodging_07"
       ],
@@ -45,7 +45,7 @@
   "subcode": "ld_lt_07_wms",
   "proj:epsg": 3857,
   "endpointtype": "WMS_OverwriteTimes",
-  "title": "Lithuania 2024 June lodging",
+  "title": "Crops Lodging - parcels",
   "extent": {
     "spatial": {
       "bbox": [
