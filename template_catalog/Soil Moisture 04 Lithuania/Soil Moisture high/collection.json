@@ -12,8 +12,20 @@
     },
     {
       "rel": "item",
-      "href": "./Soil Moisture high/1970/b3653f94-9544-4d4a-8aca-189758f6492b.json",
-      "type": "application/json"
+      "href": "./Soil Moisture high/2024/2024-04-01T00:00:00Z.json",
+      "type": "application/json",
+      "datetime": "2024-04-01T00:00:00Z",
+      "assets": [
+        "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-flooding/output/LIT_2024_04_high_flooding_5201873_3657058_cog.tif"
+      ]
+    },
+    {
+      "rel": "style",
+      "href": "https://api.npoint.io/94d6c5c498a0ac16563f",
+      "type": "text/cog-styles",
+      "asset:keys": [
+        "LIT 01"
+      ]
     },
     {
       "rel": "parent",
@@ -37,18 +49,18 @@
     "spatial": {
       "bbox": [
         [
-          -180.0,
-          -90.0,
-          180.0,
-          90.0
+          22.64524,
+          54.94676,
+          23.02416,
+          55.30585
         ]
       ]
     },
     "temporal": {
       "interval": [
         [
-          "2024-11-26T20:37:46.820343Z",
-          null
+          "2024-04-01T00:00:00Z",
+          "2024-04-01T00:00:00Z"
         ]
       ]
     }
