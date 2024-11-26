@@ -28,7 +28,7 @@
       "type": "image/png",
       "title": "Crops Lodging - parcels",
       "wms:layers": [
-        "GTIFBaltic:AUT_SM_2024_09_1120_Q3"
+        "GTIFBaltic:AUT_SM_2024_09_1120_Q1"
       ],
       "role": [
         "data"
