@@ -36,7 +36,7 @@
       "wms:styles": [],
       "wms:tilesize": 256,
       "wms:version": "1.1.1",
-      "proj:epsg": 84
+      "proj:epsg": 3857
     },
     {
       "rel": "parent",
@@ -49,7 +49,7 @@
     "Flooding"
   ],
   "subcode": "sm_at_09_parcels_wms_high",
-  "proj:epsg": 84,
+  "proj:epsg": 3857,
   "endpointtype": "WMS_OverwriteTimes",
   "title": "Soil Moisture high - parcels",
   "extent": {
