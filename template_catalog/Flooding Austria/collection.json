@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "Flooding Austria",
   "stac_version": "1.0.0",
-  "description": "fooding.md",
+  "description": "# Title\n![image](legend_flooding.png)\n",
   "links": [
     {
       "rel": "root",
@@ -98,14 +98,5 @@
     "themes": [
       "Flooding"
     ]
-  },
-  "assets": {
-    "legend": {
-      "href": "https://raw.githubusercontent.com/ramintaGMX/eodash/main//collections/legend_flooding.png",
-      "type": "image/png",
-      "roles": [
-        "metadata"
-      ]
-    }
   }
 }
