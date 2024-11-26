@@ -231,11 +231,11 @@
   "summaries": {
     "subcode": [
       "sm_04_lt_raster_high",
-      "sm_04_lt_raster_low",
       "sm_lt_04_parcels_wms_low",
-      "sm_lt_04_parcels_wms_medium",
+      "sm_04_lt_raster_medium",
+      "sm_04_lt_raster_low",
       "sm_lt_04_parcels_wms_high",
-      "sm_04_lt_raster_medium"
+      "sm_lt_04_parcels_wms_medium"
     ],
     "themes": [
       "Flooding"
