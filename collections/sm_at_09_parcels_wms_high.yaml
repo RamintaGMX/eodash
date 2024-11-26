@@ -1,6 +1,6 @@
 Name: Soil Moisture high - parcels
 Title: Soil Moisture high - parcels
-EodashIdentifier: sm_at_09_parcels_wms_high
+EodashIdentifier: sm_lt_04_parcels_wms_high
 Description: This can be **markdown** or a reference to a markdown file
 Themes:
   - Flooding
