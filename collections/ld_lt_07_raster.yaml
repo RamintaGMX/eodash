@@ -38,7 +38,7 @@ Resources:
     DataProjection: 3035
     Bbox: [22.64524,54.94676,23.02416,55.30585]
     TimeEntries:
-      - Time: "2024-06-01"
+      - Time: "2024-06-25"
         Assets:
           - Identifier: "01"
             File: https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif
