@@ -28,7 +28,7 @@
       "href": "./Crops Lodging/collection.json",
       "type": "application/json",
       "title": "Crops Lodging",
-      "endpointtype": "WMS_OverwriteTimes",
+      "endpointtype": "COG source",
       "code": "ld_06_lt_raster",
       "id": "Crops Lodging",
       "themes": [
@@ -101,7 +101,7 @@
     "temporal": {
       "interval": [
         [
-          "2024-06-25T00:00:00Z",
+          "2024-06-01T00:00:00Z",
           "2024-07-15T00:00:00Z"
         ]
       ]
