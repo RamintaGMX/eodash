@@ -1,11 +1,11 @@
-## Soil Moisture
+## Waterlogging
 
 ### Flooding legend
 ![image](sagris_soil_moisture_q1_image.png)
 
-SAR Soil Moisture Index was developed at Geomatrix UAB (Lithuania) for detection and mapping of
+SAGRIS Waterlogging Index was developed at Geomatrix UAB (Lithuania) for detection and mapping of
 high soil moisture in low-vegetation and bare soil areas – presumably, regular seasonal floods and
-occasional hazardous summer-time floods affecting agriculture. SAR Soil Moisture index is computed
+occasional hazardous summer-time floods affecting agriculture. SAGRIS Waterlogging Index is computed
 from analysis-ready Sentinel-1 polarimetry SAR data, produced by SAGRIS software toolbox as
 calibrated, orthorectified, flattened and cloud-optimised 16-bit raster datasets. Methodology is based on
 SAR polarisation ratio, combined with direct classification of back-scatter signal values, which allows
@@ -15,7 +15,7 @@ excessive water both on bare soil and under the coverage of crops, unless vegeta
 C-band radar signal to penetrate (e.g. woody vegetation, corn fields, etc.). 
 
 
-SAR Soil Moisture index contains a combined set of polarisation ratios and coded values, which have the following practical
+SAGRIS Waterlogging Index contains a combined set of polarisation ratios and coded values, which have the following practical
 meanings:
 - 0–9: Low-to-moderate soil moisture (saturation), which poses no threat to heavy machinery, yet
 practical farming operations are likely to be disturbed when values reach above 5;
