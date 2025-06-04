@@ -25,12 +25,12 @@
     },
     {
       "rel": "child",
-      "href": "./Soil Moisture medium - parcels/collection.json",
+      "href": "./Medium Waterlogging - parcels/collection.json",
       "type": "application/json",
-      "title": "Soil Moisture medium - parcels",
+      "title": "Medium Waterlogging - parcels",
       "endpointtype": "WMS_OverwriteTimes",
       "code": "sm_at_09_parcels_wms_medium",
-      "id": "Soil Moisture medium - parcels",
+      "id": "Medium Waterlogging - parcels",
       "themes": [
         "Flooding"
       ],
@@ -124,9 +124,9 @@
   "license": "other",
   "summaries": {
     "subcode": [
-      "sm_at_09_parcels_wms_medium",
+      "sm_at_09_parcels_wms_high",
       "sm_at_09_parcels_wms_low",
-      "sm_at_09_parcels_wms_high"
+      "sm_at_09_parcels_wms_medium"
     ],
     "themes": [
       "Flooding"
