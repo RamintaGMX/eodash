@@ -68,12 +68,12 @@
     },
     {
       "rel": "child",
-      "href": "./Soil Moisture low - parcels/collection.json",
+      "href": "./Low Waterlogging - parcels/collection.json",
       "type": "application/json",
-      "title": "Soil Moisture low - parcels",
+      "title": "Low Waterlogging - parcels",
       "endpointtype": "WMS_OverwriteTimes",
       "code": "sm_lt_04_parcels_wms_low",
-      "id": "Soil Moisture low - parcels",
+      "id": "Low Waterlogging - parcels",
       "themes": [
         "Flooding"
       ],
@@ -169,8 +169,8 @@
   "license": "other",
   "summaries": {
     "subcode": [
-      "sm_lt_04_parcels_wms_low",
       "sm_lt_04_parcels_wms_high",
+      "sm_lt_04_parcels_wms_low",
       "sm_lt_04_parcels_wms_medium"
     ],
     "themes": [
