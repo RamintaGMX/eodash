@@ -1,6 +1,6 @@
 {
   "type": "Collection",
-  "id": "High Waterlogging - parcels",
+  "id": "Low Waterlogging - parcels",
   "stac_version": "1.1.0",
   "description": "",
   "links": [
@@ -12,13 +12,13 @@
     },
     {
       "rel": "item",
-      "href": "./High Waterlogging - parcels/2024/2024-09-01T00:00:00Z.json",
+      "href": "./Low Waterlogging - parcels/2024/2024-09-01T00:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2024-09-01T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./High Waterlogging - parcels/2024/2024-09-30T00:00:00Z.json",
+      "href": "./Low Waterlogging - parcels/2024/2024-09-30T00:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2024-09-30T00:00:00Z"
     },
@@ -26,9 +26,9 @@
       "rel": "wms",
       "href": "https://server1.landimage.info/geoserver/wms",
       "type": "image/png",
-      "title": "High Waterlogging - parcels",
+      "title": "Low Waterlogging - parcels",
       "wms:layers": [
-        "GTIFBaltic:AUT_SM_2024_09_1120_Q1"
+        "GTIFBaltic:AUT_SM_2024_09_1120_Q3"
       ],
       "role": [
         "data"
@@ -42,16 +42,16 @@
       "rel": "parent",
       "href": "../collection.json",
       "type": "application/json",
-      "title": "Soil Moisture 09 Austria"
+      "title": "SAGRIS Waterlogging Index 09 Austria (2024)"
     }
   ],
   "themes": [
     "Flooding"
   ],
-  "subcode": "sm_at_09_parcels_wms_high",
+  "subcode": "sm_at_09_parcels_wms_low",
   "proj:epsg": 3857,
   "endpointtype": "WMS_OverwriteTimes",
-  "title": "High Waterlogging - parcels",
+  "title": "Low Waterlogging - parcels",
   "extent": {
     "spatial": {
       "bbox": [
