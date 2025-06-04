@@ -1,7 +1,7 @@
 {
   "type": "Collection",
   "id": "Soil Moisture high - parcels",
-  "stac_version": "1.0.0",
+  "stac_version": "1.1.0",
   "description": "",
   "links": [
     {
@@ -13,13 +13,13 @@
     {
       "rel": "item",
       "href": "./Soil Moisture high - parcels/2024/2024-09-01T00:00:00Z.json",
-      "type": "application/json",
+      "type": "application/geo+json",
       "datetime": "2024-09-01T00:00:00Z"
     },
     {
       "rel": "item",
       "href": "./Soil Moisture high - parcels/2024/2024-09-30T00:00:00Z.json",
-      "type": "application/json",
+      "type": "application/geo+json",
       "datetime": "2024-09-30T00:00:00Z"
     },
     {
@@ -72,5 +72,5 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "other"
 }

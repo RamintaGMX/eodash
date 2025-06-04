@@ -1,7 +1,7 @@
 {
   "type": "Collection",
   "id": "Crops Lodging - parcels",
-  "stac_version": "1.0.0",
+  "stac_version": "1.1.0",
   "description": "",
   "links": [
     {
@@ -13,13 +13,13 @@
     {
       "rel": "item",
       "href": "./Crops Lodging - parcels/2024/2024-06-25T00:00:00Z.json",
-      "type": "application/json",
+      "type": "application/geo+json",
       "datetime": "2024-06-25T00:00:00Z"
     },
     {
       "rel": "item",
       "href": "./Crops Lodging - parcels/2024/2024-07-15T00:00:00Z.json",
-      "type": "application/json",
+      "type": "application/geo+json",
       "datetime": "2024-07-15T00:00:00Z"
     },
     {
@@ -72,5 +72,5 @@
       ]
     }
   },
-  "license": "proprietary"
+  "license": "other"
 }
