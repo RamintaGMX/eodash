@@ -1,5 +1,5 @@
-Name: Soil Moisture low - parcels
-Title: Soil Moisture low - parcels
+Name: Low Waterlogging - parcels
+Title: Low Waterlogging - parcels
 EodashIdentifier: sm_lt_04_parcels_wms_low
 Description: This can be **markdown** or a reference to a markdown file
 Themes:
