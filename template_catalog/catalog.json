@@ -12,11 +12,11 @@
     },
     {
       "rel": "child",
-      "href": "./Soil Moisture 04 Lithuania/collection.json",
+      "href": "./SAGRIS Waterlogging Index 04 Lithuania (2024)/collection.json",
       "type": "application/json",
-      "title": "Soil Moisture 04 Lithuania",
+      "title": "SAGRIS Waterlogging Index 04 Lithuania (2024)",
       "code": "sm_lt_04_high_medium_low",
-      "id": "Soil Moisture 04 Lithuania",
+      "id": "SAGRIS Waterlogging Index 04 Lithuania (2024)",
       "subcode": "sm_lt_04_high_medium_low",
       "themes": [
         "Flooding"
