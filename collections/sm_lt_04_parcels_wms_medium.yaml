@@ -1,5 +1,5 @@
-Name: Soil Moisture medium - parcels
-Title: Soil Moisture medium - parcels
+Name: Medium Waterlogging - parcels
+Title: Medium Waterlogging - parcels
 EodashIdentifier: sm_lt_04_parcels_wms_medium
 Description: This can be **markdown** or a reference to a markdown file
 Themes:
