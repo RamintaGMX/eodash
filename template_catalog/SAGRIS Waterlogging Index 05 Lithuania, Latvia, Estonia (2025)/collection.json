@@ -89,14 +89,14 @@
         [
           9.415283,
           46.346928,
-          17.094727,
-          49.016257
+          28.2411,
+          59.9385
         ],
         [
-          9.415283,
-          46.346928,
-          17.094727,
-          49.016257
+          20.931,
+          53.8962,
+          28.2411,
+          59.9385
         ],
         [
           9.415283,
@@ -125,8 +125,8 @@
   "summaries": {
     "subcode": [
       "sm_lit_lat_est_2025_05_parcels_wms_medium",
-      "sm_lit_lat_est_2025_05_parcels_wms_high",
-      "sm_lit_lat_est_2025_05_parcels_wms_low"
+      "sm_lit_lat_est_2025_05_parcels_wms_low",
+      "sm_lit_lat_est_2025_05_parcels_wms_high"
     ],
     "themes": [
       "Flooding"
