@@ -65,6 +65,22 @@
       }
     },
     {
+      "rel": "child",
+      "href": "./SAGRIS Waterlogging Index 05 Lithuania, Latvia, Estonia (2025)/collection.json",
+      "type": "application/json",
+      "title": "Lithuania, Latvia, Estonia 2025 spring rain-flood values",
+      "code": "sm_lt_lat_est_2025_05_high_medium_low",
+      "id": "SAGRIS Waterlogging Index 05 Lithuania, Latvia, Estonia (2025)",
+      "subcode": "sm_lt_lat_est_2025_05_high_medium_low",
+      "themes": [
+        "Flooding"
+      ],
+      "eodash:mapProjection": {
+        "name": "EPSG:3035",
+        "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
+      }
+    },
+    {
       "rel": "self",
       "href": "https://organization.github.io/repository/repository/catalog.json",
       "type": "application/json"
