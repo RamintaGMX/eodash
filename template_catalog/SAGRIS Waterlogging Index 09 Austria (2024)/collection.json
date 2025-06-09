@@ -124,9 +124,9 @@
   "license": "other",
   "summaries": {
     "subcode": [
+      "sm_at_09_parcels_wms_low",
       "sm_at_09_parcels_wms_high",
-      "sm_at_09_parcels_wms_medium",
-      "sm_at_09_parcels_wms_low"
+      "sm_at_09_parcels_wms_medium"
     ],
     "themes": [
       "Flooding"
