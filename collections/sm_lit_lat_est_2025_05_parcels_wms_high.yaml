@@ -1,0 +1,22 @@
+Name: High Waterlogging - parcels
+Title: High Waterlogging - parcels
+EodashIdentifier: sm_lit_lat_est_2025_05_parcels_wms_high
+Description: ""
+Themes:
+  - Flooding
+Resources:
+  - EndPoint: https://server1.landimage.info/geoserver/wms
+    DataProjection: 3857
+    Name: WMS
+    Type: OverwriteTimes
+    MediaType: image/png
+    Styles: []
+    LayerId: GTIFBaltic:LIT_LAT_EST_SM_2025_05_21_Q1
+    OverwriteBBox: [9.415283,46.346928,17.094727,49.016257]
+    TileSize: 256
+    Version: "1.1.1"
+    DateTimeInterval:
+      Start: "2025-05-21T00:00:00Z"
+      End: "2025-06-01:00:00Z"
+      Timedelta:
+        days: 10
