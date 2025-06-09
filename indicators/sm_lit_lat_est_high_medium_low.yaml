@@ -1,6 +1,6 @@
 Name: "SAGRIS Waterlogging Index 05 Lithuania, Latvia, Estonia (2025)"
 Title: "Lithuania, Latvia, Estonia 2025 spring rain-flood values"
-EodashIdentifier: "sm_lt_04_high_medium_low"
+EodashIdentifier: "sm_lt_lat_est_2025_05_parcels_wms_high_medium_low"
 Description: indicators/sm_lt_04_legend.md
 Bbox: [22.64524,54.94676,23.02416,55.30585]
 MapProjection:
