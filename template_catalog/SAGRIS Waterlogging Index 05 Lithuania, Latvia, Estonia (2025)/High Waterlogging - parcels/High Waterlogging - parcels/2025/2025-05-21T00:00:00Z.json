@@ -12,7 +12,7 @@
   "links": [
     {
       "rel": "wms",
-      "href": "https://server1.landimage.info/geoserver/wmts",
+      "href": "https://server1.landimage.info/geoserver/wms",
       "type": "image/png",
       "title": "High Waterlogging - parcels",
       "wms:layers": [
