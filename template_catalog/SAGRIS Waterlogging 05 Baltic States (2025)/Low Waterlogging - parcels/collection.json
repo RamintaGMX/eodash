@@ -1,6 +1,6 @@
 {
   "type": "Collection",
-  "id": "High Waterlogging - parcels",
+  "id": "Low Waterlogging - parcels",
   "stac_version": "1.1.0",
   "description": "",
   "links": [
@@ -12,13 +12,13 @@
     },
     {
       "rel": "item",
-      "href": "./High Waterlogging - parcels/2025/2025-05-21T00:00:00Z.json",
+      "href": "./Low Waterlogging - parcels/2025/2025-05-21T00:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2025-05-21T00:00:00Z"
     },
     {
       "rel": "item",
-      "href": "./High Waterlogging - parcels/2025/2025-05-31T00:00:00Z.json",
+      "href": "./Low Waterlogging - parcels/2025/2025-05-31T00:00:00Z.json",
       "type": "application/geo+json",
       "datetime": "2025-05-31T00:00:00Z"
     },
@@ -26,9 +26,9 @@
       "rel": "wms",
       "href": "https://server1.landimage.info/geoserver/wms",
       "type": "image/png",
-      "title": "High Waterlogging - parcels",
+      "title": "Low Waterlogging - parcels",
       "wms:layers": [
-        "GTIFBaltic:LIT_LAT_EST_SM_2025_05_21_Q1"
+        "GTIFBaltic:LIT_LAT_EST_SM_2025_05_21_Q3"
       ],
       "role": [
         "data"
@@ -42,16 +42,16 @@
       "rel": "parent",
       "href": "../collection.json",
       "type": "application/json",
-      "title": "Lithuania, Latvia, Estonia 2025 spring rain-flood values"
+      "title": "SAGRIS Waterlogging 05 Baltic States (2025)"
     }
   ],
   "themes": [
     "Flooding"
   ],
-  "subcode": "sm_lit_lat_est_2025_05_parcels_wms_high",
+  "subcode": "sm_lit_lat_est_2025_05_parcels_wms_low",
   "proj:epsg": 3857,
   "endpointtype": "WMS_OverwriteTimes",
-  "title": "High Waterlogging - parcels",
+  "title": "Low Waterlogging - parcels",
   "extent": {
     "spatial": {
       "bbox": [

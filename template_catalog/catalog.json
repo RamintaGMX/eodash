@@ -66,11 +66,11 @@
     },
     {
       "rel": "child",
-      "href": "./SAGRIS Waterlogging Index 05 Lithuania, Latvia, Estonia (2025)/collection.json",
+      "href": "./SAGRIS Waterlogging 05 Baltic States (2025)/collection.json",
       "type": "application/json",
-      "title": "Lithuania, Latvia, Estonia 2025 spring rain-flood values",
+      "title": "SAGRIS Waterlogging 05 Baltic States (2025)",
       "code": "sm_lt_lat_est_2025_05_high_medium_low",
-      "id": "SAGRIS Waterlogging Index 05 Lithuania, Latvia, Estonia (2025)",
+      "id": "SAGRIS Waterlogging 05 Baltic States (2025)",
       "subcode": "sm_lt_lat_est_2025_05_high_medium_low",
       "themes": [
         "Flooding"
