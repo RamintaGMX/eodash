@@ -50,11 +50,11 @@
     },
     {
       "rel": "child",
-      "href": "./SAGRIS Waterlogging Index 09 Austria (2024)/collection.json",
+      "href": "./SAGRIS Waterlogging 09 Austria (2024)/collection.json",
       "type": "application/json",
-      "title": "SAGRIS Waterlogging Index 09 Austria (2024)",
+      "title": "SAGRIS Waterlogging 09 Austria (2024)",
       "code": "sm_at_09_high_medium_low",
-      "id": "SAGRIS Waterlogging Index 09 Austria (2024)",
+      "id": "SAGRIS Waterlogging 09 Austria (2024)",
       "subcode": "sm_at_09_high_medium_low",
       "themes": [
         "Flooding"
