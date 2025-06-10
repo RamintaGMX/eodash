@@ -5,7 +5,7 @@ Description: ""
 Themes:
   - Flooding
 Resources:
-  - EndPoint: https://server1.landimage.info/geoserver/wmts
+  - EndPoint: https://server1.landimage.info/geoserver/wms
     DataProjection: 3857
     Name: WMS
     Type: OverwriteTimes
