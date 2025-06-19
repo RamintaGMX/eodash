@@ -16,7 +16,7 @@
       "type": "image/png",
       "title": "High Waterlogging - parcels",
       "wms:layers": [
-        "GTIFBaltic:LIT_2024_SM_m04_q1_q2_q3"
+        "GTIFBaltic:LIT_SM_2024_04_q1"
       ],
       "role": [
         "data"
@@ -24,9 +24,7 @@
       "wms:dimensions": {
         "TIME": "2024-04-14T00:00:00Z"
       },
-      "wms:styles": [
-        "sagris_soil_moisture_q1"
-      ],
+      "wms:styles": "",
       "wms:tilesize": 256,
       "wms:version": "1.1.1",
       "proj:epsg": 3857
