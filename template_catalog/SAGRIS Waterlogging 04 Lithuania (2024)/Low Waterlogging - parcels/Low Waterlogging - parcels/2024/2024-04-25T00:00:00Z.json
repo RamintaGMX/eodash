@@ -5,7 +5,39 @@
     "https://stac-extensions.github.io/web-map-links/v1.1.0/schema.json"
   ],
   "id": "2024-04-25T00:00:00Z",
-  "geometry": null,
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          22.64524,
+          54.94676
+        ],
+        [
+          23.02416,
+          54.94676
+        ],
+        [
+          23.02416,
+          55.30585
+        ],
+        [
+          22.64524,
+          55.30585
+        ],
+        [
+          22.64524,
+          54.94676
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    22.64524,
+    54.94676,
+    23.02416,
+    55.30585
+  ],
   "properties": {
     "datetime": "2024-04-25T00:00:00Z"
   },
@@ -48,7 +80,11 @@
       "title": "Low Waterlogging - parcels"
     }
   ],
-  "assets": {},
+  "assets": {
+    "dummy_asset": {
+      "href": ""
+    }
+  },
   "collection": "Low Waterlogging - parcels",
   "proj:epsg": 3857
 }

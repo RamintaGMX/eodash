@@ -71,6 +71,7 @@
     "01": {
       "href": "https://obs.eu-nl.otc.t-systems.com/gtif-data-geomatrix-lodging/output/LIT_2024_06_CROPS_lodging_5201873_3657058_cog.tif",
       "type": "image/tiff",
+      "title": "01",
       "proj:epsg": 3035,
       "roles": [
         "data"

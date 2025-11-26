@@ -136,24 +136,6 @@
           54.94676,
           23.02416,
           55.30585
-        ],
-        [
-          22.64524,
-          54.94676,
-          23.02416,
-          55.30585
-        ],
-        [
-          22.64524,
-          54.94676,
-          23.02416,
-          55.30585
-        ],
-        [
-          22.64524,
-          54.94676,
-          23.02416,
-          55.30585
         ]
       ]
     },
@@ -170,8 +152,8 @@
   "summaries": {
     "subcode": [
       "sm_lt_04_parcels_wms_high",
-      "sm_lt_04_parcels_wms_low",
-      "sm_lt_04_parcels_wms_medium"
+      "sm_lt_04_parcels_wms_medium",
+      "sm_lt_04_parcels_wms_low"
     ],
     "themes": [
       "Flooding"

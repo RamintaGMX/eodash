@@ -69,9 +69,9 @@
       "href": "./SAGRIS Waterlogging 05 Baltic States (2025)/collection.json",
       "type": "application/json",
       "title": "SAGRIS Waterlogging 05 Baltic States (2025)",
-      "code": "sm_lt_lat_est_2025_05_high_medium_low",
+      "code": "sm_lit_lat_est_2025_05_high_medium_low",
       "id": "SAGRIS Waterlogging 05 Baltic States (2025)",
-      "subcode": "sm_lt_lat_est_2025_05_high_medium_low",
+      "subcode": "sm_lit_lat_est_2025_05_high_medium_low",
       "themes": [
         "Flooding"
       ],

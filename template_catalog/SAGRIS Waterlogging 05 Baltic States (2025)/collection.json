@@ -77,7 +77,7 @@
       "title": "GTIF Baltics"
     }
   ],
-  "subcode": "sm_lt_lat_est_2025_05_high_medium_low",
+  "subcode": "sm_lit_lat_est_2025_05_high_medium_low",
   "eodash:mapProjection": {
     "name": "EPSG:3035",
     "def": "+proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs"
@@ -86,24 +86,6 @@
   "extent": {
     "spatial": {
       "bbox": [
-        [
-          20.931,
-          53.8962,
-          28.2411,
-          59.9385
-        ],
-        [
-          20.931,
-          53.8962,
-          28.2411,
-          59.9385
-        ],
-        [
-          20.931,
-          53.8962,
-          28.2411,
-          59.9385
-        ],
         [
           20.931,
           53.8962,
@@ -124,9 +106,9 @@
   "license": "other",
   "summaries": {
     "subcode": [
-      "sm_lit_lat_est_2025_05_parcels_wms_high",
       "sm_lit_lat_est_2025_05_parcels_wms_low",
-      "sm_lit_lat_est_2025_05_parcels_wms_medium"
+      "sm_lit_lat_est_2025_05_parcels_wms_medium",
+      "sm_lit_lat_est_2025_05_parcels_wms_high"
     ],
     "themes": [
       "Flooding"

@@ -91,24 +91,6 @@
           46.346928,
           17.094727,
           49.016257
-        ],
-        [
-          9.415283,
-          46.346928,
-          17.094727,
-          49.016257
-        ],
-        [
-          9.415283,
-          46.346928,
-          17.094727,
-          49.016257
-        ],
-        [
-          9.415283,
-          46.346928,
-          17.094727,
-          49.016257
         ]
       ]
     },
@@ -124,9 +106,9 @@
   "license": "other",
   "summaries": {
     "subcode": [
+      "sm_at_09_parcels_wms_medium",
       "sm_at_09_parcels_wms_high",
-      "sm_at_09_parcels_wms_low",
-      "sm_at_09_parcels_wms_medium"
+      "sm_at_09_parcels_wms_low"
     ],
     "themes": [
       "Flooding"
