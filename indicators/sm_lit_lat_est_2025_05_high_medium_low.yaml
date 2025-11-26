@@ -1,6 +1,6 @@
 Name: "SAGRIS Waterlogging 05 Baltic States (2025)"
 Title: "SAGRIS Waterlogging 05 Baltic States (2025)"
-EodashIdentifier: "sm_lt_lat_est_2025_05_high_medium_low"
+EodashIdentifier: "sm_lit_lat_est_2025_05_high_medium_low"
 Description: indicators/sm_lt_lat_est_2025_05_legend.md
 Bbox: [22.64524,54.94676,23.02416,55.30585]
 MapProjection:
